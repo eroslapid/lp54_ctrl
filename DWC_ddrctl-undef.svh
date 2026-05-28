@@ -1,0 +1,20536 @@
+`ifdef A2X_AW
+  `undef A2X_AW
+`endif
+
+`ifdef A2X_BLW
+  `undef A2X_BLW
+`endif
+
+`ifdef A2X_BSW
+  `undef A2X_BSW
+`endif
+
+`ifdef A2X_HBLW
+  `undef A2X_HBLW
+`endif
+
+`ifdef A2X_HPTW
+  `undef A2X_HPTW
+`endif
+
+`ifdef A2X_HRESPW
+  `undef A2X_HRESPW
+`endif
+
+`ifdef A2X_IDW
+  `undef A2X_IDW
+`endif
+
+`ifdef A2X_PP_AW
+  `undef A2X_PP_AW
+`endif
+
+`ifdef A2X_PP_BLW
+  `undef A2X_PP_BLW
+`endif
+
+`ifdef A2X_SP_AW
+  `undef A2X_SP_AW
+`endif
+
+`ifdef A2X_SP_BLW
+  `undef A2X_SP_BLW
+`endif
+
+`ifdef A2X_SP_IDW
+  `undef A2X_SP_IDW
+`endif
+
+`ifdef AHB_0
+  `undef AHB_0
+`endif
+
+`ifdef AHB_1
+  `undef AHB_1
+`endif
+
+`ifdef AHB_10
+  `undef AHB_10
+`endif
+
+`ifdef AHB_11
+  `undef AHB_11
+`endif
+
+`ifdef AHB_12
+  `undef AHB_12
+`endif
+
+`ifdef AHB_13
+  `undef AHB_13
+`endif
+
+`ifdef AHB_14
+  `undef AHB_14
+`endif
+
+`ifdef AHB_15
+  `undef AHB_15
+`endif
+
+`ifdef AHB_2
+  `undef AHB_2
+`endif
+
+`ifdef AHB_3
+  `undef AHB_3
+`endif
+
+`ifdef AHB_4
+  `undef AHB_4
+`endif
+
+`ifdef AHB_5
+  `undef AHB_5
+`endif
+
+`ifdef AHB_6
+  `undef AHB_6
+`endif
+
+`ifdef AHB_7
+  `undef AHB_7
+`endif
+
+`ifdef AHB_8
+  `undef AHB_8
+`endif
+
+`ifdef AHB_9
+  `undef AHB_9
+`endif
+
+`ifdef ASSERT_MSG_LABELED
+  `undef ASSERT_MSG_LABELED
+`endif
+
+`ifdef AXI4_0
+  `undef AXI4_0
+`endif
+
+`ifdef AXI4_1
+  `undef AXI4_1
+`endif
+
+`ifdef AXI4_10
+  `undef AXI4_10
+`endif
+
+`ifdef AXI4_11
+  `undef AXI4_11
+`endif
+
+`ifdef AXI4_12
+  `undef AXI4_12
+`endif
+
+`ifdef AXI4_13
+  `undef AXI4_13
+`endif
+
+`ifdef AXI4_14
+  `undef AXI4_14
+`endif
+
+`ifdef AXI4_15
+  `undef AXI4_15
+`endif
+
+`ifdef AXI4_2
+  `undef AXI4_2
+`endif
+
+`ifdef AXI4_3
+  `undef AXI4_3
+`endif
+
+`ifdef AXI4_4
+  `undef AXI4_4
+`endif
+
+`ifdef AXI4_5
+  `undef AXI4_5
+`endif
+
+`ifdef AXI4_6
+  `undef AXI4_6
+`endif
+
+`ifdef AXI4_7
+  `undef AXI4_7
+`endif
+
+`ifdef AXI4_8
+  `undef AXI4_8
+`endif
+
+`ifdef AXI4_9
+  `undef AXI4_9
+`endif
+
+`ifdef DBG_DFI_ECC_CTRL_PP_WIDTH
+  `undef DBG_DFI_ECC_CTRL_PP_WIDTH
+`endif
+
+`ifdef DDRCTL_1BIT_REG_FIELD_SIZE
+  `undef DDRCTL_1BIT_REG_FIELD_SIZE
+`endif
+
+`ifdef DDRCTL_1DDRC_2DFI
+  `undef DDRCTL_1DDRC_2DFI
+`endif
+
+`ifdef DDRCTL_1DDRC_2DFI_EN
+  `undef DDRCTL_1DDRC_2DFI_EN
+`endif
+
+`ifdef DDRCTL_AM_LUT_CS_BASE
+  `undef DDRCTL_AM_LUT_CS_BASE
+`endif
+
+`ifdef DDRCTL_AM_LUT_MAX_ACTIVE_HIF_ADDR_BASE
+  `undef DDRCTL_AM_LUT_MAX_ACTIVE_HIF_ADDR_BASE
+`endif
+
+`ifdef DDRCTL_CAPAR_CMDFIFO_ADDR_BITS
+  `undef DDRCTL_CAPAR_CMDFIFO_ADDR_BITS
+`endif
+
+`ifdef DDRCTL_CAPAR_CMDFIFO_DEPTH
+  `undef DDRCTL_CAPAR_CMDFIFO_DEPTH
+`endif
+
+`ifdef DDRCTL_CHB_ADRW
+  `undef DDRCTL_CHB_ADRW
+`endif
+
+`ifdef DDRCTL_CHB_ARW
+  `undef DDRCTL_CHB_ARW
+`endif
+
+`ifdef DDRCTL_CHB_BEW
+  `undef DDRCTL_CHB_BEW
+`endif
+
+`ifdef DDRCTL_CHB_BIDW
+  `undef DDRCTL_CHB_BIDW
+`endif
+
+`ifdef DDRCTL_CHB_BRW
+  `undef DDRCTL_CHB_BRW
+`endif
+
+`ifdef DDRCTL_CHB_BWCWINWD
+  `undef DDRCTL_CHB_BWCWINWD
+`endif
+
+`ifdef DDRCTL_CHB_CAM_BUSY_THR_HPR
+  `undef DDRCTL_CHB_CAM_BUSY_THR_HPR
+`endif
+
+`ifdef DDRCTL_CHB_CAM_BUSY_THR_LPR
+  `undef DDRCTL_CHB_CAM_BUSY_THR_LPR
+`endif
+
+`ifdef DDRCTL_CHB_CAM_BUSY_THR_WR
+  `undef DDRCTL_CHB_CAM_BUSY_THR_WR
+`endif
+
+`ifdef DDRCTL_CHB_CAM_FREE_THR_HPR
+  `undef DDRCTL_CHB_CAM_FREE_THR_HPR
+`endif
+
+`ifdef DDRCTL_CHB_CAM_FREE_THR_LPR
+  `undef DDRCTL_CHB_CAM_FREE_THR_LPR
+`endif
+
+`ifdef DDRCTL_CHB_CAM_FREE_THR_WR
+  `undef DDRCTL_CHB_CAM_FREE_THR_WR
+`endif
+
+`ifdef DDRCTL_CHB_CAM_MIDDLE_THR_HPR
+  `undef DDRCTL_CHB_CAM_MIDDLE_THR_HPR
+`endif
+
+`ifdef DDRCTL_CHB_CAM_MIDDLE_THR_LPR
+  `undef DDRCTL_CHB_CAM_MIDDLE_THR_LPR
+`endif
+
+`ifdef DDRCTL_CHB_CAM_MIDDLE_THR_WR
+  `undef DDRCTL_CHB_CAM_MIDDLE_THR_WR
+`endif
+
+`ifdef DDRCTL_CHB_CBSYW
+  `undef DDRCTL_CHB_CBSYW
+`endif
+
+`ifdef DDRCTL_CHB_CDBID
+  `undef DDRCTL_CHB_CDBID
+`endif
+
+`ifdef DDRCTL_CHB_CHI2CORE_SYNCD
+  `undef DDRCTL_CHB_CHI2CORE_SYNCD
+`endif
+
+`ifdef DDRCTL_CHB_CHI_DW_GT_HIF_DW_VAL
+  `undef DDRCTL_CHB_CHI_DW_GT_HIF_DW_VAL
+`endif
+
+`ifdef DDRCTL_CHB_CHI_DW_LT_HIF_DW_VAL
+  `undef DDRCTL_CHB_CHI_DW_LT_HIF_DW_VAL
+`endif
+
+`ifdef DDRCTL_CHB_CHI_ECCW
+  `undef DDRCTL_CHB_CHI_ECCW
+`endif
+
+`ifdef DDRCTL_CHB_CHI_TO_HIF_DW_RATIO
+  `undef DDRCTL_CHB_CHI_TO_HIF_DW_RATIO
+`endif
+
+`ifdef DDRCTL_CHB_CORE2CHI_SYNCD
+  `undef DDRCTL_CHB_CORE2CHI_SYNCD
+`endif
+
+`ifdef DDRCTL_CHB_DAT_OPCW
+  `undef DDRCTL_CHB_DAT_OPCW
+`endif
+
+`ifdef DDRCTL_CHB_DBW
+  `undef DDRCTL_CHB_DBW
+`endif
+
+`ifdef DDRCTL_CHB_DCHKW
+  `undef DDRCTL_CHB_DCHKW
+`endif
+
+`ifdef DDRCTL_CHB_DIDW
+  `undef DDRCTL_CHB_DIDW
+`endif
+
+`ifdef DDRCTL_CHB_DRBIDW
+  `undef DDRCTL_CHB_DRBIDW
+`endif
+
+`ifdef DDRCTL_CHB_DRSVDCW
+  `undef DDRCTL_CHB_DRSVDCW
+`endif
+
+`ifdef DDRCTL_CHB_DSRCW
+  `undef DDRCTL_CHB_DSRCW
+`endif
+
+`ifdef DDRCTL_CHB_DW
+  `undef DDRCTL_CHB_DW
+`endif
+
+`ifdef DDRCTL_CHB_DW_256
+  `undef DDRCTL_CHB_DW_256
+`endif
+
+`ifdef DDRCTL_CHB_EARLY_POP
+  `undef DDRCTL_CHB_EARLY_POP
+`endif
+
+`ifdef DDRCTL_CHB_EARLY_PUSH
+  `undef DDRCTL_CHB_EARLY_PUSH
+`endif
+
+`ifdef DDRCTL_CHB_ENDW
+  `undef DDRCTL_CHB_ENDW
+`endif
+
+`ifdef DDRCTL_CHB_EXCAW
+  `undef DDRCTL_CHB_EXCAW
+`endif
+
+`ifdef DDRCTL_CHB_FSDW
+  `undef DDRCTL_CHB_FSDW
+`endif
+
+`ifdef DDRCTL_CHB_HIF_BS_MAX_NUM_CHUNKS
+  `undef DDRCTL_CHB_HIF_BS_MAX_NUM_CHUNKS
+`endif
+
+`ifdef DDRCTL_CHB_HIF_BS_MAX_NUM_CHUNKS_CLOG2
+  `undef DDRCTL_CHB_HIF_BS_MAX_NUM_CHUNKS_CLOG2
+`endif
+
+`ifdef DDRCTL_CHB_HIF_CRDT_CNT_WIDTH
+  `undef DDRCTL_CHB_HIF_CRDT_CNT_WIDTH
+`endif
+
+`ifdef DDRCTL_CHB_HIF_MAX_NUM_CHUNKS_PER_BEAT
+  `undef DDRCTL_CHB_HIF_MAX_NUM_CHUNKS_PER_BEAT
+`endif
+
+`ifdef DDRCTL_CHB_HIF_MAX_NUM_CHUNKS_PER_BEAT_CLOG2
+  `undef DDRCTL_CHB_HIF_MAX_NUM_CHUNKS_PER_BEAT_CLOG2
+`endif
+
+`ifdef DDRCTL_CHB_HIF_NUM_BEATS_1_VAL
+  `undef DDRCTL_CHB_HIF_NUM_BEATS_1_VAL
+`endif
+
+`ifdef DDRCTL_CHB_HIF_NUM_BEATS_2_VAL
+  `undef DDRCTL_CHB_HIF_NUM_BEATS_2_VAL
+`endif
+
+`ifdef DDRCTL_CHB_HIF_NUM_BEATS_4_VAL
+  `undef DDRCTL_CHB_HIF_NUM_BEATS_4_VAL
+`endif
+
+`ifdef DDRCTL_CHB_HIF_NUM_BEATS_8_VAL
+  `undef DDRCTL_CHB_HIF_NUM_BEATS_8_VAL
+`endif
+
+`ifdef DDRCTL_CHB_HIF_POISW
+  `undef DDRCTL_CHB_HIF_POISW
+`endif
+
+`ifdef DDRCTL_CHB_HIF_TO_CHI_DW_RATIO
+  `undef DDRCTL_CHB_HIF_TO_CHI_DW_RATIO
+`endif
+
+`ifdef DDRCTL_CHB_INT_DBIDW
+  `undef DDRCTL_CHB_INT_DBIDW
+`endif
+
+`ifdef DDRCTL_CHB_LAT_ERROR_MARGIN
+  `undef DDRCTL_CHB_LAT_ERROR_MARGIN
+`endif
+
+`ifdef DDRCTL_CHB_LPIDEXW
+  `undef DDRCTL_CHB_LPIDEXW
+`endif
+
+`ifdef DDRCTL_CHB_LPIDW
+  `undef DDRCTL_CHB_LPIDW
+`endif
+
+`ifdef DDRCTL_CHB_LSW
+  `undef DDRCTL_CHB_LSW
+`endif
+
+`ifdef DDRCTL_CHB_MATTW
+  `undef DDRCTL_CHB_MATTW
+`endif
+
+`ifdef DDRCTL_CHB_MAX_DATFLITS
+  `undef DDRCTL_CHB_MAX_DATFLITS
+`endif
+
+`ifdef DDRCTL_CHB_MAX_LCRD
+  `undef DDRCTL_CHB_MAX_LCRD
+`endif
+
+`ifdef DDRCTL_CHB_MAX_NUM_HIF_BUF_PER_CLN
+  `undef DDRCTL_CHB_MAX_NUM_HIF_BUF_PER_CLN
+`endif
+
+`ifdef DDRCTL_CHB_MAX_PRC_LINES
+  `undef DDRCTL_CHB_MAX_PRC_LINES
+`endif
+
+`ifdef DDRCTL_CHB_MPAMW
+  `undef DDRCTL_CHB_MPAMW
+`endif
+
+`ifdef DDRCTL_CHB_MPAM_HAS_MAXLIMIT
+  `undef DDRCTL_CHB_MPAM_HAS_MAXLIMIT
+`endif
+
+`ifdef DDRCTL_CHB_MPAM_HAS_MINLIMIT
+  `undef DDRCTL_CHB_MPAM_HAS_MINLIMIT
+`endif
+
+`ifdef DDRCTL_CHB_MPAM_HAS_NONSEC_PARTS
+  `undef DDRCTL_CHB_MPAM_HAS_NONSEC_PARTS
+`endif
+
+`ifdef DDRCTL_CHB_MPAM_HAS_SEC_PARTS
+  `undef DDRCTL_CHB_MPAM_HAS_SEC_PARTS
+`endif
+
+`ifdef DDRCTL_CHB_MPAM_MBWWIN_STEPS
+  `undef DDRCTL_CHB_MPAM_MBWWIN_STEPS
+`endif
+
+`ifdef DDRCTL_CHB_MPAM_NONSEC_PARTS
+  `undef DDRCTL_CHB_MPAM_NONSEC_PARTS
+`endif
+
+`ifdef DDRCTL_CHB_MPAM_SEC_PARTS
+  `undef DDRCTL_CHB_MPAM_SEC_PARTS
+`endif
+
+`ifdef DDRCTL_CHB_NIDW
+  `undef DDRCTL_CHB_NIDW
+`endif
+
+`ifdef DDRCTL_CHB_NSW
+  `undef DDRCTL_CHB_NSW
+`endif
+
+`ifdef DDRCTL_CHB_NUM_BEATS_BL
+  `undef DDRCTL_CHB_NUM_BEATS_BL
+`endif
+
+`ifdef DDRCTL_CHB_NUM_BEATS_BL16
+  `undef DDRCTL_CHB_NUM_BEATS_BL16
+`endif
+
+`ifdef DDRCTL_CHB_NUM_BEATS_BL32
+  `undef DDRCTL_CHB_NUM_BEATS_BL32
+`endif
+
+`ifdef DDRCTL_CHB_NUM_BEATS_BL8
+  `undef DDRCTL_CHB_NUM_BEATS_BL8
+`endif
+
+`ifdef DDRCTL_CHB_NUM_BEATS_BL_LOG2
+  `undef DDRCTL_CHB_NUM_BEATS_BL_LOG2
+`endif
+
+`ifdef DDRCTL_CHB_NUM_CHI_BEATS_BL16
+  `undef DDRCTL_CHB_NUM_CHI_BEATS_BL16
+`endif
+
+`ifdef DDRCTL_CHB_NUM_CHI_BEATS_BL16W
+  `undef DDRCTL_CHB_NUM_CHI_BEATS_BL16W
+`endif
+
+`ifdef DDRCTL_CHB_NUM_CHI_BEATS_BL32
+  `undef DDRCTL_CHB_NUM_CHI_BEATS_BL32
+`endif
+
+`ifdef DDRCTL_CHB_NUM_CHI_BEATS_BL32W
+  `undef DDRCTL_CHB_NUM_CHI_BEATS_BL32W
+`endif
+
+`ifdef DDRCTL_CHB_NUM_CHI_BEATS_BL8
+  `undef DDRCTL_CHB_NUM_CHI_BEATS_BL8
+`endif
+
+`ifdef DDRCTL_CHB_NUM_CHI_BEATS_BL8W
+  `undef DDRCTL_CHB_NUM_CHI_BEATS_BL8W
+`endif
+
+`ifdef DDRCTL_CHB_NUM_DBID
+  `undef DDRCTL_CHB_NUM_DBID
+`endif
+
+`ifdef DDRCTL_CHB_NUM_RSPPORTS
+  `undef DDRCTL_CHB_NUM_RSPPORTS
+`endif
+
+`ifdef DDRCTL_CHB_NUM_TMR_GROUPS
+  `undef DDRCTL_CHB_NUM_TMR_GROUPS
+`endif
+
+`ifdef DDRCTL_CHB_NUM_WRB_RAM
+  `undef DDRCTL_CHB_NUM_WRB_RAM
+`endif
+
+`ifdef DDRCTL_CHB_ORW
+  `undef DDRCTL_CHB_ORW
+`endif
+
+`ifdef DDRCTL_CHB_PARTIDW
+  `undef DDRCTL_CHB_PARTIDW
+`endif
+
+`ifdef DDRCTL_CHB_PCLS_RETIME_EN
+  `undef DDRCTL_CHB_PCLS_RETIME_EN
+`endif
+
+`ifdef DDRCTL_CHB_PCRDW
+  `undef DDRCTL_CHB_PCRDW
+`endif
+
+`ifdef DDRCTL_CHB_POISW
+  `undef DDRCTL_CHB_POISW
+`endif
+
+`ifdef DDRCTL_CHB_POIS_EN_VAL
+  `undef DDRCTL_CHB_POIS_EN_VAL
+`endif
+
+`ifdef DDRCTL_CHB_PRBIDW
+  `undef DDRCTL_CHB_PRBIDW
+`endif
+
+`ifdef DDRCTL_CHB_PRC_TIMER_MAX_DIV
+  `undef DDRCTL_CHB_PRC_TIMER_MAX_DIV
+`endif
+
+`ifdef DDRCTL_CHB_PREFETCH_EN_VAL
+  `undef DDRCTL_CHB_PREFETCH_EN_VAL
+`endif
+
+`ifdef DDRCTL_CHB_PSTORE_RETIME_RT_GRANT
+  `undef DDRCTL_CHB_PSTORE_RETIME_RT_GRANT
+`endif
+
+`ifdef DDRCTL_CHB_QOSW
+  `undef DDRCTL_CHB_QOSW
+`endif
+
+`ifdef DDRCTL_CHB_RDB_DMD_RD_RAM_DP
+  `undef DDRCTL_CHB_RDB_DMD_RD_RAM_DP
+`endif
+
+`ifdef DDRCTL_CHB_RDB_EXTRAM
+  `undef DDRCTL_CHB_RDB_EXTRAM
+`endif
+
+`ifdef DDRCTL_CHB_RDB_PREF_RD_MAX_RAM_DP
+  `undef DDRCTL_CHB_RDB_PREF_RD_MAX_RAM_DP
+`endif
+
+`ifdef DDRCTL_CHB_RDB_PREF_RD_RAM_DP
+  `undef DDRCTL_CHB_RDB_PREF_RD_RAM_DP
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_ADDR_WD
+  `undef DDRCTL_CHB_RDB_RAM_ADDR_WD
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_DATA_WD
+  `undef DDRCTL_CHB_RDB_RAM_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_DP
+  `undef DDRCTL_CHB_RDB_RAM_DP
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_POISW
+  `undef DDRCTL_CHB_RDB_RAM_POISW
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_PREF_RD_REQ_INFO_REG_OUT
+  `undef DDRCTL_CHB_RDB_RAM_PREF_RD_REQ_INFO_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_PROTW
+  `undef DDRCTL_CHB_RDB_RAM_PROTW
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_PYLD_DATA_WD
+  `undef DDRCTL_CHB_RDB_RAM_PYLD_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_RAW_DATA_WD
+  `undef DDRCTL_CHB_RDB_RAM_RAW_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_RD_ADDR_REG_OUT
+  `undef DDRCTL_CHB_RDB_RAM_RD_ADDR_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_RD_DATA_REG_IN
+  `undef DDRCTL_CHB_RDB_RAM_RD_DATA_REG_IN
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_RD_DATA_WD
+  `undef DDRCTL_CHB_RDB_RAM_RD_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_RD_LATENCY
+  `undef DDRCTL_CHB_RDB_RAM_RD_LATENCY
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_RD_REQ_INFO_REG_OUT
+  `undef DDRCTL_CHB_RDB_RAM_RD_REQ_INFO_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_WR_DATA_WD
+  `undef DDRCTL_CHB_RDB_RAM_WR_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_WR_LATENCY
+  `undef DDRCTL_CHB_RDB_RAM_WR_LATENCY
+`endif
+
+`ifdef DDRCTL_CHB_RDB_RAM_WR_REG_OUT
+  `undef DDRCTL_CHB_RDB_RAM_WR_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_RD_BL16_DIDMW
+  `undef DDRCTL_CHB_RD_BL16_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_RD_BL32_DIDMW
+  `undef DDRCTL_CHB_RD_BL32_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_RD_BL8_DIDMW
+  `undef DDRCTL_CHB_RD_BL8_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_RD_DIDMW
+  `undef DDRCTL_CHB_RD_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_RD_PROTQ_SIZE
+  `undef DDRCTL_CHB_RD_PROTQ_SIZE
+`endif
+
+`ifdef DDRCTL_CHB_REQ_AQ_DEPTH
+  `undef DDRCTL_CHB_REQ_AQ_DEPTH
+`endif
+
+`ifdef DDRCTL_CHB_REQ_AQ_DEPTH_LG2
+  `undef DDRCTL_CHB_REQ_AQ_DEPTH_LG2
+`endif
+
+`ifdef DDRCTL_CHB_REQ_OPCW
+  `undef DDRCTL_CHB_REQ_OPCW
+`endif
+
+`ifdef DDRCTL_CHB_REQ_SZW
+  `undef DDRCTL_CHB_REQ_SZW
+`endif
+
+`ifdef DDRCTL_CHB_RETIME_WPQ_IN
+  `undef DDRCTL_CHB_RETIME_WPQ_IN
+`endif
+
+`ifdef DDRCTL_CHB_RPERW
+  `undef DDRCTL_CHB_RPERW
+`endif
+
+`ifdef DDRCTL_CHB_RPW
+  `undef DDRCTL_CHB_RPW
+`endif
+
+`ifdef DDRCTL_CHB_RQOS_TW
+  `undef DDRCTL_CHB_RQOS_TW
+`endif
+
+`ifdef DDRCTL_CHB_RRB_CBGINFOW
+  `undef DDRCTL_CHB_RRB_CBGINFOW
+`endif
+
+`ifdef DDRCTL_CHB_RRB_CBGINFO_EN
+  `undef DDRCTL_CHB_RRB_CBGINFO_EN
+`endif
+
+`ifdef DDRCTL_CHB_RRB_DIDAW
+  `undef DDRCTL_CHB_RRB_DIDAW
+`endif
+
+`ifdef DDRCTL_CHB_RRB_DIDMW
+  `undef DDRCTL_CHB_RRB_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_RRB_NHIFBW
+  `undef DDRCTL_CHB_RRB_NHIFBW
+`endif
+
+`ifdef DDRCTL_CHB_RRSVDCW
+  `undef DDRCTL_CHB_RRSVDCW
+`endif
+
+`ifdef DDRCTL_CHB_RSP_OPCW
+  `undef DDRCTL_CHB_RSP_OPCW
+`endif
+
+`ifdef DDRCTL_CHB_RTADRW
+  `undef DDRCTL_CHB_RTADRW
+`endif
+
+`ifdef DDRCTL_CHB_RTLSTOST
+  `undef DDRCTL_CHB_RTLSTOST
+`endif
+
+`ifdef DDRCTL_CHB_RTLST_EXTRAM
+  `undef DDRCTL_CHB_RTLST_EXTRAM
+`endif
+
+`ifdef DDRCTL_CHB_RTLST_EXTRAM_TRUE
+  `undef DDRCTL_CHB_RTLST_EXTRAM_TRUE
+`endif
+
+`ifdef DDRCTL_CHB_RTLST_NUM_LISTS
+  `undef DDRCTL_CHB_RTLST_NUM_LISTS
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_DATA_WD
+  `undef DDRCTL_CHB_RT_RAM_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_ECCW
+  `undef DDRCTL_CHB_RT_RAM_ECCW
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_ECC_EN
+  `undef DDRCTL_CHB_RT_RAM_ECC_EN
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_ECC_SEC
+  `undef DDRCTL_CHB_RT_RAM_ECC_SEC
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_RAW_DATA_WD
+  `undef DDRCTL_CHB_RT_RAM_RAW_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_RD_ADDR_REG_OUT
+  `undef DDRCTL_CHB_RT_RAM_RD_ADDR_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_RD_DATA_REG_IN
+  `undef DDRCTL_CHB_RT_RAM_RD_DATA_REG_IN
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_RD_LATENCY
+  `undef DDRCTL_CHB_RT_RAM_RD_LATENCY
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_WR_LATENCY
+  `undef DDRCTL_CHB_RT_RAM_WR_LATENCY
+`endif
+
+`ifdef DDRCTL_CHB_RT_RAM_WR_REG_OUT
+  `undef DDRCTL_CHB_RT_RAM_WR_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_RXDAT_DELAY_CYCLES
+  `undef DDRCTL_CHB_RXDAT_DELAY_CYCLES
+`endif
+
+`ifdef DDRCTL_CHB_RXREQ_DELAY_CYCLES
+  `undef DDRCTL_CHB_RXREQ_DELAY_CYCLES
+`endif
+
+`ifdef DDRCTL_CHB_SATTW
+  `undef DDRCTL_CHB_SATTW
+`endif
+
+`ifdef DDRCTL_CHB_SBR_PORTP1
+  `undef DDRCTL_CHB_SBR_PORTP1
+`endif
+
+`ifdef DDRCTL_CHB_SRC_WIDTH
+  `undef DDRCTL_CHB_SRC_WIDTH
+`endif
+
+`ifdef DDRCTL_CHB_SYNC_MODE
+  `undef DDRCTL_CHB_SYNC_MODE
+`endif
+
+`ifdef DDRCTL_CHB_TGOPW
+  `undef DDRCTL_CHB_TGOPW
+`endif
+
+`ifdef DDRCTL_CHB_TOKENMGR_REG
+  `undef DDRCTL_CHB_TOKENMGR_REG
+`endif
+
+`ifdef DDRCTL_CHB_TOKENMGR_REG_EN
+  `undef DDRCTL_CHB_TOKENMGR_REG_EN
+`endif
+
+`ifdef DDRCTL_CHB_TSZ_REG_0
+  `undef DDRCTL_CHB_TSZ_REG_0
+`endif
+
+`ifdef DDRCTL_CHB_TSZ_REG_1
+  `undef DDRCTL_CHB_TSZ_REG_1
+`endif
+
+`ifdef DDRCTL_CHB_TSZ_REG_2
+  `undef DDRCTL_CHB_TSZ_REG_2
+`endif
+
+`ifdef DDRCTL_CHB_TSZ_REG_3
+  `undef DDRCTL_CHB_TSZ_REG_3
+`endif
+
+`ifdef DDRCTL_CHB_TSZ_REG_NUM
+  `undef DDRCTL_CHB_TSZ_REG_NUM
+`endif
+
+`ifdef DDRCTL_CHB_TSZ_SUBREG_EN
+  `undef DDRCTL_CHB_TSZ_SUBREG_EN
+`endif
+
+`ifdef DDRCTL_CHB_TSZ_SUBREG_NUM
+  `undef DDRCTL_CHB_TSZ_SUBREG_NUM
+`endif
+
+`ifdef DDRCTL_CHB_TTW
+  `undef DDRCTL_CHB_TTW
+`endif
+
+`ifdef DDRCTL_CHB_TXDAT_DELAY_CYCLES
+  `undef DDRCTL_CHB_TXDAT_DELAY_CYCLES
+`endif
+
+`ifdef DDRCTL_CHB_TXDAT_DELAY_CYCLES_EN
+  `undef DDRCTL_CHB_TXDAT_DELAY_CYCLES_EN
+`endif
+
+`ifdef DDRCTL_CHB_TXIDW
+  `undef DDRCTL_CHB_TXIDW
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_FIFO_0_DEPTH
+  `undef DDRCTL_CHB_TXRESP_FIFO_0_DEPTH
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_FIFO_1_DEPTH
+  `undef DDRCTL_CHB_TXRESP_FIFO_1_DEPTH
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_FIFO_2_DEPTH
+  `undef DDRCTL_CHB_TXRESP_FIFO_2_DEPTH
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_FIFO_3_DEPTH
+  `undef DDRCTL_CHB_TXRESP_FIFO_3_DEPTH
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_FIFO_4_DEPTH
+  `undef DDRCTL_CHB_TXRESP_FIFO_4_DEPTH
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_SRC0_PRIO
+  `undef DDRCTL_CHB_TXRESP_SRC0_PRIO
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_SRC1_PRIO
+  `undef DDRCTL_CHB_TXRESP_SRC1_PRIO
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_SRC2_PRIO
+  `undef DDRCTL_CHB_TXRESP_SRC2_PRIO
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_SRC3_PRIO
+  `undef DDRCTL_CHB_TXRESP_SRC3_PRIO
+`endif
+
+`ifdef DDRCTL_CHB_TXRESP_SRC4_PRIO
+  `undef DDRCTL_CHB_TXRESP_SRC4_PRIO
+`endif
+
+`ifdef DDRCTL_CHB_TXRSP_DELAY_CYCLES
+  `undef DDRCTL_CHB_TXRSP_DELAY_CYCLES
+`endif
+
+`ifdef DDRCTL_CHB_TXSACT_EN
+  `undef DDRCTL_CHB_TXSACT_EN
+`endif
+
+`ifdef DDRCTL_CHB_UPSZ_RT
+  `undef DDRCTL_CHB_UPSZ_RT
+`endif
+
+`ifdef DDRCTL_CHB_UPSZ_RT_1
+  `undef DDRCTL_CHB_UPSZ_RT_1
+`endif
+
+`ifdef DDRCTL_CHB_VERSION
+  `undef DDRCTL_CHB_VERSION
+`endif
+
+`ifdef DDRCTL_CHB_WDATA_PTR_BITS
+  `undef DDRCTL_CHB_WDATA_PTR_BITS
+`endif
+
+`ifdef DDRCTL_CHB_WDPTR_BL16_DIDMW
+  `undef DDRCTL_CHB_WDPTR_BL16_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_WDPTR_BL32_DIDMW
+  `undef DDRCTL_CHB_WDPTR_BL32_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_WDPTR_BL8_DIDMW
+  `undef DDRCTL_CHB_WDPTR_BL8_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_WDPTR_DIDAW
+  `undef DDRCTL_CHB_WDPTR_DIDAW
+`endif
+
+`ifdef DDRCTL_CHB_WDPTR_DIDMW
+  `undef DDRCTL_CHB_WDPTR_DIDMW
+`endif
+
+`ifdef DDRCTL_CHB_WDPTR_NDIDW
+  `undef DDRCTL_CHB_WDPTR_NDIDW
+`endif
+
+`ifdef DDRCTL_CHB_WPQ_PCMO_DP
+  `undef DDRCTL_CHB_WPQ_PCMO_DP
+`endif
+
+`ifdef DDRCTL_CHB_WQOS_TW
+  `undef DDRCTL_CHB_WQOS_TW
+`endif
+
+`ifdef DDRCTL_CHB_WRB_DBID_RLS_LAT
+  `undef DDRCTL_CHB_WRB_DBID_RLS_LAT
+`endif
+
+`ifdef DDRCTL_CHB_WRB_EXTRAM
+  `undef DDRCTL_CHB_WRB_EXTRAM
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_ADDR_WD
+  `undef DDRCTL_CHB_WRB_RAM_ADDR_WD
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_DATA_WD
+  `undef DDRCTL_CHB_WRB_RAM_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_DP
+  `undef DDRCTL_CHB_WRB_RAM_DP
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_POISW
+  `undef DDRCTL_CHB_WRB_RAM_POISW
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_PROTW
+  `undef DDRCTL_CHB_WRB_RAM_PROTW
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_PYLD_DATA_WD
+  `undef DDRCTL_CHB_WRB_RAM_PYLD_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_RAW_DATA_WD
+  `undef DDRCTL_CHB_WRB_RAM_RAW_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_RD_ADDR_REG_OUT
+  `undef DDRCTL_CHB_WRB_RAM_RD_ADDR_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_RD_DATA_REG_IN
+  `undef DDRCTL_CHB_WRB_RAM_RD_DATA_REG_IN
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_RD_DATA_WD
+  `undef DDRCTL_CHB_WRB_RAM_RD_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_RD_LATENCY
+  `undef DDRCTL_CHB_WRB_RAM_RD_LATENCY
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_RD_REQ_INFO_REG_OUT
+  `undef DDRCTL_CHB_WRB_RAM_RD_REQ_INFO_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_WR_DATA_WD
+  `undef DDRCTL_CHB_WRB_RAM_WR_DATA_WD
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_WR_LATENCY
+  `undef DDRCTL_CHB_WRB_RAM_WR_LATENCY
+`endif
+
+`ifdef DDRCTL_CHB_WRB_RAM_WR_REG_OUT
+  `undef DDRCTL_CHB_WRB_RAM_WR_REG_OUT
+`endif
+
+`ifdef DDRCTL_CHB_WRB_SIZE
+  `undef DDRCTL_CHB_WRB_SIZE
+`endif
+
+`ifdef DDRCTL_CHB_WR_PROTQ_EXTRA_DP
+  `undef DDRCTL_CHB_WR_PROTQ_EXTRA_DP
+`endif
+
+`ifdef DDRCTL_CHB_WR_PROTQ_SIZE
+  `undef DDRCTL_CHB_WR_PROTQ_SIZE
+`endif
+
+`ifdef DDRCTL_CHB_XFRSZ
+  `undef DDRCTL_CHB_XFRSZ
+`endif
+
+`ifdef DDRCTL_CHB_XFRSZ_LOG2
+  `undef DDRCTL_CHB_XFRSZ_LOG2
+`endif
+
+`ifdef DDRCTL_CHB_XSNPW
+  `undef DDRCTL_CHB_XSNPW
+`endif
+
+`ifdef DDRCTL_DDRC_CID_WIDTH
+  `undef DDRCTL_DDRC_CID_WIDTH
+`endif
+
+`ifdef DDRCTL_DDRC_CID_WIDTH_0
+  `undef DDRCTL_DDRC_CID_WIDTH_0
+`endif
+
+`ifdef DDRCTL_DDRC_LRANK_BITS
+  `undef DDRCTL_DDRC_LRANK_BITS
+`endif
+
+`ifdef DDRCTL_DDRC_MAX_NUM_STACKS
+  `undef DDRCTL_DDRC_MAX_NUM_STACKS
+`endif
+
+`ifdef DDRCTL_DDRC_NUM_LRANKS_TOTAL
+  `undef DDRCTL_DDRC_NUM_LRANKS_TOTAL
+`endif
+
+`ifdef DDRCTL_DDRC_NUM_LRANKS_TOTAL_1
+  `undef DDRCTL_DDRC_NUM_LRANKS_TOTAL_1
+`endif
+
+`ifdef DDRCTL_DDRC_NUM_LRANKS_TOTAL_GT_0
+  `undef DDRCTL_DDRC_NUM_LRANKS_TOTAL_GT_0
+`endif
+
+`ifdef DDRCTL_DDRC_NUM_PR_CONSTRAINTS
+  `undef DDRCTL_DDRC_NUM_PR_CONSTRAINTS
+`endif
+
+`ifdef DDRCTL_DDRC_NUM_TOTAL_BANKS
+  `undef DDRCTL_DDRC_NUM_TOTAL_BANKS
+`endif
+
+`ifdef DDRCTL_DDRC_RANKBANK_BITS
+  `undef DDRCTL_DDRC_RANKBANK_BITS
+`endif
+
+`ifdef DDRCTL_DDR_DCH_HBW
+  `undef DDRCTL_DDR_DCH_HBW
+`endif
+
+`ifdef DDRCTL_DDR_DCH_STAGGER_BITS
+  `undef DDRCTL_DDR_DCH_STAGGER_BITS
+`endif
+
+`ifdef DDRCTL_DDR_DCH_STAGGER_MAX
+  `undef DDRCTL_DDR_DCH_STAGGER_MAX
+`endif
+
+`ifdef DDRCTL_DDR_DRAM_DATA_WIDTH
+  `undef DDRCTL_DDR_DRAM_DATA_WIDTH
+`endif
+
+`ifdef DDRCTL_DDR_DRAM_ECC_WIDTH
+  `undef DDRCTL_DDR_DRAM_ECC_WIDTH
+`endif
+
+`ifdef DDRCTL_DDR_DUAL_CHANNEL_EN
+  `undef DDRCTL_DDR_DUAL_CHANNEL_EN
+`endif
+
+`ifdef DDRCTL_DDR_EN
+  `undef DDRCTL_DDR_EN
+`endif
+
+`ifdef DDRCTL_DDR_OR_MEMC_LPDDR4
+  `undef DDRCTL_DDR_OR_MEMC_LPDDR4
+`endif
+
+`ifdef DDRCTL_DFI0_CS_WIDTH
+  `undef DDRCTL_DFI0_CS_WIDTH
+`endif
+
+`ifdef DDRCTL_DFI1_CS_WIDTH
+  `undef DDRCTL_DFI1_CS_WIDTH
+`endif
+
+`ifdef DDRCTL_DFI_BG_WIDTH
+  `undef DDRCTL_DFI_BG_WIDTH
+`endif
+
+`ifdef DDRCTL_DFI_CID_WIDTH
+  `undef DDRCTL_DFI_CID_WIDTH
+`endif
+
+`ifdef DDRCTL_DFI_CTRLMSG
+  `undef DDRCTL_DFI_CTRLMSG
+`endif
+
+`ifdef DDRCTL_DFI_DATAEN_WIDTH
+  `undef DDRCTL_DFI_DATAEN_WIDTH
+`endif
+
+`ifdef DDRCTL_DFI_DATA_WIDTH
+  `undef DDRCTL_DFI_DATA_WIDTH
+`endif
+
+`ifdef DDRCTL_DFI_HIF_CMD_ADDR_EN_1
+  `undef DDRCTL_DFI_HIF_CMD_ADDR_EN_1
+`endif
+
+`ifdef DDRCTL_DFI_HIF_CMD_WDATA_PTR_EN_1
+  `undef DDRCTL_DFI_HIF_CMD_WDATA_PTR_EN_1
+`endif
+
+`ifdef DDRCTL_DFI_HIF_CMD_WDATA_PTR_RANGE
+  `undef DDRCTL_DFI_HIF_CMD_WDATA_PTR_RANGE
+`endif
+
+`ifdef DDRCTL_DFI_HIF_CMD_WDATA_PTR_START
+  `undef DDRCTL_DFI_HIF_CMD_WDATA_PTR_START
+`endif
+
+`ifdef DDRCTL_DFI_KBD_WIDTH
+  `undef DDRCTL_DFI_KBD_WIDTH
+`endif
+
+`ifdef DDRCTL_DFI_MASK_WIDTH
+  `undef DDRCTL_DFI_MASK_WIDTH
+`endif
+
+`ifdef DDRCTL_DUAL_DDRC_CPE_EN
+  `undef DDRCTL_DUAL_DDRC_CPE_EN
+`endif
+
+`ifdef DDRCTL_DYN_BSM_MODE
+  `undef DDRCTL_DYN_BSM_MODE
+`endif
+
+`ifdef DDRCTL_EAPAR_EN
+  `undef DDRCTL_EAPAR_EN
+`endif
+
+`ifdef DDRCTL_EAPAR_SIZE
+  `undef DDRCTL_EAPAR_SIZE
+`endif
+
+`ifdef DDRCTL_ENABLE_INTERNAL_TESTING
+  `undef DDRCTL_ENABLE_INTERNAL_TESTING
+`endif
+
+`ifdef DDRCTL_ENH_ECC_REPORT_EN_1
+  `undef DDRCTL_ENH_ECC_REPORT_EN_1
+`endif
+
+`ifdef DDRCTL_EXT_SBECC_EN
+  `undef DDRCTL_EXT_SBECC_EN
+`endif
+
+`ifdef DDRCTL_FREQUENCY_BITS
+  `undef DDRCTL_FREQUENCY_BITS
+`endif
+
+`ifdef DDRCTL_HAS_CHB
+  `undef DDRCTL_HAS_CHB
+`endif
+
+`ifdef DDRCTL_HET_INTERLEAVE
+  `undef DDRCTL_HET_INTERLEAVE
+`endif
+
+`ifdef DDRCTL_HIF_DRAM_ADDR_WIDTH
+  `undef DDRCTL_HIF_DRAM_ADDR_WIDTH
+`endif
+
+`ifdef DDRCTL_HIF_KBD_WIDTH
+  `undef DDRCTL_HIF_KBD_WIDTH
+`endif
+
+`ifdef DDRCTL_INT_CHB_PCRDW
+  `undef DDRCTL_INT_CHB_PCRDW
+`endif
+
+`ifdef DDRCTL_KBD_ECC_BYP_EN
+  `undef DDRCTL_KBD_ECC_BYP_EN
+`endif
+
+`ifdef DDRCTL_KBD_ECC_EN
+  `undef DDRCTL_KBD_ECC_EN
+`endif
+
+`ifdef DDRCTL_KBD_SBECC_EN
+  `undef DDRCTL_KBD_SBECC_EN
+`endif
+
+`ifdef DDRCTL_LLC_4CYCSCH_EN
+  `undef DDRCTL_LLC_4CYCSCH_EN
+`endif
+
+`ifdef DDRCTL_LLC_EN
+  `undef DDRCTL_LLC_EN
+`endif
+
+`ifdef DDRCTL_LPDDR
+  `undef DDRCTL_LPDDR
+`endif
+
+`ifdef DDRCTL_LPDDR_DUAL_CHANNEL_EN
+  `undef DDRCTL_LPDDR_DUAL_CHANNEL_EN
+`endif
+
+`ifdef DDRCTL_LPDDR_EN
+  `undef DDRCTL_LPDDR_EN
+`endif
+
+`ifdef DDRCTL_LPDDR_RFMSBC_EN
+  `undef DDRCTL_LPDDR_RFMSBC_EN
+`endif
+
+`ifdef DDRCTL_LUT_ADDRMAP_CS_WIN_BITS
+  `undef DDRCTL_LUT_ADDRMAP_CS_WIN_BITS
+`endif
+
+`ifdef DDRCTL_LUT_ADDRMAP_EN
+  `undef DDRCTL_LUT_ADDRMAP_EN
+`endif
+
+`ifdef DDRCTL_MAX_CHI_CLK_RATIO
+  `undef DDRCTL_MAX_CHI_CLK_RATIO
+`endif
+
+`ifdef DDRCTL_MAX_XPI_PORT_DW_GTEQ_512
+  `undef DDRCTL_MAX_XPI_PORT_DW_GTEQ_512
+`endif
+
+`ifdef DDRCTL_MBW_WINWD_CYC_CNT
+  `undef DDRCTL_MBW_WINWD_CYC_CNT
+`endif
+
+`ifdef DDRCTL_MCP_INCLUDE
+  `undef DDRCTL_MCP_INCLUDE
+`endif
+
+`ifdef DDRCTL_MIN_DRAM_DW
+  `undef DDRCTL_MIN_DRAM_DW
+`endif
+
+`ifdef DDRCTL_MIN_DRAM_XSIZE
+  `undef DDRCTL_MIN_DRAM_XSIZE
+`endif
+
+`ifdef DDRCTL_MIN_M_BL
+  `undef DDRCTL_MIN_M_BL
+`endif
+
+`ifdef DDRCTL_MPAMCFG_MBW_MAX
+  `undef DDRCTL_MPAMCFG_MBW_MAX
+`endif
+
+`ifdef DDRCTL_MPAMCFG_MBW_MAX_CYC_CNT
+  `undef DDRCTL_MPAMCFG_MBW_MAX_CYC_CNT
+`endif
+
+`ifdef DDRCTL_MPAMCFG_MBW_MIN
+  `undef DDRCTL_MPAMCFG_MBW_MIN
+`endif
+
+`ifdef DDRCTL_MPAMCFG_MBW_MIN_CYC_CNT
+  `undef DDRCTL_MPAMCFG_MBW_MIN_CYC_CNT
+`endif
+
+`ifdef DDRCTL_MPAMF_MBW_IDR_BWA_WD
+  `undef DDRCTL_MPAMF_MBW_IDR_BWA_WD
+`endif
+
+`ifdef DDRCTL_MPAMF_MBW_IDR_BWPBM_WD
+  `undef DDRCTL_MPAMF_MBW_IDR_BWPBM_WD
+`endif
+
+`ifdef DDRCTL_MPAM_APB_FIRST_ADDRESS
+  `undef DDRCTL_MPAM_APB_FIRST_ADDRESS
+`endif
+
+`ifdef DDRCTL_MPAM_APB_LAST_ADDRES
+  `undef DDRCTL_MPAM_APB_LAST_ADDRES
+`endif
+
+`ifdef DDRCTL_MPAM_MAX_NONSECURE_PARTID
+  `undef DDRCTL_MPAM_MAX_NONSECURE_PARTID
+`endif
+
+`ifdef DDRCTL_MPAM_MAX_NONSECURE_PMG
+  `undef DDRCTL_MPAM_MAX_NONSECURE_PMG
+`endif
+
+`ifdef DDRCTL_MPAM_MAX_SECURE_PARTID
+  `undef DDRCTL_MPAM_MAX_SECURE_PARTID
+`endif
+
+`ifdef DDRCTL_MPAM_MAX_SECURE_PMG
+  `undef DDRCTL_MPAM_MAX_SECURE_PMG
+`endif
+
+`ifdef DDRCTL_NS_MBWUMON_NUM_MON
+  `undef DDRCTL_NS_MBWUMON_NUM_MON
+`endif
+
+`ifdef DDRCTL_NUM_ADDR_MAP
+  `undef DDRCTL_NUM_ADDR_MAP
+`endif
+
+`ifdef DDRCTL_NUM_BITS_PER_KBD
+  `undef DDRCTL_NUM_BITS_PER_KBD
+`endif
+
+`ifdef DDRCTL_NUM_DDRC_CPE
+  `undef DDRCTL_NUM_DDRC_CPE
+`endif
+
+`ifdef DDRCTL_OCSAP_EN
+  `undef DDRCTL_OCSAP_EN
+`endif
+
+`ifdef DDRCTL_PAS_CID_WIDTH
+  `undef DDRCTL_PAS_CID_WIDTH
+`endif
+
+`ifdef DDRCTL_PAS_CID_WIDTH_0
+  `undef DDRCTL_PAS_CID_WIDTH_0
+`endif
+
+`ifdef DDRCTL_PAS_LRANK_BITS
+  `undef DDRCTL_PAS_LRANK_BITS
+`endif
+
+`ifdef DDRCTL_PAS_MAX_NUM_STACKS
+  `undef DDRCTL_PAS_MAX_NUM_STACKS
+`endif
+
+`ifdef DDRCTL_PAS_NUM_LRANKS_TOTAL
+  `undef DDRCTL_PAS_NUM_LRANKS_TOTAL
+`endif
+
+`ifdef DDRCTL_PAS_NUM_LRANKS_TOTAL_1
+  `undef DDRCTL_PAS_NUM_LRANKS_TOTAL_1
+`endif
+
+`ifdef DDRCTL_PAS_NUM_LRANKS_TOTAL_GT_0
+  `undef DDRCTL_PAS_NUM_LRANKS_TOTAL_GT_0
+`endif
+
+`ifdef DDRCTL_PAS_NUM_TOTAL_BANKS
+  `undef DDRCTL_PAS_NUM_TOTAL_BANKS
+`endif
+
+`ifdef DDRCTL_PAS_RANKBANK_BITS
+  `undef DDRCTL_PAS_RANKBANK_BITS
+`endif
+
+`ifdef DDRCTL_PBW_MODE_SUPPORT
+  `undef DDRCTL_PBW_MODE_SUPPORT
+`endif
+
+`ifdef DDRCTL_PERRANK_LP
+  `undef DDRCTL_PERRANK_LP
+`endif
+
+`ifdef DDRCTL_PERRANK_LP_EN
+  `undef DDRCTL_PERRANK_LP_EN
+`endif
+
+`ifdef DDRCTL_PRODUCT_NAME
+  `undef DDRCTL_PRODUCT_NAME
+`endif
+
+`ifdef DDRCTL_RETRY_FIFO_DEPTH
+  `undef DDRCTL_RETRY_FIFO_DEPTH
+`endif
+
+`ifdef DDRCTL_RETRY_FIFO_DEPTH_BITS
+  `undef DDRCTL_RETRY_FIFO_DEPTH_BITS
+`endif
+
+`ifdef DDRCTL_RETRY_MAX_ADD_RD_LAT
+  `undef DDRCTL_RETRY_MAX_ADD_RD_LAT
+`endif
+
+`ifdef DDRCTL_RETRY_MAX_ADD_RD_LAT_LG2
+  `undef DDRCTL_RETRY_MAX_ADD_RD_LAT_LG2
+`endif
+
+`ifdef DDRCTL_RETRY_WDATARAM_AW
+  `undef DDRCTL_RETRY_WDATARAM_AW
+`endif
+
+`ifdef DDRCTL_RETRY_WDATARAM_DEPTH
+  `undef DDRCTL_RETRY_WDATARAM_DEPTH
+`endif
+
+`ifdef DDRCTL_RETRY_WDATARAM_RD_LATENCY
+  `undef DDRCTL_RETRY_WDATARAM_RD_LATENCY
+`endif
+
+`ifdef DDRCTL_RETRY_WDATARAM_WR_LATENCY
+  `undef DDRCTL_RETRY_WDATARAM_WR_LATENCY
+`endif
+
+`ifdef DDRCTL_RSD_PIPELINE_EN
+  `undef DDRCTL_RSD_PIPELINE_EN
+`endif
+
+`ifdef DDRCTL_RSD_PIPE_AT_ELP
+  `undef DDRCTL_RSD_PIPE_AT_ELP
+`endif
+
+`ifdef DDRCTL_RW_ACT_SAME_CYC_EN
+  `undef DDRCTL_RW_ACT_SAME_CYC_EN
+`endif
+
+`ifdef DDRCTL_SBR_RMW_FIFO_DEPTH
+  `undef DDRCTL_SBR_RMW_FIFO_DEPTH
+`endif
+
+`ifdef DDRCTL_SRC_WIDTH
+  `undef DDRCTL_SRC_WIDTH
+`endif
+
+`ifdef DDRCTL_SYS_INTF
+  `undef DDRCTL_SYS_INTF
+`endif
+
+`ifdef DDRCTL_S_MBWUMON_NUM_MON
+  `undef DDRCTL_S_MBWUMON_NUM_MON
+`endif
+
+`ifdef DDRCTL_THREE_CMD_COMB_EN
+  `undef DDRCTL_THREE_CMD_COMB_EN
+`endif
+
+`ifdef DDRCTL_UMCTL5
+  `undef DDRCTL_UMCTL5
+`endif
+
+`ifdef DDRCTL_VALID_CHI_ADDRW
+  `undef DDRCTL_VALID_CHI_ADDRW
+`endif
+
+`ifdef DDRCTL_VER_NUMBER_VAL
+  `undef DDRCTL_VER_NUMBER_VAL
+`endif
+
+`ifdef DDRCTL_VER_TYPE_VAL
+  `undef DDRCTL_VER_TYPE_VAL
+`endif
+
+`ifdef DDRCTL_WDATARAM_RD_LATENCY
+  `undef DDRCTL_WDATARAM_RD_LATENCY
+`endif
+
+`ifdef DDRCTL_WDATARAM_WR_LATENCY
+  `undef DDRCTL_WDATARAM_WR_LATENCY
+`endif
+
+`ifdef DDRCTL_XPI_USE_RMWR
+  `undef DDRCTL_XPI_USE_RMWR
+`endif
+
+`ifdef DDRCTL_XPI_USE_RMWR_EN
+  `undef DDRCTL_XPI_USE_RMWR_EN
+`endif
+
+`ifdef DWC_NO_CDC_INIT
+  `undef DWC_NO_CDC_INIT
+`endif
+
+`ifdef DWC_NO_TST_MODE
+  `undef DWC_NO_TST_MODE
+`endif
+
+`ifdef DW_HOLD_MUX_DELAY
+  `undef DW_HOLD_MUX_DELAY
+`endif
+
+`ifdef DW_SETUP_MUX_DELAY
+  `undef DW_SETUP_MUX_DELAY
+`endif
+
+`ifdef ECC_POISON_REG_WIDTH
+  `undef ECC_POISON_REG_WIDTH
+`endif
+
+`ifdef IE_RD_TYPE_BITS
+  `undef IE_RD_TYPE_BITS
+`endif
+
+`ifdef IE_RD_TYPE_RD_E
+  `undef IE_RD_TYPE_RD_E
+`endif
+
+`ifdef IE_RD_TYPE_RD_N
+  `undef IE_RD_TYPE_RD_N
+`endif
+
+`ifdef IE_RD_TYPE_RE_B
+  `undef IE_RD_TYPE_RE_B
+`endif
+
+`ifdef IE_WR_TYPE_BITS
+  `undef IE_WR_TYPE_BITS
+`endif
+
+`ifdef IE_WR_TYPE_WD_E
+  `undef IE_WR_TYPE_WD_E
+`endif
+
+`ifdef IE_WR_TYPE_WD_N
+  `undef IE_WR_TYPE_WD_N
+`endif
+
+`ifdef IE_WR_TYPE_WE_BW
+  `undef IE_WR_TYPE_WE_BW
+`endif
+
+`ifdef LP4CMD_ACT1
+  `undef LP4CMD_ACT1
+`endif
+
+`ifdef LP4CMD_ACT2
+  `undef LP4CMD_ACT2
+`endif
+
+`ifdef LP4CMD_CAS2
+  `undef LP4CMD_CAS2
+`endif
+
+`ifdef LP4CMD_MPC
+  `undef LP4CMD_MPC
+`endif
+
+`ifdef LP4CMD_MRR1
+  `undef LP4CMD_MRR1
+`endif
+
+`ifdef LP4CMD_MRW1
+  `undef LP4CMD_MRW1
+`endif
+
+`ifdef LP4CMD_MRW2
+  `undef LP4CMD_MRW2
+`endif
+
+`ifdef LP4CMD_MWR
+  `undef LP4CMD_MWR
+`endif
+
+`ifdef LP4CMD_PRE
+  `undef LP4CMD_PRE
+`endif
+
+`ifdef LP4CMD_RD
+  `undef LP4CMD_RD
+`endif
+
+`ifdef LP4CMD_REF
+  `undef LP4CMD_REF
+`endif
+
+`ifdef LP4CMD_SRE
+  `undef LP4CMD_SRE
+`endif
+
+`ifdef LP4CMD_SRX
+  `undef LP4CMD_SRX
+`endif
+
+`ifdef LP4CMD_WR
+  `undef LP4CMD_WR
+`endif
+
+`ifdef LPDDR45_DQSOSC
+  `undef LPDDR45_DQSOSC
+`endif
+
+`ifdef LPDDR45_DQSOSC_EN
+  `undef LPDDR45_DQSOSC_EN
+`endif
+
+`ifdef LPDDR54_DQOSC_EN_OR_MEMC_DDR5
+  `undef LPDDR54_DQOSC_EN_OR_MEMC_DDR5
+`endif
+
+`ifdef MAX_A2X_AHB_LITE_MODE_NB
+  `undef MAX_A2X_AHB_LITE_MODE_NB
+`endif
+
+`ifdef MAX_A2X_BRESP_MODE_NB
+  `undef MAX_A2X_BRESP_MODE_NB
+`endif
+
+`ifdef MAX_A2X_HREADY_LOW_PERIOD_NB
+  `undef MAX_A2X_HREADY_LOW_PERIOD_NB
+`endif
+
+`ifdef MAX_A2X_NUM_AHBM_NB
+  `undef MAX_A2X_NUM_AHBM_NB
+`endif
+
+`ifdef MAX_A2X_SPLIT_MODE_NB
+  `undef MAX_A2X_SPLIT_MODE_NB
+`endif
+
+`ifdef MAX_AHB_NUM_MST_NB
+  `undef MAX_AHB_NUM_MST_NB
+`endif
+
+`ifdef MAX_AP_ASYNC_NB
+  `undef MAX_AP_ASYNC_NB
+`endif
+
+`ifdef MAX_ASYNC_FIFO_N_SYNC_NB
+  `undef MAX_ASYNC_FIFO_N_SYNC_NB
+`endif
+
+`ifdef MAX_AXI_LOCKW
+  `undef MAX_AXI_LOCKW
+`endif
+
+`ifdef MAX_AXI_RAQD_NB
+  `undef MAX_AXI_RAQD_NB
+`endif
+
+`ifdef MAX_AXI_RDQD_NB
+  `undef MAX_AXI_RDQD_NB
+`endif
+
+`ifdef MAX_AXI_SYNC_NB
+  `undef MAX_AXI_SYNC_NB
+`endif
+
+`ifdef MAX_AXI_WAQD_NB
+  `undef MAX_AXI_WAQD_NB
+`endif
+
+`ifdef MAX_AXI_WDQD_NB
+  `undef MAX_AXI_WDQD_NB
+`endif
+
+`ifdef MAX_AXI_WRQD_NB
+  `undef MAX_AXI_WRQD_NB
+`endif
+
+`ifdef MAX_A_DW_INT_NB
+  `undef MAX_A_DW_INT_NB
+`endif
+
+`ifdef MAX_DATA_CHANNEL_INTERLEAVE_NS_NB
+  `undef MAX_DATA_CHANNEL_INTERLEAVE_NS_NB
+`endif
+
+`ifdef MAX_MEMC_TAGBITS_NB
+  `undef MAX_MEMC_TAGBITS_NB
+`endif
+
+`ifdef MAX_NUM_VIR_CH_NB
+  `undef MAX_NUM_VIR_CH_NB
+`endif
+
+`ifdef MAX_PORT_NBYTES
+  `undef MAX_PORT_NBYTES
+`endif
+
+`ifdef MAX_RAQ_TABLE_TABLE_NB
+  `undef MAX_RAQ_TABLE_TABLE_NB
+`endif
+
+`ifdef MAX_RDWR_ORDERED_NB
+  `undef MAX_RDWR_ORDERED_NB
+`endif
+
+`ifdef MAX_READ_DATA_INTERLEAVE_EN_NB
+  `undef MAX_READ_DATA_INTERLEAVE_EN_NB
+`endif
+
+`ifdef MAX_RINFOW_NB
+  `undef MAX_RINFOW_NB
+`endif
+
+`ifdef MAX_RINFOW_NSA_NB
+  `undef MAX_RINFOW_NSA_NB
+`endif
+
+`ifdef MAX_RPINFOW_NB
+  `undef MAX_RPINFOW_NB
+`endif
+
+`ifdef MAX_RRB_EXTRAM_NB
+  `undef MAX_RRB_EXTRAM_NB
+`endif
+
+`ifdef MAX_RRB_EXTRAM_REG_NB
+  `undef MAX_RRB_EXTRAM_REG_NB
+`endif
+
+`ifdef MAX_RRB_THRESHOLD_EN_NB
+  `undef MAX_RRB_THRESHOLD_EN_NB
+`endif
+
+`ifdef MAX_SMALL_SIZED_PORT_NB
+  `undef MAX_SMALL_SIZED_PORT_NB
+`endif
+
+`ifdef MAX_STATIC_VIR_CH_NB
+  `undef MAX_STATIC_VIR_CH_NB
+`endif
+
+`ifdef MAX_UMCTL2_AXI_TAGBITS
+  `undef MAX_UMCTL2_AXI_TAGBITS
+`endif
+
+`ifdef MAX_UMCTL2_A_ID_MAPW
+  `undef MAX_UMCTL2_A_ID_MAPW
+`endif
+
+`ifdef MAX_UMCTL2_A_NPORTS
+  `undef MAX_UMCTL2_A_NPORTS
+`endif
+
+`ifdef MAX_UMCTL2_NUM_VIR_CH
+  `undef MAX_UMCTL2_NUM_VIR_CH
+`endif
+
+`ifdef MAX_USE2RAQ_NB
+  `undef MAX_USE2RAQ_NB
+`endif
+
+`ifdef MAX_VPR_EN_NB
+  `undef MAX_VPR_EN_NB
+`endif
+
+`ifdef MAX_VPW_EN_NB
+  `undef MAX_VPW_EN_NB
+`endif
+
+`ifdef MAX_WINFOW_NB
+  `undef MAX_WINFOW_NB
+`endif
+
+`ifdef MEMC_ADDR_ERR
+  `undef MEMC_ADDR_ERR
+`endif
+
+`ifdef MEMC_ADDR_ERR_EN
+  `undef MEMC_ADDR_ERR_EN
+`endif
+
+`ifdef MEMC_ADDR_ERR_EN_VAL
+  `undef MEMC_ADDR_ERR_EN_VAL
+`endif
+
+`ifdef MEMC_ADDR_WIDTH_BITS
+  `undef MEMC_ADDR_WIDTH_BITS
+`endif
+
+`ifdef MEMC_ADD_REPLACE_PRE
+  `undef MEMC_ADD_REPLACE_PRE
+`endif
+
+`ifdef MEMC_BANK_BITS
+  `undef MEMC_BANK_BITS
+`endif
+
+`ifdef MEMC_BG_BANK_BITS
+  `undef MEMC_BG_BANK_BITS
+`endif
+
+`ifdef MEMC_BG_BITS
+  `undef MEMC_BG_BITS
+`endif
+
+`ifdef MEMC_BG_EN
+  `undef MEMC_BG_EN
+`endif
+
+`ifdef MEMC_BLK_BITS
+  `undef MEMC_BLK_BITS
+`endif
+
+`ifdef MEMC_BLK_TOKEN_BITS
+  `undef MEMC_BLK_TOKEN_BITS
+`endif
+
+`ifdef MEMC_BURST_LENGTH
+  `undef MEMC_BURST_LENGTH
+`endif
+
+`ifdef MEMC_BURST_LENGTH_16
+  `undef MEMC_BURST_LENGTH_16
+`endif
+
+`ifdef MEMC_BURST_LENGTH_16_AND_ARB_1
+  `undef MEMC_BURST_LENGTH_16_AND_ARB_1
+`endif
+
+`ifdef MEMC_BURST_LENGTH_16_VAL
+  `undef MEMC_BURST_LENGTH_16_VAL
+`endif
+
+`ifdef MEMC_BURST_LENGTH_32_VAL
+  `undef MEMC_BURST_LENGTH_32_VAL
+`endif
+
+`ifdef MEMC_BURST_LENGTH_8_OR_16
+  `undef MEMC_BURST_LENGTH_8_OR_16
+`endif
+
+`ifdef MEMC_BURST_LENGTH_8_VAL
+  `undef MEMC_BURST_LENGTH_8_VAL
+`endif
+
+`ifdef MEMC_BYTE1
+  `undef MEMC_BYTE1
+`endif
+
+`ifdef MEMC_BYTE2
+  `undef MEMC_BYTE2
+`endif
+
+`ifdef MEMC_BYTE3
+  `undef MEMC_BYTE3
+`endif
+
+`ifdef MEMC_CMD_PRI_HPR
+  `undef MEMC_CMD_PRI_HPR
+`endif
+
+`ifdef MEMC_CMD_PRI_LPR
+  `undef MEMC_CMD_PRI_LPR
+`endif
+
+`ifdef MEMC_CMD_PRI_NPW
+  `undef MEMC_CMD_PRI_NPW
+`endif
+
+`ifdef MEMC_CMD_PRI_RSVD
+  `undef MEMC_CMD_PRI_RSVD
+`endif
+
+`ifdef MEMC_CMD_PRI_VPR
+  `undef MEMC_CMD_PRI_VPR
+`endif
+
+`ifdef MEMC_CMD_PRI_VPW
+  `undef MEMC_CMD_PRI_VPW
+`endif
+
+`ifdef MEMC_CMD_PRI_XVPR
+  `undef MEMC_CMD_PRI_XVPR
+`endif
+
+`ifdef MEMC_CMD_PRI_XVPW
+  `undef MEMC_CMD_PRI_XVPW
+`endif
+
+`ifdef MEMC_CMD_RTN2IDLE_EN
+  `undef MEMC_CMD_RTN2IDLE_EN
+`endif
+
+`ifdef MEMC_CMD_TYPE_BLK_RD
+  `undef MEMC_CMD_TYPE_BLK_RD
+`endif
+
+`ifdef MEMC_CMD_TYPE_BLK_WR
+  `undef MEMC_CMD_TYPE_BLK_WR
+`endif
+
+`ifdef MEMC_CMD_TYPE_RESERVED
+  `undef MEMC_CMD_TYPE_RESERVED
+`endif
+
+`ifdef MEMC_CMD_TYPE_RMW
+  `undef MEMC_CMD_TYPE_RMW
+`endif
+
+`ifdef MEMC_CORE_DATA_WIDTH_GTEQ_128
+  `undef MEMC_CORE_DATA_WIDTH_GTEQ_128
+`endif
+
+`ifdef MEMC_CORE_DATA_WIDTH_GTEQ_64
+  `undef MEMC_CORE_DATA_WIDTH_GTEQ_64
+`endif
+
+`ifdef MEMC_CORE_DATA_WIDTH_GTE_256
+  `undef MEMC_CORE_DATA_WIDTH_GTE_256
+`endif
+
+`ifdef MEMC_DCERRBITS
+  `undef MEMC_DCERRBITS
+`endif
+
+`ifdef MEMC_DCERRFIELD
+  `undef MEMC_DCERRFIELD
+`endif
+
+`ifdef MEMC_DDR2
+  `undef MEMC_DDR2
+`endif
+
+`ifdef MEMC_DDR2_DIS_TB
+  `undef MEMC_DDR2_DIS_TB
+`endif
+
+`ifdef MEMC_DDR3_EN
+  `undef MEMC_DDR3_EN
+`endif
+
+`ifdef MEMC_DDR3_OR_4_OR_LPDDR2
+  `undef MEMC_DDR3_OR_4_OR_LPDDR2
+`endif
+
+`ifdef MEMC_DDR3_OR_4_OR_LPDDR4
+  `undef MEMC_DDR3_OR_4_OR_LPDDR4
+`endif
+
+`ifdef MEMC_DDR4_BG_BITS2_INTERNAL_TESTING
+  `undef MEMC_DDR4_BG_BITS2_INTERNAL_TESTING
+`endif
+
+`ifdef MEMC_DDR4_EN
+  `undef MEMC_DDR4_EN
+`endif
+
+`ifdef MEMC_DDR4_OR_LPDDR4
+  `undef MEMC_DDR4_OR_LPDDR4
+`endif
+
+`ifdef MEMC_DDR5_EN
+  `undef MEMC_DDR5_EN
+`endif
+
+`ifdef MEMC_DDR5_ONLY_EN
+  `undef MEMC_DDR5_ONLY_EN
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RDB_POIS_DATA_BEW
+  `undef MEMC_DDRCTL_CHB_RDB_POIS_DATA_BEW
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RDB_PROT_BITS
+  `undef MEMC_DDRCTL_CHB_RDB_PROT_BITS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RDB_PROT_POIS_BEW
+  `undef MEMC_DDRCTL_CHB_RDB_PROT_POIS_BEW
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RDB_PROT_POIS_BITS
+  `undef MEMC_DDRCTL_CHB_RDB_PROT_POIS_BITS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RDB_RAM0_EXISTS
+  `undef MEMC_DDRCTL_CHB_RDB_RAM0_EXISTS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RDB_RAM1_EXISTS
+  `undef MEMC_DDRCTL_CHB_RDB_RAM1_EXISTS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RDB_RAM_PAR_WIDTH
+  `undef MEMC_DDRCTL_CHB_RDB_RAM_PAR_WIDTH
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RDB_RAM_WIDTH
+  `undef MEMC_DDRCTL_CHB_RDB_RAM_WIDTH
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RTLST_RAM0_EXISTS
+  `undef MEMC_DDRCTL_CHB_RTLST_RAM0_EXISTS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RTLST_RAM1_EXISTS
+  `undef MEMC_DDRCTL_CHB_RTLST_RAM1_EXISTS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RTLST_RAM_WIDTH
+  `undef MEMC_DDRCTL_CHB_RTLST_RAM_WIDTH
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_RTMEMW
+  `undef MEMC_DDRCTL_CHB_RTMEMW
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_WRB_RAM00_EXISTS
+  `undef MEMC_DDRCTL_CHB_WRB_RAM00_EXISTS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_WRB_RAM01_EXISTS
+  `undef MEMC_DDRCTL_CHB_WRB_RAM01_EXISTS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_WRB_RAM10_EXISTS
+  `undef MEMC_DDRCTL_CHB_WRB_RAM10_EXISTS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_WRB_RAM11_EXISTS
+  `undef MEMC_DDRCTL_CHB_WRB_RAM11_EXISTS
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_WRB_RAM_PAR_WIDTH
+  `undef MEMC_DDRCTL_CHB_WRB_RAM_PAR_WIDTH
+`endif
+
+`ifdef MEMC_DDRCTL_CHB_WRB_RAM_WIDTH
+  `undef MEMC_DDRCTL_CHB_WRB_RAM_WIDTH
+`endif
+
+`ifdef MEMC_DFI_ADDR_WIDTH
+  `undef MEMC_DFI_ADDR_WIDTH
+`endif
+
+`ifdef MEMC_DFI_ADDR_WIDTH_P0
+  `undef MEMC_DFI_ADDR_WIDTH_P0
+`endif
+
+`ifdef MEMC_DFI_ADDR_WIDTH_P1
+  `undef MEMC_DFI_ADDR_WIDTH_P1
+`endif
+
+`ifdef MEMC_DFI_ADDR_WIDTH_P2
+  `undef MEMC_DFI_ADDR_WIDTH_P2
+`endif
+
+`ifdef MEMC_DFI_ADDR_WIDTH_P3
+  `undef MEMC_DFI_ADDR_WIDTH_P3
+`endif
+
+`ifdef MEMC_DFI_DATA_WIDTH
+  `undef MEMC_DFI_DATA_WIDTH
+`endif
+
+`ifdef MEMC_DFI_ECC_WIDTH
+  `undef MEMC_DFI_ECC_WIDTH
+`endif
+
+`ifdef MEMC_DFI_MASK_WIDTH
+  `undef MEMC_DFI_MASK_WIDTH
+`endif
+
+`ifdef MEMC_DFI_PHYUPD_NONCOMPLIANT_DIS_TB
+  `undef MEMC_DFI_PHYUPD_NONCOMPLIANT_DIS_TB
+`endif
+
+`ifdef MEMC_DFI_TOTAL_DATAEN_WIDTH
+  `undef MEMC_DFI_TOTAL_DATAEN_WIDTH
+`endif
+
+`ifdef MEMC_DFI_TOTAL_DATA_WIDTH
+  `undef MEMC_DFI_TOTAL_DATA_WIDTH
+`endif
+
+`ifdef MEMC_DFI_TOTAL_MASK_WIDTH
+  `undef MEMC_DFI_TOTAL_MASK_WIDTH
+`endif
+
+`ifdef MEMC_DRAM_DATA_WIDTH
+  `undef MEMC_DRAM_DATA_WIDTH
+`endif
+
+`ifdef MEMC_DRAM_DATA_WIDTH_64_OR_MEMC_INLINE_ECC
+  `undef MEMC_DRAM_DATA_WIDTH_64_OR_MEMC_INLINE_ECC
+`endif
+
+`ifdef MEMC_DRAM_DATA_WIDTH_GT_15
+  `undef MEMC_DRAM_DATA_WIDTH_GT_15
+`endif
+
+`ifdef MEMC_DRAM_DATA_WIDTH_GT_23
+  `undef MEMC_DRAM_DATA_WIDTH_GT_23
+`endif
+
+`ifdef MEMC_DRAM_DATA_WIDTH_GT_31
+  `undef MEMC_DRAM_DATA_WIDTH_GT_31
+`endif
+
+`ifdef MEMC_DRAM_ECC_WIDTH
+  `undef MEMC_DRAM_ECC_WIDTH
+`endif
+
+`ifdef MEMC_DRAM_NBYTES
+  `undef MEMC_DRAM_NBYTES
+`endif
+
+`ifdef MEMC_DRAM_NBYTES_LG2
+  `undef MEMC_DRAM_NBYTES_LG2
+`endif
+
+`ifdef MEMC_DRAM_TOTAL_BYTE_NUM
+  `undef MEMC_DRAM_TOTAL_BYTE_NUM
+`endif
+
+`ifdef MEMC_DRAM_TOTAL_BYTE_NUM_GT_0
+  `undef MEMC_DRAM_TOTAL_BYTE_NUM_GT_0
+`endif
+
+`ifdef MEMC_DRAM_TOTAL_BYTE_NUM_GT_1
+  `undef MEMC_DRAM_TOTAL_BYTE_NUM_GT_1
+`endif
+
+`ifdef MEMC_DRAM_TOTAL_BYTE_NUM_GT_2
+  `undef MEMC_DRAM_TOTAL_BYTE_NUM_GT_2
+`endif
+
+`ifdef MEMC_DRAM_TOTAL_BYTE_NUM_GT_3
+  `undef MEMC_DRAM_TOTAL_BYTE_NUM_GT_3
+`endif
+
+`ifdef MEMC_DRAM_TOTAL_DATA_WIDTH
+  `undef MEMC_DRAM_TOTAL_DATA_WIDTH
+`endif
+
+`ifdef MEMC_DRAM_TOTAL_MASK_WIDTH
+  `undef MEMC_DRAM_TOTAL_MASK_WIDTH
+`endif
+
+`ifdef MEMC_ECCAP_EN
+  `undef MEMC_ECCAP_EN
+`endif
+
+`ifdef MEMC_ECC_BITS_ON_DQ_BUS
+  `undef MEMC_ECC_BITS_ON_DQ_BUS
+`endif
+
+`ifdef MEMC_ECC_RAM_DEPTH
+  `undef MEMC_ECC_RAM_DEPTH
+`endif
+
+`ifdef MEMC_ECC_SUPPORT
+  `undef MEMC_ECC_SUPPORT
+`endif
+
+`ifdef MEMC_ECC_SYNDROME_WIDTH
+  `undef MEMC_ECC_SYNDROME_WIDTH
+`endif
+
+`ifdef MEMC_ECC_SYNDROME_WIDTH_RD
+  `undef MEMC_ECC_SYNDROME_WIDTH_RD
+`endif
+
+`ifdef MEMC_ENH_CAM_PTR
+  `undef MEMC_ENH_CAM_PTR
+`endif
+
+`ifdef MEMC_ENH_CAM_PTR_AND_NO_DDRCTL_LLC_4CYCSCH
+  `undef MEMC_ENH_CAM_PTR_AND_NO_DDRCTL_LLC_4CYCSCH
+`endif
+
+`ifdef MEMC_ENH_RDWR_SWITCH
+  `undef MEMC_ENH_RDWR_SWITCH
+`endif
+
+`ifdef MEMC_FREQ_RATIO
+  `undef MEMC_FREQ_RATIO
+`endif
+
+`ifdef MEMC_FREQ_RATIO_4
+  `undef MEMC_FREQ_RATIO_4
+`endif
+
+`ifdef MEMC_GS_Q_ST_CRITICAL
+  `undef MEMC_GS_Q_ST_CRITICAL
+`endif
+
+`ifdef MEMC_GS_Q_ST_NORMAL
+  `undef MEMC_GS_Q_ST_NORMAL
+`endif
+
+`ifdef MEMC_GS_REF_DLY
+  `undef MEMC_GS_REF_DLY
+`endif
+
+`ifdef MEMC_GS_RFM_DLY
+  `undef MEMC_GS_RFM_DLY
+`endif
+
+`ifdef MEMC_HBUS_SUPPORT
+  `undef MEMC_HBUS_SUPPORT
+`endif
+
+`ifdef MEMC_HBUS_SUPPORT_OR_MEMC_BURST_LENGTH_16
+  `undef MEMC_HBUS_SUPPORT_OR_MEMC_BURST_LENGTH_16
+`endif
+
+`ifdef MEMC_HIF_ADDR_WIDTH
+  `undef MEMC_HIF_ADDR_WIDTH
+`endif
+
+`ifdef MEMC_HIF_ADDR_WIDTH_GT_28
+  `undef MEMC_HIF_ADDR_WIDTH_GT_28
+`endif
+
+`ifdef MEMC_HIF_ADDR_WIDTH_GT_29
+  `undef MEMC_HIF_ADDR_WIDTH_GT_29
+`endif
+
+`ifdef MEMC_HIF_ADDR_WIDTH_GT_30
+  `undef MEMC_HIF_ADDR_WIDTH_GT_30
+`endif
+
+`ifdef MEMC_HIF_ADDR_WIDTH_GT_31
+  `undef MEMC_HIF_ADDR_WIDTH_GT_31
+`endif
+
+`ifdef MEMC_HIF_ADDR_WIDTH_MAX
+  `undef MEMC_HIF_ADDR_WIDTH_MAX
+`endif
+
+`ifdef MEMC_HIF_ADDR_WIDTH_MAX_TB
+  `undef MEMC_HIF_ADDR_WIDTH_MAX_TB
+`endif
+
+`ifdef MEMC_HIF_CREDIT_BITS
+  `undef MEMC_HIF_CREDIT_BITS
+`endif
+
+`ifdef MEMC_HIF_MIN_ADDR_WIDTH
+  `undef MEMC_HIF_MIN_ADDR_WIDTH
+`endif
+
+`ifdef MEMC_HIF_TAGBITS
+  `undef MEMC_HIF_TAGBITS
+`endif
+
+`ifdef MEMC_HIF_WDATA_PTR_BITS
+  `undef MEMC_HIF_WDATA_PTR_BITS
+`endif
+
+`ifdef MEMC_IH_TE_PIPELINE_EN
+  `undef MEMC_IH_TE_PIPELINE_EN
+`endif
+
+`ifdef MEMC_INLINE_ECC_EN
+  `undef MEMC_INLINE_ECC_EN
+`endif
+
+`ifdef MEMC_LINK_ECC_EN
+  `undef MEMC_LINK_ECC_EN
+`endif
+
+`ifdef MEMC_LPDDR2
+  `undef MEMC_LPDDR2
+`endif
+
+`ifdef MEMC_LPDDR2_EN
+  `undef MEMC_LPDDR2_EN
+`endif
+
+`ifdef MEMC_LPDDR2_OR_DDR4
+  `undef MEMC_LPDDR2_OR_DDR4
+`endif
+
+`ifdef MEMC_LPDDR2_OR_UMCTL2_CID_EN
+  `undef MEMC_LPDDR2_OR_UMCTL2_CID_EN
+`endif
+
+`ifdef MEMC_LPDDR3
+  `undef MEMC_LPDDR3
+`endif
+
+`ifdef MEMC_LPDDR3_EN
+  `undef MEMC_LPDDR3_EN
+`endif
+
+`ifdef MEMC_LPDDR4
+  `undef MEMC_LPDDR4
+`endif
+
+`ifdef MEMC_LPDDR4_EN
+  `undef MEMC_LPDDR4_EN
+`endif
+
+`ifdef MEMC_LPDDR4_OR_DDRCTL_DDR4_PPR
+  `undef MEMC_LPDDR4_OR_DDRCTL_DDR4_PPR
+`endif
+
+`ifdef MEMC_LPDDR4_OR_DDRCTL_DDRC_CID_EN
+  `undef MEMC_LPDDR4_OR_DDRCTL_DDRC_CID_EN
+`endif
+
+`ifdef MEMC_LPDDR4_OR_UMCTL2_CID_EN
+  `undef MEMC_LPDDR4_OR_UMCTL2_CID_EN
+`endif
+
+`ifdef MEMC_LPDDR4_OR_UMCTL2_PARTIAL_WR
+  `undef MEMC_LPDDR4_OR_UMCTL2_PARTIAL_WR
+`endif
+
+`ifdef MEMC_LPDDR5
+  `undef MEMC_LPDDR5
+`endif
+
+`ifdef MEMC_LPDDR5_EN
+  `undef MEMC_LPDDR5_EN
+`endif
+
+`ifdef MEMC_MAX_INLINE_ECC_PER_BURST
+  `undef MEMC_MAX_INLINE_ECC_PER_BURST
+`endif
+
+`ifdef MEMC_MAX_INLINE_ECC_PER_BURST_BITS
+  `undef MEMC_MAX_INLINE_ECC_PER_BURST_BITS
+`endif
+
+`ifdef MEMC_MOBILE_EN
+  `undef MEMC_MOBILE_EN
+`endif
+
+`ifdef MEMC_MOBILE_OR_LPDDR2
+  `undef MEMC_MOBILE_OR_LPDDR2
+`endif
+
+`ifdef MEMC_MOBILE_OR_LPDDR2_EN
+  `undef MEMC_MOBILE_OR_LPDDR2_EN
+`endif
+
+`ifdef MEMC_MOBILE_OR_LPDDR2_OR_DDR4
+  `undef MEMC_MOBILE_OR_LPDDR2_OR_DDR4
+`endif
+
+`ifdef MEMC_MOBILE_OR_LPDDR2_OR_DDR4_EN
+  `undef MEMC_MOBILE_OR_LPDDR2_OR_DDR4_EN
+`endif
+
+`ifdef MEMC_MRR_DATA_TOTAL_DATA_WIDTH
+  `undef MEMC_MRR_DATA_TOTAL_DATA_WIDTH
+`endif
+
+`ifdef MEMC_NO_ECC
+  `undef MEMC_NO_ECC
+`endif
+
+`ifdef MEMC_NO_OF_BLK_CHANNEL
+  `undef MEMC_NO_OF_BLK_CHANNEL
+`endif
+
+`ifdef MEMC_NO_OF_BLK_TOKEN
+  `undef MEMC_NO_OF_BLK_TOKEN
+`endif
+
+`ifdef MEMC_NO_OF_BRT
+  `undef MEMC_NO_OF_BRT
+`endif
+
+`ifdef MEMC_NO_OF_BWT
+  `undef MEMC_NO_OF_BWT
+`endif
+
+`ifdef MEMC_NO_OF_ENTRY
+  `undef MEMC_NO_OF_ENTRY
+`endif
+
+`ifdef MEMC_NO_OF_ENTRY_32
+  `undef MEMC_NO_OF_ENTRY_32
+`endif
+
+`ifdef MEMC_NO_OF_ENTRY_GT16
+  `undef MEMC_NO_OF_ENTRY_GT16
+`endif
+
+`ifdef MEMC_NTT_UPD_ACT
+  `undef MEMC_NTT_UPD_ACT
+`endif
+
+`ifdef MEMC_NTT_UPD_PRE
+  `undef MEMC_NTT_UPD_PRE
+`endif
+
+`ifdef MEMC_NUM_CLKS
+  `undef MEMC_NUM_CLKS
+`endif
+
+`ifdef MEMC_NUM_RANKS
+  `undef MEMC_NUM_RANKS
+`endif
+
+`ifdef MEMC_NUM_RANKS_1
+  `undef MEMC_NUM_RANKS_1
+`endif
+
+`ifdef MEMC_NUM_RANKS_1_OR_2
+  `undef MEMC_NUM_RANKS_1_OR_2
+`endif
+
+`ifdef MEMC_NUM_TOTAL_BANKS
+  `undef MEMC_NUM_TOTAL_BANKS
+`endif
+
+`ifdef MEMC_NUM_TOTAL_BANKS_16
+  `undef MEMC_NUM_TOTAL_BANKS_16
+`endif
+
+`ifdef MEMC_OPT_TIMING
+  `undef MEMC_OPT_TIMING
+`endif
+
+`ifdef MEMC_OPT_TIMING_DYN_BSM_EN
+  `undef MEMC_OPT_TIMING_DYN_BSM_EN
+`endif
+
+`ifdef MEMC_OPT_TIMING_EN
+  `undef MEMC_OPT_TIMING_EN
+`endif
+
+`ifdef MEMC_PAGE_BITS
+  `undef MEMC_PAGE_BITS
+`endif
+
+`ifdef MEMC_PROG_FREQ_RATIO
+  `undef MEMC_PROG_FREQ_RATIO
+`endif
+
+`ifdef MEMC_PROG_FREQ_RATIO_EN
+  `undef MEMC_PROG_FREQ_RATIO_EN
+`endif
+
+`ifdef MEMC_QBUS_SUPPORT
+  `undef MEMC_QBUS_SUPPORT
+`endif
+
+`ifdef MEMC_RANKBANK_BITS
+  `undef MEMC_RANKBANK_BITS
+`endif
+
+`ifdef MEMC_RANK_BITS
+  `undef MEMC_RANK_BITS
+`endif
+
+`ifdef MEMC_RDATARAM_DEPTH
+  `undef MEMC_RDATARAM_DEPTH
+`endif
+
+`ifdef MEMC_RDATARAM_OCECC
+  `undef MEMC_RDATARAM_OCECC
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_0_EXISTS
+  `undef MEMC_RDATARAM_RAM1_0_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_10_EXISTS
+  `undef MEMC_RDATARAM_RAM1_10_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_11_EXISTS
+  `undef MEMC_RDATARAM_RAM1_11_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_12_EXISTS
+  `undef MEMC_RDATARAM_RAM1_12_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_13_EXISTS
+  `undef MEMC_RDATARAM_RAM1_13_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_14_EXISTS
+  `undef MEMC_RDATARAM_RAM1_14_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_15_EXISTS
+  `undef MEMC_RDATARAM_RAM1_15_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_1_EXISTS
+  `undef MEMC_RDATARAM_RAM1_1_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_2_EXISTS
+  `undef MEMC_RDATARAM_RAM1_2_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_3_EXISTS
+  `undef MEMC_RDATARAM_RAM1_3_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_4_EXISTS
+  `undef MEMC_RDATARAM_RAM1_4_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_5_EXISTS
+  `undef MEMC_RDATARAM_RAM1_5_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_6_EXISTS
+  `undef MEMC_RDATARAM_RAM1_6_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_7_EXISTS
+  `undef MEMC_RDATARAM_RAM1_7_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_8_EXISTS
+  `undef MEMC_RDATARAM_RAM1_8_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM1_9_EXISTS
+  `undef MEMC_RDATARAM_RAM1_9_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_0_EXISTS
+  `undef MEMC_RDATARAM_RAM_0_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_10_EXISTS
+  `undef MEMC_RDATARAM_RAM_10_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_11_EXISTS
+  `undef MEMC_RDATARAM_RAM_11_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_12_EXISTS
+  `undef MEMC_RDATARAM_RAM_12_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_13_EXISTS
+  `undef MEMC_RDATARAM_RAM_13_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_14_EXISTS
+  `undef MEMC_RDATARAM_RAM_14_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_15_EXISTS
+  `undef MEMC_RDATARAM_RAM_15_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_1_EXISTS
+  `undef MEMC_RDATARAM_RAM_1_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_2_EXISTS
+  `undef MEMC_RDATARAM_RAM_2_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_3_EXISTS
+  `undef MEMC_RDATARAM_RAM_3_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_4_EXISTS
+  `undef MEMC_RDATARAM_RAM_4_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_5_EXISTS
+  `undef MEMC_RDATARAM_RAM_5_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_6_EXISTS
+  `undef MEMC_RDATARAM_RAM_6_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_7_EXISTS
+  `undef MEMC_RDATARAM_RAM_7_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_8_EXISTS
+  `undef MEMC_RDATARAM_RAM_8_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_9_EXISTS
+  `undef MEMC_RDATARAM_RAM_9_EXISTS
+`endif
+
+`ifdef MEMC_RDATARAM_RAM_ENABLE
+  `undef MEMC_RDATARAM_RAM_ENABLE
+`endif
+
+`ifdef MEMC_RDCMD_ENTRY_BITS
+  `undef MEMC_RDCMD_ENTRY_BITS
+`endif
+
+`ifdef MEMC_REG_DFI_OUT
+  `undef MEMC_REG_DFI_OUT
+`endif
+
+`ifdef MEMC_REG_DFI_OUT_OR_DDRCTL_DDR
+  `undef MEMC_REG_DFI_OUT_OR_DDRCTL_DDR
+`endif
+
+`ifdef MEMC_REG_DFI_OUT_VAL
+  `undef MEMC_REG_DFI_OUT_VAL
+`endif
+
+`ifdef MEMC_REG_DFI_OUT_WR_DATA
+  `undef MEMC_REG_DFI_OUT_WR_DATA
+`endif
+
+`ifdef MEMC_REG_DFI_OUT_WR_DATA_VAL
+  `undef MEMC_REG_DFI_OUT_WR_DATA_VAL
+`endif
+
+`ifdef MEMC_REG_DFI_OUT_WR_DATA_VAL_EQ_1
+  `undef MEMC_REG_DFI_OUT_WR_DATA_VAL_EQ_1
+`endif
+
+`ifdef MEMC_RETRY_WDATARAM0_EXISTS
+  `undef MEMC_RETRY_WDATARAM0_EXISTS
+`endif
+
+`ifdef MEMC_RETRY_WDATARAM1_EXISTS
+  `undef MEMC_RETRY_WDATARAM1_EXISTS
+`endif
+
+`ifdef MEMC_RETRY_WDATARAM_PAR_WIDTH
+  `undef MEMC_RETRY_WDATARAM_PAR_WIDTH
+`endif
+
+`ifdef MEMC_RETRY_WDATARAM_PAR_WIDTH_EXT
+  `undef MEMC_RETRY_WDATARAM_PAR_WIDTH_EXT
+`endif
+
+`ifdef MEMC_RETRY_WDATARAM_USE_PAR
+  `undef MEMC_RETRY_WDATARAM_USE_PAR
+`endif
+
+`ifdef MEMC_RMW_TYPE_NO_RMW
+  `undef MEMC_RMW_TYPE_NO_RMW
+`endif
+
+`ifdef MEMC_RMW_TYPE_PARTIAL_NBW
+  `undef MEMC_RMW_TYPE_PARTIAL_NBW
+`endif
+
+`ifdef MEMC_RMW_TYPE_RMW_CMD
+  `undef MEMC_RMW_TYPE_RMW_CMD
+`endif
+
+`ifdef MEMC_RMW_TYPE_SCRUB
+  `undef MEMC_RMW_TYPE_SCRUB
+`endif
+
+`ifdef MEMC_ROW17_EN
+  `undef MEMC_ROW17_EN
+`endif
+
+`ifdef MEMC_RT_FIFO_DEPTH
+  `undef MEMC_RT_FIFO_DEPTH
+`endif
+
+`ifdef MEMC_SECDED_ECC_WIDTH_BITS
+  `undef MEMC_SECDED_ECC_WIDTH_BITS
+`endif
+
+`ifdef MEMC_SIDEBAND_ECC_0_OR_INLINE_ECC_1
+  `undef MEMC_SIDEBAND_ECC_0_OR_INLINE_ECC_1
+`endif
+
+`ifdef MEMC_SIDEBAND_ECC_EN
+  `undef MEMC_SIDEBAND_ECC_EN
+`endif
+
+`ifdef MEMC_SPECIAL_IH_FIFO
+  `undef MEMC_SPECIAL_IH_FIFO
+`endif
+
+`ifdef MEMC_TAGBITS
+  `undef MEMC_TAGBITS
+`endif
+
+`ifdef MEMC_USE_RMW
+  `undef MEMC_USE_RMW
+`endif
+
+`ifdef MEMC_USE_RMW_EN
+  `undef MEMC_USE_RMW_EN
+`endif
+
+`ifdef MEMC_USE_RMW_IN_1_TO_4_OR_MEMC_BURST_LENGTH_16
+  `undef MEMC_USE_RMW_IN_1_TO_4_OR_MEMC_BURST_LENGTH_16
+`endif
+
+`ifdef MEMC_USE_RMW_OR_MEMC_INLINE_ECC
+  `undef MEMC_USE_RMW_OR_MEMC_INLINE_ECC
+`endif
+
+`ifdef MEMC_USE_XVP
+  `undef MEMC_USE_XVP
+`endif
+
+`ifdef MEMC_WDATARAM0_EXISTS
+  `undef MEMC_WDATARAM0_EXISTS
+`endif
+
+`ifdef MEMC_WDATARAM1_EXISTS
+  `undef MEMC_WDATARAM1_EXISTS
+`endif
+
+`ifdef MEMC_WDATARAM_DEPTH
+  `undef MEMC_WDATARAM_DEPTH
+`endif
+
+`ifdef MEMC_WDATARAM_KBD_SBECC_EN
+  `undef MEMC_WDATARAM_KBD_SBECC_EN
+`endif
+
+`ifdef MEMC_WDATARAM_NUM_BITS_PER_KBD
+  `undef MEMC_WDATARAM_NUM_BITS_PER_KBD
+`endif
+
+`ifdef MEMC_WDATARAM_OCECC
+  `undef MEMC_WDATARAM_OCECC
+`endif
+
+`ifdef MEMC_WDATARAM_OCSAP
+  `undef MEMC_WDATARAM_OCSAP
+`endif
+
+`ifdef MEMC_WDATARAM_PAR_WIDTH
+  `undef MEMC_WDATARAM_PAR_WIDTH
+`endif
+
+`ifdef MEMC_WDATARAM_PAR_WIDTH_EXT
+  `undef MEMC_WDATARAM_PAR_WIDTH_EXT
+`endif
+
+`ifdef MEMC_WDATA_PTR_BITS
+  `undef MEMC_WDATA_PTR_BITS
+`endif
+
+`ifdef MEMC_WORD_BITS
+  `undef MEMC_WORD_BITS
+`endif
+
+`ifdef MEMC_WRCMD_ENTRIES_ADDR
+  `undef MEMC_WRCMD_ENTRIES_ADDR
+`endif
+
+`ifdef MEMC_WRCMD_ENTRY_BITS
+  `undef MEMC_WRCMD_ENTRY_BITS
+`endif
+
+`ifdef MEMC_WRDATA_CYCLES
+  `undef MEMC_WRDATA_CYCLES
+`endif
+
+`ifdef MPAMF_IMPL_IDR_VALUE
+  `undef MPAMF_IMPL_IDR_VALUE
+`endif
+
+`ifdef PHY_DFI_TOTAL_DATAEN_WIDTH
+  `undef PHY_DFI_TOTAL_DATAEN_WIDTH
+`endif
+
+`ifdef PHY_DFI_TOTAL_DATA_WIDTH
+  `undef PHY_DFI_TOTAL_DATA_WIDTH
+`endif
+
+`ifdef PHY_DFI_TOTAL_MASK_WIDTH
+  `undef PHY_DFI_TOTAL_MASK_WIDTH
+`endif
+
+`ifdef PIPELINE_REF_RDWR_SWITCH
+  `undef PIPELINE_REF_RDWR_SWITCH
+`endif
+
+`ifdef PIPELINE_REF_RDWR_SWITCH_EN
+  `undef PIPELINE_REF_RDWR_SWITCH_EN
+`endif
+
+`ifdef PI_ALLOW_BL2
+  `undef PI_ALLOW_BL2
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP10_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP10_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP11_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP11_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP12_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP12_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP3_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP3_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP4_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP4_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP5_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP5_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP6_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP6_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP7_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP7_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP8_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP8_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_ADDRMAP9_ADDR
+  `undef REGB_ADDR_MAP0_ADDRMAP9_ADDR
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP10
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP10
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP11
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP11
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP12
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP12
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP3
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP3
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP4
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP4
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP5
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP5
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP6
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP6
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP7
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP7
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP8
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP8
+`endif
+
+`ifdef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP9
+  `undef REGB_ADDR_MAP0_COMPANION_MSK_ADDRMAP9
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP10
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP10
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP10_ADDRMAP_ROW_B2
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP10_ADDRMAP_ROW_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP10_ADDRMAP_ROW_B3
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP10_ADDRMAP_ROW_B3
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP10_ADDRMAP_ROW_B4
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP10_ADDRMAP_ROW_B4
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP10_ADDRMAP_ROW_B5
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP10_ADDRMAP_ROW_B5
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP11
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP11
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP11_ADDRMAP_ROW_B0
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP11_ADDRMAP_ROW_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP11_ADDRMAP_ROW_B1
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP11_ADDRMAP_ROW_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP12
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP12
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP12_NONBINARY_DEVICE_DENSITY
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP12_NONBINARY_DEVICE_DENSITY
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP3
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP3
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP3_ADDRMAP_BANK_B0
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP3_ADDRMAP_BANK_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP3_ADDRMAP_BANK_B1
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP3_ADDRMAP_BANK_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP3_ADDRMAP_BANK_B2
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP3_ADDRMAP_BANK_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP4
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP4
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP4_ADDRMAP_BG_B0
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP4_ADDRMAP_BG_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP4_ADDRMAP_BG_B1
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP4_ADDRMAP_BG_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP4_ADDRMAP_BG_B2
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP4_ADDRMAP_BG_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP5
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP5
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP5_ADDRMAP_COL_B10
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP5_ADDRMAP_COL_B10
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP5_ADDRMAP_COL_B7
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP5_ADDRMAP_COL_B7
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP5_ADDRMAP_COL_B8
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP5_ADDRMAP_COL_B8
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP5_ADDRMAP_COL_B9
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP5_ADDRMAP_COL_B9
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP6
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP6
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP6_ADDRMAP_COL_B3
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP6_ADDRMAP_COL_B3
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP6_ADDRMAP_COL_B4
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP6_ADDRMAP_COL_B4
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP6_ADDRMAP_COL_B5
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP6_ADDRMAP_COL_B5
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP6_ADDRMAP_COL_B6
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP6_ADDRMAP_COL_B6
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP7
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP7
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP7_ADDRMAP_ROW_B14
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP7_ADDRMAP_ROW_B14
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP7_ADDRMAP_ROW_B15
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP7_ADDRMAP_ROW_B15
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP7_ADDRMAP_ROW_B16
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP7_ADDRMAP_ROW_B16
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP7_ADDRMAP_ROW_B17
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP7_ADDRMAP_ROW_B17
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP8
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP8
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP8_ADDRMAP_ROW_B10
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP8_ADDRMAP_ROW_B10
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP8_ADDRMAP_ROW_B11
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP8_ADDRMAP_ROW_B11
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP8_ADDRMAP_ROW_B12
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP8_ADDRMAP_ROW_B12
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP8_ADDRMAP_ROW_B13
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP8_ADDRMAP_ROW_B13
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP9
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP9
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP9_ADDRMAP_ROW_B6
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP9_ADDRMAP_ROW_B6
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP9_ADDRMAP_ROW_B7
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP9_ADDRMAP_ROW_B7
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP9_ADDRMAP_ROW_B8
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP9_ADDRMAP_ROW_B8
+`endif
+
+`ifdef REGB_ADDR_MAP0_DFLT_ADDRMAP9_ADDRMAP_ROW_B9
+  `undef REGB_ADDR_MAP0_DFLT_ADDRMAP9_ADDRMAP_ROW_B9
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP10
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP10
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP10_ADDRMAP_ROW_B2
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP10_ADDRMAP_ROW_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP10_ADDRMAP_ROW_B3
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP10_ADDRMAP_ROW_B3
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP10_ADDRMAP_ROW_B4
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP10_ADDRMAP_ROW_B4
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP10_ADDRMAP_ROW_B5
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP10_ADDRMAP_ROW_B5
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP11
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP11
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP11_ADDRMAP_ROW_B0
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP11_ADDRMAP_ROW_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP11_ADDRMAP_ROW_B1
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP11_ADDRMAP_ROW_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP12
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP12
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP12_NONBINARY_DEVICE_DENSITY
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP12_NONBINARY_DEVICE_DENSITY
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP3
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP3
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP3_ADDRMAP_BANK_B0
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP3_ADDRMAP_BANK_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP3_ADDRMAP_BANK_B1
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP3_ADDRMAP_BANK_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP3_ADDRMAP_BANK_B2
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP3_ADDRMAP_BANK_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP4
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP4
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP4_ADDRMAP_BG_B0
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP4_ADDRMAP_BG_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP4_ADDRMAP_BG_B1
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP4_ADDRMAP_BG_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP4_ADDRMAP_BG_B2
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP4_ADDRMAP_BG_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP5
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP5
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP5_ADDRMAP_COL_B10
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP5_ADDRMAP_COL_B10
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP5_ADDRMAP_COL_B7
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP5_ADDRMAP_COL_B7
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP5_ADDRMAP_COL_B8
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP5_ADDRMAP_COL_B8
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP5_ADDRMAP_COL_B9
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP5_ADDRMAP_COL_B9
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP6
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP6
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP6_ADDRMAP_COL_B3
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP6_ADDRMAP_COL_B3
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP6_ADDRMAP_COL_B4
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP6_ADDRMAP_COL_B4
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP6_ADDRMAP_COL_B5
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP6_ADDRMAP_COL_B5
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP6_ADDRMAP_COL_B6
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP6_ADDRMAP_COL_B6
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP7
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP7
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP7_ADDRMAP_ROW_B14
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP7_ADDRMAP_ROW_B14
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP7_ADDRMAP_ROW_B15
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP7_ADDRMAP_ROW_B15
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP7_ADDRMAP_ROW_B16
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP7_ADDRMAP_ROW_B16
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP7_ADDRMAP_ROW_B17
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP7_ADDRMAP_ROW_B17
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP8
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP8
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP8_ADDRMAP_ROW_B10
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP8_ADDRMAP_ROW_B10
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP8_ADDRMAP_ROW_B11
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP8_ADDRMAP_ROW_B11
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP8_ADDRMAP_ROW_B12
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP8_ADDRMAP_ROW_B12
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP8_ADDRMAP_ROW_B13
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP8_ADDRMAP_ROW_B13
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP9
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP9
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP9_ADDRMAP_ROW_B6
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP9_ADDRMAP_ROW_B6
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP9_ADDRMAP_ROW_B7
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP9_ADDRMAP_ROW_B7
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP9_ADDRMAP_ROW_B8
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP9_ADDRMAP_ROW_B8
+`endif
+
+`ifdef REGB_ADDR_MAP0_MSK_ADDRMAP9_ADDRMAP_ROW_B9
+  `undef REGB_ADDR_MAP0_MSK_ADDRMAP9_ADDRMAP_ROW_B9
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP10_ADDRMAP_ROW_B2
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP10_ADDRMAP_ROW_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP10_ADDRMAP_ROW_B3
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP10_ADDRMAP_ROW_B3
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP10_ADDRMAP_ROW_B4
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP10_ADDRMAP_ROW_B4
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP10_ADDRMAP_ROW_B5
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP10_ADDRMAP_ROW_B5
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP11_ADDRMAP_ROW_B0
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP11_ADDRMAP_ROW_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP11_ADDRMAP_ROW_B1
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP11_ADDRMAP_ROW_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP12_NONBINARY_DEVICE_DENSITY
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP12_NONBINARY_DEVICE_DENSITY
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP3_ADDRMAP_BANK_B0
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP3_ADDRMAP_BANK_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP3_ADDRMAP_BANK_B1
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP3_ADDRMAP_BANK_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP3_ADDRMAP_BANK_B2
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP3_ADDRMAP_BANK_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP4_ADDRMAP_BG_B0
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP4_ADDRMAP_BG_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP4_ADDRMAP_BG_B1
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP4_ADDRMAP_BG_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP4_ADDRMAP_BG_B2
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP4_ADDRMAP_BG_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP5_ADDRMAP_COL_B10
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP5_ADDRMAP_COL_B10
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP5_ADDRMAP_COL_B7
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP5_ADDRMAP_COL_B7
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP5_ADDRMAP_COL_B8
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP5_ADDRMAP_COL_B8
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP5_ADDRMAP_COL_B9
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP5_ADDRMAP_COL_B9
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP6_ADDRMAP_COL_B3
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP6_ADDRMAP_COL_B3
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP6_ADDRMAP_COL_B4
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP6_ADDRMAP_COL_B4
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP6_ADDRMAP_COL_B5
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP6_ADDRMAP_COL_B5
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP6_ADDRMAP_COL_B6
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP6_ADDRMAP_COL_B6
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP7_ADDRMAP_ROW_B14
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP7_ADDRMAP_ROW_B14
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP7_ADDRMAP_ROW_B15
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP7_ADDRMAP_ROW_B15
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP7_ADDRMAP_ROW_B16
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP7_ADDRMAP_ROW_B16
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP7_ADDRMAP_ROW_B17
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP7_ADDRMAP_ROW_B17
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP8_ADDRMAP_ROW_B10
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP8_ADDRMAP_ROW_B10
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP8_ADDRMAP_ROW_B11
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP8_ADDRMAP_ROW_B11
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP8_ADDRMAP_ROW_B12
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP8_ADDRMAP_ROW_B12
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP8_ADDRMAP_ROW_B13
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP8_ADDRMAP_ROW_B13
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP9_ADDRMAP_ROW_B6
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP9_ADDRMAP_ROW_B6
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP9_ADDRMAP_ROW_B7
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP9_ADDRMAP_ROW_B7
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP9_ADDRMAP_ROW_B8
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP9_ADDRMAP_ROW_B8
+`endif
+
+`ifdef REGB_ADDR_MAP0_OFFSET_ADDRMAP9_ADDRMAP_ROW_B9
+  `undef REGB_ADDR_MAP0_OFFSET_ADDRMAP9_ADDRMAP_ROW_B9
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP10
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP10
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP11
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP11
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP12
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP12
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP3
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP3
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP4
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP4
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP5
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP5
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP6
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP6
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP7
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP7
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP8
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP8
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP9
+  `undef REGB_ADDR_MAP0_ONEBITRO_MSK_ADDRMAP9
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP10
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP10
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP11
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP11
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP12
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP12
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP3
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP3
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP4
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP4
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP5
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP5
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP6
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP6
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP7
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP7
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP8
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP8
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP9
+  `undef REGB_ADDR_MAP0_ONETOCLR_MSK_ADDRMAP9
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP10
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP10
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP11
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP11
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP12
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP12
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP3
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP3
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP4
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP4
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP5
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP5
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP6
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP6
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP7
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP7
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP8
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP8
+`endif
+
+`ifdef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP9
+  `undef REGB_ADDR_MAP0_ONETOSET_MSK_ADDRMAP9
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP10
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP10
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP11
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP11
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP12
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP12
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP3
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP3
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP4
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP4
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP5
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP5
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP6
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP6
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP7
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP7
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP8
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP8
+`endif
+
+`ifdef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP9
+  `undef REGB_ADDR_MAP0_RWONLY_MSK_ADDRMAP9
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP10
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP10
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP10_ADDRMAP_ROW_B2
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP10_ADDRMAP_ROW_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP10_ADDRMAP_ROW_B3
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP10_ADDRMAP_ROW_B3
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP10_ADDRMAP_ROW_B4
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP10_ADDRMAP_ROW_B4
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP10_ADDRMAP_ROW_B5
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP10_ADDRMAP_ROW_B5
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP11
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP11
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP11_ADDRMAP_ROW_B0
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP11_ADDRMAP_ROW_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP11_ADDRMAP_ROW_B1
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP11_ADDRMAP_ROW_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP12
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP12
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP12_NONBINARY_DEVICE_DENSITY
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP12_NONBINARY_DEVICE_DENSITY
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP3
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP3
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP3_ADDRMAP_BANK_B0
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP3_ADDRMAP_BANK_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP3_ADDRMAP_BANK_B1
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP3_ADDRMAP_BANK_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP3_ADDRMAP_BANK_B2
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP3_ADDRMAP_BANK_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP4
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP4
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP4_ADDRMAP_BG_B0
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP4_ADDRMAP_BG_B0
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP4_ADDRMAP_BG_B1
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP4_ADDRMAP_BG_B1
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP4_ADDRMAP_BG_B2
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP4_ADDRMAP_BG_B2
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP5
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP5
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP5_ADDRMAP_COL_B10
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP5_ADDRMAP_COL_B10
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP5_ADDRMAP_COL_B7
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP5_ADDRMAP_COL_B7
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP5_ADDRMAP_COL_B8
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP5_ADDRMAP_COL_B8
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP5_ADDRMAP_COL_B9
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP5_ADDRMAP_COL_B9
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP6
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP6
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP6_ADDRMAP_COL_B3
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP6_ADDRMAP_COL_B3
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP6_ADDRMAP_COL_B4
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP6_ADDRMAP_COL_B4
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP6_ADDRMAP_COL_B5
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP6_ADDRMAP_COL_B5
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP6_ADDRMAP_COL_B6
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP6_ADDRMAP_COL_B6
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP7
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP7
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP7_ADDRMAP_ROW_B14
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP7_ADDRMAP_ROW_B14
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP7_ADDRMAP_ROW_B15
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP7_ADDRMAP_ROW_B15
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP7_ADDRMAP_ROW_B16
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP7_ADDRMAP_ROW_B16
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP7_ADDRMAP_ROW_B17
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP7_ADDRMAP_ROW_B17
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP8
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP8
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP8_ADDRMAP_ROW_B10
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP8_ADDRMAP_ROW_B10
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP8_ADDRMAP_ROW_B11
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP8_ADDRMAP_ROW_B11
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP8_ADDRMAP_ROW_B12
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP8_ADDRMAP_ROW_B12
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP8_ADDRMAP_ROW_B13
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP8_ADDRMAP_ROW_B13
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP9
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP9
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP9_ADDRMAP_ROW_B6
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP9_ADDRMAP_ROW_B6
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP9_ADDRMAP_ROW_B7
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP9_ADDRMAP_ROW_B7
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP9_ADDRMAP_ROW_B8
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP9_ADDRMAP_ROW_B8
+`endif
+
+`ifdef REGB_ADDR_MAP0_SIZE_ADDRMAP9_ADDRMAP_ROW_B9
+  `undef REGB_ADDR_MAP0_SIZE_ADDRMAP9_ADDRMAP_ROW_B9
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PCCFG
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PCCFG
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PCFGQOS0
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PCFGQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PCFGQOS1
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PCFGQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PCFGR
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PCFGR
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PCFGW
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PCFGW
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PCFGWQOS0
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PCFGWQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PCFGWQOS1
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PCFGWQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PCTRL
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PCTRL
+`endif
+
+`ifdef REGB_ARB_PORT0_COMPANION_MSK_PSTAT
+  `undef REGB_ARB_PORT0_COMPANION_MSK_PSTAT
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCCFG
+  `undef REGB_ARB_PORT0_DFLT_PCCFG
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCCFG_DCH_DENSITY_RATIO
+  `undef REGB_ARB_PORT0_DFLT_PCCFG_DCH_DENSITY_RATIO
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCCFG_GO2CRITICAL_EN
+  `undef REGB_ARB_PORT0_DFLT_PCCFG_GO2CRITICAL_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCCFG_PAGEMATCH_LIMIT
+  `undef REGB_ARB_PORT0_DFLT_PCCFG_PAGEMATCH_LIMIT
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS0
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_LEVEL1
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_LEVEL1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_LEVEL2
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_LEVEL2
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_REGION0
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_REGION0
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_REGION1
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_REGION1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_REGION2
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS0_RQOS_MAP_REGION2
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS1
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS1_RQOS_MAP_TIMEOUTB
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS1_RQOS_MAP_TIMEOUTB
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGQOS1_RQOS_MAP_TIMEOUTR
+  `undef REGB_ARB_PORT0_DFLT_PCFGQOS1_RQOS_MAP_TIMEOUTR
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGR
+  `undef REGB_ARB_PORT0_DFLT_PCFGR
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGR_RDWR_ORDERED_EN
+  `undef REGB_ARB_PORT0_DFLT_PCFGR_RDWR_ORDERED_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGR_RD_PORT_AGING_EN
+  `undef REGB_ARB_PORT0_DFLT_PCFGR_RD_PORT_AGING_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGR_RD_PORT_PAGEMATCH_EN
+  `undef REGB_ARB_PORT0_DFLT_PCFGR_RD_PORT_PAGEMATCH_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGR_RD_PORT_PRIORITY
+  `undef REGB_ARB_PORT0_DFLT_PCFGR_RD_PORT_PRIORITY
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGR_RD_PORT_URGENT_EN
+  `undef REGB_ARB_PORT0_DFLT_PCFGR_RD_PORT_URGENT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGR_READ_REORDER_BYPASS_EN
+  `undef REGB_ARB_PORT0_DFLT_PCFGR_READ_REORDER_BYPASS_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGR_RRB_LOCK_THRESHOLD
+  `undef REGB_ARB_PORT0_DFLT_PCFGR_RRB_LOCK_THRESHOLD
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGW
+  `undef REGB_ARB_PORT0_DFLT_PCFGW
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS0
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_LEVEL1
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_LEVEL1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_LEVEL2
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_LEVEL2
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_REGION0
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_REGION0
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_REGION1
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_REGION1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_REGION2
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS0_WQOS_MAP_REGION2
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS1
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS1_WQOS_MAP_TIMEOUT1
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS1_WQOS_MAP_TIMEOUT1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGWQOS1_WQOS_MAP_TIMEOUT2
+  `undef REGB_ARB_PORT0_DFLT_PCFGWQOS1_WQOS_MAP_TIMEOUT2
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGW_SNF_MODE
+  `undef REGB_ARB_PORT0_DFLT_PCFGW_SNF_MODE
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGW_WR_PORT_AGING_EN
+  `undef REGB_ARB_PORT0_DFLT_PCFGW_WR_PORT_AGING_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGW_WR_PORT_PAGEMATCH_EN
+  `undef REGB_ARB_PORT0_DFLT_PCFGW_WR_PORT_PAGEMATCH_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGW_WR_PORT_PRIORITY
+  `undef REGB_ARB_PORT0_DFLT_PCFGW_WR_PORT_PRIORITY
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCFGW_WR_PORT_URGENT_EN
+  `undef REGB_ARB_PORT0_DFLT_PCFGW_WR_PORT_URGENT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCTRL
+  `undef REGB_ARB_PORT0_DFLT_PCTRL
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PCTRL_PORT_EN
+  `undef REGB_ARB_PORT0_DFLT_PCTRL_PORT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT
+  `undef REGB_ARB_PORT0_DFLT_PSTAT
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_0
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_0
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_1
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_10
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_10
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_11
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_11
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_12
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_12
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_13
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_13
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_14
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_14
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_15
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_15
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_2
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_2
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_3
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_3
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_4
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_4
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_5
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_5
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_6
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_6
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_7
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_7
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_8
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_8
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_9
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_RD_PORT_BUSY_9
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_0
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_0
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_1
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_1
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_10
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_10
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_11
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_11
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_12
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_12
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_13
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_13
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_14
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_14
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_15
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_15
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_2
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_2
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_3
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_3
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_4
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_4
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_5
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_5
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_6
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_6
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_7
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_7
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_8
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_8
+`endif
+
+`ifdef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_9
+  `undef REGB_ARB_PORT0_DFLT_PSTAT_WR_PORT_BUSY_9
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCCFG
+  `undef REGB_ARB_PORT0_MSK_PCCFG
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCCFG_DCH_DENSITY_RATIO
+  `undef REGB_ARB_PORT0_MSK_PCCFG_DCH_DENSITY_RATIO
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCCFG_GO2CRITICAL_EN
+  `undef REGB_ARB_PORT0_MSK_PCCFG_GO2CRITICAL_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCCFG_PAGEMATCH_LIMIT
+  `undef REGB_ARB_PORT0_MSK_PCCFG_PAGEMATCH_LIMIT
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS0
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_LEVEL1
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_LEVEL1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_LEVEL2
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_LEVEL2
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_REGION0
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_REGION0
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_REGION1
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_REGION1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_REGION2
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS0_RQOS_MAP_REGION2
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS1
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS1_RQOS_MAP_TIMEOUTB
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS1_RQOS_MAP_TIMEOUTB
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGQOS1_RQOS_MAP_TIMEOUTR
+  `undef REGB_ARB_PORT0_MSK_PCFGQOS1_RQOS_MAP_TIMEOUTR
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGR
+  `undef REGB_ARB_PORT0_MSK_PCFGR
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGR_RDWR_ORDERED_EN
+  `undef REGB_ARB_PORT0_MSK_PCFGR_RDWR_ORDERED_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGR_RD_PORT_AGING_EN
+  `undef REGB_ARB_PORT0_MSK_PCFGR_RD_PORT_AGING_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGR_RD_PORT_PAGEMATCH_EN
+  `undef REGB_ARB_PORT0_MSK_PCFGR_RD_PORT_PAGEMATCH_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGR_RD_PORT_PRIORITY
+  `undef REGB_ARB_PORT0_MSK_PCFGR_RD_PORT_PRIORITY
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGR_RD_PORT_URGENT_EN
+  `undef REGB_ARB_PORT0_MSK_PCFGR_RD_PORT_URGENT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGR_READ_REORDER_BYPASS_EN
+  `undef REGB_ARB_PORT0_MSK_PCFGR_READ_REORDER_BYPASS_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGR_RRB_LOCK_THRESHOLD
+  `undef REGB_ARB_PORT0_MSK_PCFGR_RRB_LOCK_THRESHOLD
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGW
+  `undef REGB_ARB_PORT0_MSK_PCFGW
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS0
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_LEVEL1
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_LEVEL1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_LEVEL2
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_LEVEL2
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_REGION0
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_REGION0
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_REGION1
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_REGION1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_REGION2
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS0_WQOS_MAP_REGION2
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS1
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS1_WQOS_MAP_TIMEOUT1
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS1_WQOS_MAP_TIMEOUT1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGWQOS1_WQOS_MAP_TIMEOUT2
+  `undef REGB_ARB_PORT0_MSK_PCFGWQOS1_WQOS_MAP_TIMEOUT2
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGW_SNF_MODE
+  `undef REGB_ARB_PORT0_MSK_PCFGW_SNF_MODE
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGW_WR_PORT_AGING_EN
+  `undef REGB_ARB_PORT0_MSK_PCFGW_WR_PORT_AGING_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGW_WR_PORT_PAGEMATCH_EN
+  `undef REGB_ARB_PORT0_MSK_PCFGW_WR_PORT_PAGEMATCH_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGW_WR_PORT_PRIORITY
+  `undef REGB_ARB_PORT0_MSK_PCFGW_WR_PORT_PRIORITY
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCFGW_WR_PORT_URGENT_EN
+  `undef REGB_ARB_PORT0_MSK_PCFGW_WR_PORT_URGENT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCTRL
+  `undef REGB_ARB_PORT0_MSK_PCTRL
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PCTRL_PORT_EN
+  `undef REGB_ARB_PORT0_MSK_PCTRL_PORT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT
+  `undef REGB_ARB_PORT0_MSK_PSTAT
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_0
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_0
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_1
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_10
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_10
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_11
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_11
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_12
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_12
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_13
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_13
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_14
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_14
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_15
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_15
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_2
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_2
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_3
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_3
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_4
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_4
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_5
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_5
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_6
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_6
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_7
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_7
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_8
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_8
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_9
+  `undef REGB_ARB_PORT0_MSK_PSTAT_RD_PORT_BUSY_9
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_0
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_0
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_1
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_1
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_10
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_10
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_11
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_11
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_12
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_12
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_13
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_13
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_14
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_14
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_15
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_15
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_2
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_2
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_3
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_3
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_4
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_4
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_5
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_5
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_6
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_6
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_7
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_7
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_8
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_8
+`endif
+
+`ifdef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_9
+  `undef REGB_ARB_PORT0_MSK_PSTAT_WR_PORT_BUSY_9
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCCFG_DCH_DENSITY_RATIO
+  `undef REGB_ARB_PORT0_OFFSET_PCCFG_DCH_DENSITY_RATIO
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCCFG_GO2CRITICAL_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCCFG_GO2CRITICAL_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCCFG_PAGEMATCH_LIMIT
+  `undef REGB_ARB_PORT0_OFFSET_PCCFG_PAGEMATCH_LIMIT
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_LEVEL1
+  `undef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_LEVEL1
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_LEVEL2
+  `undef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_LEVEL2
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_REGION0
+  `undef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_REGION0
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_REGION1
+  `undef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_REGION1
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_REGION2
+  `undef REGB_ARB_PORT0_OFFSET_PCFGQOS0_RQOS_MAP_REGION2
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGQOS1_RQOS_MAP_TIMEOUTB
+  `undef REGB_ARB_PORT0_OFFSET_PCFGQOS1_RQOS_MAP_TIMEOUTB
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGQOS1_RQOS_MAP_TIMEOUTR
+  `undef REGB_ARB_PORT0_OFFSET_PCFGQOS1_RQOS_MAP_TIMEOUTR
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGR_RDWR_ORDERED_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCFGR_RDWR_ORDERED_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGR_RD_PORT_AGING_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCFGR_RD_PORT_AGING_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGR_RD_PORT_PAGEMATCH_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCFGR_RD_PORT_PAGEMATCH_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGR_RD_PORT_PRIORITY
+  `undef REGB_ARB_PORT0_OFFSET_PCFGR_RD_PORT_PRIORITY
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGR_RD_PORT_URGENT_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCFGR_RD_PORT_URGENT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGR_READ_REORDER_BYPASS_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCFGR_READ_REORDER_BYPASS_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGR_RRB_LOCK_THRESHOLD
+  `undef REGB_ARB_PORT0_OFFSET_PCFGR_RRB_LOCK_THRESHOLD
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_LEVEL1
+  `undef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_LEVEL1
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_LEVEL2
+  `undef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_LEVEL2
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_REGION0
+  `undef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_REGION0
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_REGION1
+  `undef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_REGION1
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_REGION2
+  `undef REGB_ARB_PORT0_OFFSET_PCFGWQOS0_WQOS_MAP_REGION2
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGWQOS1_WQOS_MAP_TIMEOUT1
+  `undef REGB_ARB_PORT0_OFFSET_PCFGWQOS1_WQOS_MAP_TIMEOUT1
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGWQOS1_WQOS_MAP_TIMEOUT2
+  `undef REGB_ARB_PORT0_OFFSET_PCFGWQOS1_WQOS_MAP_TIMEOUT2
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGW_SNF_MODE
+  `undef REGB_ARB_PORT0_OFFSET_PCFGW_SNF_MODE
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGW_WR_PORT_AGING_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCFGW_WR_PORT_AGING_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGW_WR_PORT_PAGEMATCH_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCFGW_WR_PORT_PAGEMATCH_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGW_WR_PORT_PRIORITY
+  `undef REGB_ARB_PORT0_OFFSET_PCFGW_WR_PORT_PRIORITY
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCFGW_WR_PORT_URGENT_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCFGW_WR_PORT_URGENT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PCTRL_PORT_EN
+  `undef REGB_ARB_PORT0_OFFSET_PCTRL_PORT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_0
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_0
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_1
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_1
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_10
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_10
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_11
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_11
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_12
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_12
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_13
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_13
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_14
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_14
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_15
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_15
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_2
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_2
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_3
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_3
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_4
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_4
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_5
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_5
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_6
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_6
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_7
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_7
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_8
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_8
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_9
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_RD_PORT_BUSY_9
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_0
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_0
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_1
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_1
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_10
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_10
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_11
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_11
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_12
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_12
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_13
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_13
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_14
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_14
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_15
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_15
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_2
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_2
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_3
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_3
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_4
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_4
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_5
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_5
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_6
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_6
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_7
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_7
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_8
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_8
+`endif
+
+`ifdef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_9
+  `undef REGB_ARB_PORT0_OFFSET_PSTAT_WR_PORT_BUSY_9
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PCCFG
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PCCFG
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGQOS0
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGQOS1
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGR
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGR
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGW
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGW
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGWQOS0
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGWQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGWQOS1
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PCFGWQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PCTRL
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PCTRL
+`endif
+
+`ifdef REGB_ARB_PORT0_ONEBITRO_MSK_PSTAT
+  `undef REGB_ARB_PORT0_ONEBITRO_MSK_PSTAT
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PCCFG
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PCCFG
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGQOS0
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGQOS1
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGR
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGR
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGW
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGW
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGWQOS0
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGWQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGWQOS1
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PCFGWQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PCTRL
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PCTRL
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOCLR_MSK_PSTAT
+  `undef REGB_ARB_PORT0_ONETOCLR_MSK_PSTAT
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PCCFG
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PCCFG
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PCFGQOS0
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PCFGQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PCFGQOS1
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PCFGQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PCFGR
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PCFGR
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PCFGW
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PCFGW
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PCFGWQOS0
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PCFGWQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PCFGWQOS1
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PCFGWQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PCTRL
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PCTRL
+`endif
+
+`ifdef REGB_ARB_PORT0_ONETOSET_MSK_PSTAT
+  `undef REGB_ARB_PORT0_ONETOSET_MSK_PSTAT
+`endif
+
+`ifdef REGB_ARB_PORT0_PCCFG_ADDR
+  `undef REGB_ARB_PORT0_PCCFG_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_PCFGQOS0_ADDR
+  `undef REGB_ARB_PORT0_PCFGQOS0_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_PCFGQOS1_ADDR
+  `undef REGB_ARB_PORT0_PCFGQOS1_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_PCFGR_ADDR
+  `undef REGB_ARB_PORT0_PCFGR_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_PCFGWQOS0_ADDR
+  `undef REGB_ARB_PORT0_PCFGWQOS0_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_PCFGWQOS1_ADDR
+  `undef REGB_ARB_PORT0_PCFGWQOS1_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_PCFGW_ADDR
+  `undef REGB_ARB_PORT0_PCFGW_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_PCTRL_ADDR
+  `undef REGB_ARB_PORT0_PCTRL_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_PSTAT_ADDR
+  `undef REGB_ARB_PORT0_PSTAT_ADDR
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PCCFG
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PCCFG
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PCFGQOS0
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PCFGQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PCFGQOS1
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PCFGQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PCFGR
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PCFGR
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PCFGW
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PCFGW
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PCFGWQOS0
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PCFGWQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PCFGWQOS1
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PCFGWQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PCTRL
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PCTRL
+`endif
+
+`ifdef REGB_ARB_PORT0_RWONLY_MSK_PSTAT
+  `undef REGB_ARB_PORT0_RWONLY_MSK_PSTAT
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCCFG
+  `undef REGB_ARB_PORT0_SIZE_PCCFG
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCCFG_DCH_DENSITY_RATIO
+  `undef REGB_ARB_PORT0_SIZE_PCCFG_DCH_DENSITY_RATIO
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCCFG_GO2CRITICAL_EN
+  `undef REGB_ARB_PORT0_SIZE_PCCFG_GO2CRITICAL_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCCFG_PAGEMATCH_LIMIT
+  `undef REGB_ARB_PORT0_SIZE_PCCFG_PAGEMATCH_LIMIT
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS0
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_LEVEL1
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_LEVEL1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_LEVEL2
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_LEVEL2
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_REGION0
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_REGION0
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_REGION1
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_REGION1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_REGION2
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS0_RQOS_MAP_REGION2
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS1
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS1_RQOS_MAP_TIMEOUTB
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS1_RQOS_MAP_TIMEOUTB
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGQOS1_RQOS_MAP_TIMEOUTR
+  `undef REGB_ARB_PORT0_SIZE_PCFGQOS1_RQOS_MAP_TIMEOUTR
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGR
+  `undef REGB_ARB_PORT0_SIZE_PCFGR
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGR_RDWR_ORDERED_EN
+  `undef REGB_ARB_PORT0_SIZE_PCFGR_RDWR_ORDERED_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGR_RD_PORT_AGING_EN
+  `undef REGB_ARB_PORT0_SIZE_PCFGR_RD_PORT_AGING_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGR_RD_PORT_PAGEMATCH_EN
+  `undef REGB_ARB_PORT0_SIZE_PCFGR_RD_PORT_PAGEMATCH_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGR_RD_PORT_PRIORITY
+  `undef REGB_ARB_PORT0_SIZE_PCFGR_RD_PORT_PRIORITY
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGR_RD_PORT_URGENT_EN
+  `undef REGB_ARB_PORT0_SIZE_PCFGR_RD_PORT_URGENT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGR_READ_REORDER_BYPASS_EN
+  `undef REGB_ARB_PORT0_SIZE_PCFGR_READ_REORDER_BYPASS_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGR_RRB_LOCK_THRESHOLD
+  `undef REGB_ARB_PORT0_SIZE_PCFGR_RRB_LOCK_THRESHOLD
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGW
+  `undef REGB_ARB_PORT0_SIZE_PCFGW
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS0
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS0
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_LEVEL1
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_LEVEL1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_LEVEL2
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_LEVEL2
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_REGION0
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_REGION0
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_REGION1
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_REGION1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_REGION2
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS0_WQOS_MAP_REGION2
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS1
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS1_WQOS_MAP_TIMEOUT1
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS1_WQOS_MAP_TIMEOUT1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGWQOS1_WQOS_MAP_TIMEOUT2
+  `undef REGB_ARB_PORT0_SIZE_PCFGWQOS1_WQOS_MAP_TIMEOUT2
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGW_SNF_MODE
+  `undef REGB_ARB_PORT0_SIZE_PCFGW_SNF_MODE
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGW_WR_PORT_AGING_EN
+  `undef REGB_ARB_PORT0_SIZE_PCFGW_WR_PORT_AGING_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGW_WR_PORT_PAGEMATCH_EN
+  `undef REGB_ARB_PORT0_SIZE_PCFGW_WR_PORT_PAGEMATCH_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGW_WR_PORT_PRIORITY
+  `undef REGB_ARB_PORT0_SIZE_PCFGW_WR_PORT_PRIORITY
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCFGW_WR_PORT_URGENT_EN
+  `undef REGB_ARB_PORT0_SIZE_PCFGW_WR_PORT_URGENT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCTRL
+  `undef REGB_ARB_PORT0_SIZE_PCTRL
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PCTRL_PORT_EN
+  `undef REGB_ARB_PORT0_SIZE_PCTRL_PORT_EN
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT
+  `undef REGB_ARB_PORT0_SIZE_PSTAT
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_0
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_0
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_1
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_10
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_10
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_11
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_11
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_12
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_12
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_13
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_13
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_14
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_14
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_15
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_15
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_2
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_2
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_3
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_3
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_4
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_4
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_5
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_5
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_6
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_6
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_7
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_7
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_8
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_8
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_9
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_RD_PORT_BUSY_9
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_0
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_0
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_1
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_1
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_10
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_10
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_11
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_11
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_12
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_12
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_13
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_13
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_14
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_14
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_15
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_15
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_2
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_2
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_3
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_3
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_4
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_4
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_5
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_5
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_6
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_6
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_7
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_7
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_8
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_8
+`endif
+
+`ifdef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_9
+  `undef REGB_ARB_PORT0_SIZE_PSTAT_WR_PORT_BUSY_9
+`endif
+
+`ifdef REGB_DDRC_CH0_CLKGATECTL_ADDR
+  `undef REGB_DDRC_CH0_CLKGATECTL_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_CLKGATECTL
+  `undef REGB_DDRC_CH0_COMPANION_MSK_CLKGATECTL
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DATACTL0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DATACTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DBICTL
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DBICTL
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DDRCTL_VER_NUMBER
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DDRCTL_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DDRCTL_VER_TYPE
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DDRCTL_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DERATECTL0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DERATECTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DERATECTL1
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DERATECTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DERATECTL5
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DERATECTL5
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DERATECTL6
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DERATECTL6
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DERATEDBGCTL
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DERATEDBGCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DERATEDBGSTAT
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DERATEDBGSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DERATESTAT0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DERATESTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DFI0MSGCTL0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DFI0MSGCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DFI0MSGSTAT0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DFI0MSGSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DFILPCFG0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DFILPCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DFIMISC
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DFIMISC
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DFIPHYMSTR
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DFIPHYMSTR
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DFISTAT
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DFISTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DFIUPD0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DFIUPD0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DQSOSCCFG0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DQSOSCCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DQSOSCRUNTIME
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DQSOSCRUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_DQSOSCSTAT0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_DQSOSCSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_HWLPCTL
+  `undef REGB_DDRC_CH0_COMPANION_MSK_HWLPCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_INITTMG0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_INITTMG0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_INITTMG1
+  `undef REGB_DDRC_CH0_COMPANION_MSK_INITTMG1
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_MRCTRL0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_MRCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_MRCTRL1
+  `undef REGB_DDRC_CH0_COMPANION_MSK_MRCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_MRRDATA0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_MRRDATA0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_MRRDATA1
+  `undef REGB_DDRC_CH0_COMPANION_MSK_MRRDATA1
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_MRSTAT
+  `undef REGB_DDRC_CH0_COMPANION_MSK_MRSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_MSTR0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_MSTR0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_MSTR4
+  `undef REGB_DDRC_CH0_COMPANION_MSK_MSTR4
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_ODTMAP
+  `undef REGB_DDRC_CH0_COMPANION_MSK_ODTMAP
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_OPCTRL0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_OPCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_OPCTRL1
+  `undef REGB_DDRC_CH0_COMPANION_MSK_OPCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_OPCTRLCAM
+  `undef REGB_DDRC_CH0_COMPANION_MSK_OPCTRLCAM
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_OPCTRLCMD
+  `undef REGB_DDRC_CH0_COMPANION_MSK_OPCTRLCMD
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_OPCTRLSTAT
+  `undef REGB_DDRC_CH0_COMPANION_MSK_OPCTRLSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_OPREFCTRL0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_OPREFCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_OPREFSTAT0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_OPREFSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_POISONCFG
+  `undef REGB_DDRC_CH0_COMPANION_MSK_POISONCFG
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_POISONSTAT
+  `undef REGB_DDRC_CH0_COMPANION_MSK_POISONSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_PWRCTL
+  `undef REGB_DDRC_CH0_COMPANION_MSK_PWRCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_RFSHCTL0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_RFSHCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_RFSHMOD0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_RFSHMOD0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_SCHED0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_SCHED0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_SCHED1
+  `undef REGB_DDRC_CH0_COMPANION_MSK_SCHED1
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_SCHED3
+  `undef REGB_DDRC_CH0_COMPANION_MSK_SCHED3
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_SCHED4
+  `undef REGB_DDRC_CH0_COMPANION_MSK_SCHED4
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_STAT
+  `undef REGB_DDRC_CH0_COMPANION_MSK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_SWCTL
+  `undef REGB_DDRC_CH0_COMPANION_MSK_SWCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_SWCTLSTATIC
+  `undef REGB_DDRC_CH0_COMPANION_MSK_SWCTLSTATIC
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_SWSTAT
+  `undef REGB_DDRC_CH0_COMPANION_MSK_SWSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_ZQCTL0
+  `undef REGB_DDRC_CH0_COMPANION_MSK_ZQCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_ZQCTL1
+  `undef REGB_DDRC_CH0_COMPANION_MSK_ZQCTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_ZQCTL2
+  `undef REGB_DDRC_CH0_COMPANION_MSK_ZQCTL2
+`endif
+
+`ifdef REGB_DDRC_CH0_COMPANION_MSK_ZQSTAT
+  `undef REGB_DDRC_CH0_COMPANION_MSK_ZQSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DATACTL0_ADDR
+  `undef REGB_DDRC_CH0_DATACTL0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DBICTL_ADDR
+  `undef REGB_DDRC_CH0_DBICTL_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DDRCTL_VER_NUMBER_ADDR
+  `undef REGB_DDRC_CH0_DDRCTL_VER_NUMBER_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DDRCTL_VER_TYPE_ADDR
+  `undef REGB_DDRC_CH0_DDRCTL_VER_TYPE_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DERATECTL0_ADDR
+  `undef REGB_DDRC_CH0_DERATECTL0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DERATECTL1_ADDR
+  `undef REGB_DDRC_CH0_DERATECTL1_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DERATECTL5_ADDR
+  `undef REGB_DDRC_CH0_DERATECTL5_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DERATECTL6_ADDR
+  `undef REGB_DDRC_CH0_DERATECTL6_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DERATEDBGCTL_ADDR
+  `undef REGB_DDRC_CH0_DERATEDBGCTL_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DERATEDBGSTAT_ADDR
+  `undef REGB_DDRC_CH0_DERATEDBGSTAT_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DERATESTAT0_ADDR
+  `undef REGB_DDRC_CH0_DERATESTAT0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFI0MSGCTL0_ADDR
+  `undef REGB_DDRC_CH0_DFI0MSGCTL0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFI0MSGSTAT0_ADDR
+  `undef REGB_DDRC_CH0_DFI0MSGSTAT0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFILPCFG0_ADDR
+  `undef REGB_DDRC_CH0_DFILPCFG0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFIMISC_ADDR
+  `undef REGB_DDRC_CH0_DFIMISC_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFIPHYMSTR_ADDR
+  `undef REGB_DDRC_CH0_DFIPHYMSTR_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFISTAT_ADDR
+  `undef REGB_DDRC_CH0_DFISTAT_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFIUPD0_ADDR
+  `undef REGB_DDRC_CH0_DFIUPD0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_CLKGATECTL
+  `undef REGB_DDRC_CH0_DFLT_CLKGATECTL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_CLKGATECTL_BSM_CLK_ON
+  `undef REGB_DDRC_CH0_DFLT_CLKGATECTL_BSM_CLK_ON
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DATACTL0
+  `undef REGB_DDRC_CH0_DFLT_DATACTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DATACTL0_RD_DATA_COPY_EN
+  `undef REGB_DDRC_CH0_DFLT_DATACTL0_RD_DATA_COPY_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DATACTL0_WR_DATA_COPY_EN
+  `undef REGB_DDRC_CH0_DFLT_DATACTL0_WR_DATA_COPY_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DATACTL0_WR_DATA_X_EN
+  `undef REGB_DDRC_CH0_DFLT_DATACTL0_WR_DATA_X_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DBICTL
+  `undef REGB_DDRC_CH0_DFLT_DBICTL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DBICTL_DM_EN
+  `undef REGB_DDRC_CH0_DFLT_DBICTL_DM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DBICTL_RD_DBI_EN
+  `undef REGB_DDRC_CH0_DFLT_DBICTL_RD_DBI_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DBICTL_WR_DBI_EN
+  `undef REGB_DDRC_CH0_DFLT_DBICTL_WR_DBI_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DDRCTL_VER_NUMBER
+  `undef REGB_DDRC_CH0_DFLT_DDRCTL_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DDRCTL_VER_NUMBER_VER_NUMBER
+  `undef REGB_DDRC_CH0_DFLT_DDRCTL_VER_NUMBER_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DDRCTL_VER_TYPE
+  `undef REGB_DDRC_CH0_DFLT_DDRCTL_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DDRCTL_VER_TYPE_VER_TYPE
+  `undef REGB_DDRC_CH0_DFLT_DDRCTL_VER_TYPE_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL0
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL0_DERATE_ENABLE
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL0_DERATE_ENABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL0_DERATE_MR4_PAUSE_FC
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL0_DERATE_MR4_PAUSE_FC
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL0_DIS_TREFI_X0125
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL0_DIS_TREFI_X0125
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL0_DIS_TREFI_X6X8
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL0_DIS_TREFI_X6X8
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL0_LPDDR4_REFRESH_MODE
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL0_LPDDR4_REFRESH_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL1
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL1_ACTIVE_DERATE_BYTE_RANK0
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL1_ACTIVE_DERATE_BYTE_RANK0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL5
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL5
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL5_DERATE_TEMP_LIMIT_INTR_CLR
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL5_DERATE_TEMP_LIMIT_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL5_DERATE_TEMP_LIMIT_INTR_EN
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL5_DERATE_TEMP_LIMIT_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL5_DERATE_TEMP_LIMIT_INTR_FORCE
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL5_DERATE_TEMP_LIMIT_INTR_FORCE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL6
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL6
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL6_DERATE_HIGH_TEMP_LIMIT
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL6_DERATE_HIGH_TEMP_LIMIT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL6_DERATE_LOW_TEMP_LIMIT
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL6_DERATE_LOW_TEMP_LIMIT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATECTL6_DERATE_MR4_TUF_DIS
+  `undef REGB_DDRC_CH0_DFLT_DERATECTL6_DERATE_MR4_TUF_DIS
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATEDBGCTL
+  `undef REGB_DDRC_CH0_DFLT_DERATEDBGCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATEDBGCTL_DBG_MR4_GRP_SEL
+  `undef REGB_DDRC_CH0_DFLT_DERATEDBGCTL_DBG_MR4_GRP_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATEDBGCTL_DBG_MR4_RANK_SEL
+  `undef REGB_DDRC_CH0_DFLT_DERATEDBGCTL_DBG_MR4_RANK_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT
+  `undef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT_DBG_MR4_BYTE0
+  `undef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT_DBG_MR4_BYTE0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT_DBG_MR4_BYTE1
+  `undef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT_DBG_MR4_BYTE1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT_DBG_MR4_BYTE2
+  `undef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT_DBG_MR4_BYTE2
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT_DBG_MR4_BYTE3
+  `undef REGB_DDRC_CH0_DFLT_DERATEDBGSTAT_DBG_MR4_BYTE3
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATESTAT0
+  `undef REGB_DDRC_CH0_DFLT_DERATESTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DERATESTAT0_DERATE_TEMP_LIMIT_INTR
+  `undef REGB_DDRC_CH0_DFLT_DERATESTAT0_DERATE_TEMP_LIMIT_INTR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0
+  `undef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0_DFI0_CTRLMSG_CMD
+  `undef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0_DFI0_CTRLMSG_CMD
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0_DFI0_CTRLMSG_DATA
+  `undef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0_DFI0_CTRLMSG_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0_DFI0_CTRLMSG_REQ
+  `undef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0_DFI0_CTRLMSG_REQ
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0_DFI0_CTRLMSG_TOUT_CLR
+  `undef REGB_DDRC_CH0_DFLT_DFI0MSGCTL0_DFI0_CTRLMSG_TOUT_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFI0MSGSTAT0
+  `undef REGB_DDRC_CH0_DFLT_DFI0MSGSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFI0MSGSTAT0_DFI0_CTRLMSG_REQ_BUSY
+  `undef REGB_DDRC_CH0_DFLT_DFI0MSGSTAT0_DFI0_CTRLMSG_REQ_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFI0MSGSTAT0_DFI0_CTRLMSG_RESP_TOUT
+  `undef REGB_DDRC_CH0_DFLT_DFI0MSGSTAT0_DFI0_CTRLMSG_RESP_TOUT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFILPCFG0
+  `undef REGB_DDRC_CH0_DFLT_DFILPCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_DATA_REQ_EN
+  `undef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_DATA_REQ_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_DATA
+  `undef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_DSM
+  `undef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_DSM
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_MPSM
+  `undef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_MPSM
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_PD
+  `undef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_PD
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_SR
+  `undef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EN_SR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EXTRA_GAP_WR
+  `undef REGB_DDRC_CH0_DFLT_DFILPCFG0_DFI_LP_EXTRA_GAP_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_CHANNEL_MODE
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_CHANNEL_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_DATA_CS_POLARITY
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_DATA_CS_POLARITY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_FREQUENCY
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_FREQUENCY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_FREQ_FSP
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_FREQ_FSP
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_INIT_COMPLETE_EN
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_INIT_COMPLETE_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_INIT_START
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_DFI_INIT_START
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_DIS_DYN_ADR_TRI
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_DIS_DYN_ADR_TRI
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_LP_OPTIMIZED_WRITE
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_LP_OPTIMIZED_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_PHY_DBI_MODE
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_PHY_DBI_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIMISC_SHARE_DFI_DRAM_CLK_DISABLE
+  `undef REGB_DDRC_CH0_DFLT_DFIMISC_SHARE_DFI_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIPHYMSTR
+  `undef REGB_DDRC_CH0_DFLT_DFIPHYMSTR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIPHYMSTR_DFI_PHYMSTR_BLK_REF_X32
+  `undef REGB_DDRC_CH0_DFLT_DFIPHYMSTR_DFI_PHYMSTR_BLK_REF_X32
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIPHYMSTR_DFI_PHYMSTR_EN
+  `undef REGB_DDRC_CH0_DFLT_DFIPHYMSTR_DFI_PHYMSTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFISTAT
+  `undef REGB_DDRC_CH0_DFLT_DFISTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFISTAT_DFI_INIT_COMPLETE
+  `undef REGB_DDRC_CH0_DFLT_DFISTAT_DFI_INIT_COMPLETE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFISTAT_DFI_LP_CTRL_ACK_STAT
+  `undef REGB_DDRC_CH0_DFLT_DFISTAT_DFI_LP_CTRL_ACK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFISTAT_DFI_LP_DATA_ACK_STAT
+  `undef REGB_DDRC_CH0_DFLT_DFISTAT_DFI_LP_DATA_ACK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIUPD0
+  `undef REGB_DDRC_CH0_DFLT_DFIUPD0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIUPD0_CTRLUPD_PRE_SRX
+  `undef REGB_DDRC_CH0_DFLT_DFIUPD0_CTRLUPD_PRE_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIUPD0_DFI_PHYUPD_EN
+  `undef REGB_DDRC_CH0_DFLT_DFIUPD0_DFI_PHYUPD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIUPD0_DIS_AUTO_CTRLUPD
+  `undef REGB_DDRC_CH0_DFLT_DFIUPD0_DIS_AUTO_CTRLUPD
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DFIUPD0_DIS_AUTO_CTRLUPD_SRX
+  `undef REGB_DDRC_CH0_DFLT_DFIUPD0_DIS_AUTO_CTRLUPD_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DQSOSCCFG0
+  `undef REGB_DDRC_CH0_DFLT_DQSOSCCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DQSOSCCFG0_DIS_DQSOSC_SRX
+  `undef REGB_DDRC_CH0_DFLT_DQSOSCCFG0_DIS_DQSOSC_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DQSOSCRUNTIME
+  `undef REGB_DDRC_CH0_DFLT_DQSOSCRUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DQSOSCRUNTIME_DQSOSC_RUNTIME
+  `undef REGB_DDRC_CH0_DFLT_DQSOSCRUNTIME_DQSOSC_RUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DQSOSCRUNTIME_WCK2DQO_RUNTIME
+  `undef REGB_DDRC_CH0_DFLT_DQSOSCRUNTIME_WCK2DQO_RUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DQSOSCSTAT0
+  `undef REGB_DDRC_CH0_DFLT_DQSOSCSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DQSOSCSTAT0_DQSOSC_PER_RANK_STAT
+  `undef REGB_DDRC_CH0_DFLT_DQSOSCSTAT0_DQSOSC_PER_RANK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_DQSOSCSTAT0_DQSOSC_STATE
+  `undef REGB_DDRC_CH0_DFLT_DQSOSCSTAT0_DQSOSC_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_HWLPCTL
+  `undef REGB_DDRC_CH0_DFLT_HWLPCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_HWLPCTL_HW_LP_CTRL
+  `undef REGB_DDRC_CH0_DFLT_HWLPCTL_HW_LP_CTRL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_HWLPCTL_HW_LP_EN
+  `undef REGB_DDRC_CH0_DFLT_HWLPCTL_HW_LP_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_HWLPCTL_HW_LP_EXIT_IDLE_EN
+  `undef REGB_DDRC_CH0_DFLT_HWLPCTL_HW_LP_EXIT_IDLE_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_INITTMG0
+  `undef REGB_DDRC_CH0_DFLT_INITTMG0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_INITTMG0_POST_CKE_X1024
+  `undef REGB_DDRC_CH0_DFLT_INITTMG0_POST_CKE_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_INITTMG0_PRE_CKE_X1024
+  `undef REGB_DDRC_CH0_DFLT_INITTMG0_PRE_CKE_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_INITTMG0_SKIP_DRAM_INIT
+  `undef REGB_DDRC_CH0_DFLT_INITTMG0_SKIP_DRAM_INIT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_INITTMG1
+  `undef REGB_DDRC_CH0_DFLT_INITTMG1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_INITTMG1_DRAM_RSTN_X1024
+  `undef REGB_DDRC_CH0_DFLT_INITTMG1_DRAM_RSTN_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_MPR_EN
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_MPR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_MRR_DONE_CLR
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_MRR_DONE_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_ADDR
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_CID
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_CID
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_RANK
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_RANK
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_TYPE
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_WR
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_MR_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_PBA_MODE
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_PBA_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_PDA_EN
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_PDA_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_PPR_EN
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_PPR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_PPR_PGMPST_EN
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_PPR_PGMPST_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL0_SW_INIT_INT
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL0_SW_INIT_INT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL1
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRCTRL1_MR_DATA
+  `undef REGB_DDRC_CH0_DFLT_MRCTRL1_MR_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRRDATA0
+  `undef REGB_DDRC_CH0_DFLT_MRRDATA0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRRDATA0_MRR_DATA_LWR
+  `undef REGB_DDRC_CH0_DFLT_MRRDATA0_MRR_DATA_LWR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRRDATA1
+  `undef REGB_DDRC_CH0_DFLT_MRRDATA1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRRDATA1_MRR_DATA_UPR
+  `undef REGB_DDRC_CH0_DFLT_MRRDATA1_MRR_DATA_UPR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRSTAT
+  `undef REGB_DDRC_CH0_DFLT_MRSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRSTAT_MRR_DONE
+  `undef REGB_DDRC_CH0_DFLT_MRSTAT_MRR_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRSTAT_MR_WR_BUSY
+  `undef REGB_DDRC_CH0_DFLT_MRSTAT_MR_WR_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRSTAT_PDA_DONE
+  `undef REGB_DDRC_CH0_DFLT_MRSTAT_PDA_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MRSTAT_PPR_DONE
+  `undef REGB_DDRC_CH0_DFLT_MRSTAT_PPR_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0
+  `undef REGB_DDRC_CH0_DFLT_MSTR0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_ACTIVE_LOGICAL_RANKS
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_ACTIVE_LOGICAL_RANKS
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_ACTIVE_RANKS
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_ACTIVE_RANKS
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_BANK_CONFIG
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_BANK_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_BG_CONFIG
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_BG_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_BURSTCHOP
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_BURSTCHOP
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_BURST_MODE
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_BURST_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_BURST_RDWR
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_BURST_RDWR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_DATA_BUS_WIDTH
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_DATA_BUS_WIDTH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_DDR4
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_DDR4
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_DDR5
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_DDR5
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_DEVICE_CONFIG
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_DEVICE_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_DLL_OFF_MODE
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_DLL_OFF_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_EN_2T_TIMING_MODE
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_EN_2T_TIMING_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_LPDDR4
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_LPDDR4
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR0_LPDDR5
+  `undef REGB_DDRC_CH0_DFLT_MSTR0_LPDDR5
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR4
+  `undef REGB_DDRC_CH0_DFLT_MSTR4
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR4_WCK_ON
+  `undef REGB_DDRC_CH0_DFLT_MSTR4_WCK_ON
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR4_WCK_SUSPEND_EN
+  `undef REGB_DDRC_CH0_DFLT_MSTR4_WCK_SUSPEND_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_MSTR4_WS_OFF_EN
+  `undef REGB_DDRC_CH0_DFLT_MSTR4_WS_OFF_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP_RANK0_RD_ODT
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP_RANK0_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP_RANK0_WR_ODT
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP_RANK0_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP_RANK1_RD_ODT
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP_RANK1_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP_RANK1_WR_ODT
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP_RANK1_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP_RANK2_RD_ODT
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP_RANK2_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP_RANK2_WR_ODT
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP_RANK2_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP_RANK3_RD_ODT
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP_RANK3_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ODTMAP_RANK3_WR_ODT
+  `undef REGB_DDRC_CH0_DFLT_ODTMAP_RANK3_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL0
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_ACT_BYPASS
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_ACT_BYPASS
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_MAX_RANK_RD_OPT
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_MAX_RANK_RD_OPT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_MAX_RANK_WR_OPT
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_MAX_RANK_WR_OPT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_RD_BYPASS
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_RD_BYPASS
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_WC
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL0_DIS_WC
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL1
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL1_DIS_DQ
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL1_DIS_DQ
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRL1_DIS_HIF
+  `undef REGB_DDRC_CH0_DFLT_OPCTRL1_DIS_HIF
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_HPR_Q_DEPTH
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_HPR_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_LPR_Q_DEPTH
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_LPR_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_RD_Q_EMPTY
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_RD_Q_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_STALL
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_STALL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_STALL_RD
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_STALL_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_STALL_WR
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_STALL_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_WR_Q_EMPTY
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_WR_Q_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_W_Q_DEPTH
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_DBG_W_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_RD_DATA_PIPELINE_EMPTY
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_RD_DATA_PIPELINE_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCAM_WR_DATA_PIPELINE_EMPTY
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCAM_WR_DATA_PIPELINE_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCMD
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCMD
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCMD_CTRLUPD
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCMD_CTRLUPD
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCMD_HW_REF_ZQ_EN
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCMD_HW_REF_ZQ_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLCMD_ZQ_CALIB_SHORT
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLCMD_ZQ_CALIB_SHORT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLSTAT
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLSTAT_CTRLUPD_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLSTAT_CTRLUPD_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPCTRLSTAT_ZQ_CALIB_SHORT_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPCTRLSTAT_ZQ_CALIB_SHORT_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK0_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK0_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK10_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK10_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK11_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK11_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK12_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK12_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK13_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK13_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK14_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK14_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK15_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK15_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK16_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK16_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK17_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK17_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK18_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK18_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK19_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK19_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK1_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK1_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK20_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK20_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK21_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK21_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK22_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK22_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK23_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK23_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK24_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK24_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK25_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK25_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK26_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK26_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK27_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK27_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK28_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK28_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK29_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK29_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK2_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK2_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK30_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK30_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK31_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK31_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK3_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK3_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK4_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK4_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK5_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK5_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK6_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK6_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK7_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK7_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK8_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK8_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK9_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_OPREFCTRL0_RANK9_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK0_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK0_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK10_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK10_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK11_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK11_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK12_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK12_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK13_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK13_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK14_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK14_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK15_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK15_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK16_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK16_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK17_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK17_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK18_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK18_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK19_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK19_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK1_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK1_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK20_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK20_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK21_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK21_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK22_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK22_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK23_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK23_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK24_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK24_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK25_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK25_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK26_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK26_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK27_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK27_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK28_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK28_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK29_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK29_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK2_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK2_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK30_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK30_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK31_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK31_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK3_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK3_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK4_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK4_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK5_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK5_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK6_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK6_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK7_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK7_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK8_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK8_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK9_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_DFLT_OPREFSTAT0_RANK9_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONCFG
+  `undef REGB_DDRC_CH0_DFLT_POISONCFG
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONCFG_RD_POISON_INTR_CLR
+  `undef REGB_DDRC_CH0_DFLT_POISONCFG_RD_POISON_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONCFG_RD_POISON_INTR_EN
+  `undef REGB_DDRC_CH0_DFLT_POISONCFG_RD_POISON_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONCFG_RD_POISON_SLVERR_EN
+  `undef REGB_DDRC_CH0_DFLT_POISONCFG_RD_POISON_SLVERR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONCFG_WR_POISON_INTR_CLR
+  `undef REGB_DDRC_CH0_DFLT_POISONCFG_WR_POISON_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONCFG_WR_POISON_INTR_EN
+  `undef REGB_DDRC_CH0_DFLT_POISONCFG_WR_POISON_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONCFG_WR_POISON_SLVERR_EN
+  `undef REGB_DDRC_CH0_DFLT_POISONCFG_WR_POISON_SLVERR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_0
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_1
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_10
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_10
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_11
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_11
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_12
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_12
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_13
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_13
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_14
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_14
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_15
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_15
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_2
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_2
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_3
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_3
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_4
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_4
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_5
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_5
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_6
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_6
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_7
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_7
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_8
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_8
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_9
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_RD_POISON_INTR_9
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_0
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_1
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_10
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_10
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_11
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_11
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_12
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_12
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_13
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_13
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_14
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_14
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_15
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_15
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_2
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_2
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_3
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_3
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_4
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_4
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_5
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_5
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_6
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_6
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_7
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_7
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_8
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_8
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_9
+  `undef REGB_DDRC_CH0_DFLT_POISONSTAT_WR_POISON_INTR_9
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_ACTV_PD_EN
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_ACTV_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_DIS_CAM_DRAIN_SELFREF
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_DIS_CAM_DRAIN_SELFREF
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_DSM_EN
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_DSM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_EN_DFI_DRAM_CLK_DISABLE
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_EN_DFI_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_LPDDR4_SR_ALLOWED
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_LPDDR4_SR_ALLOWED
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_MPSM_DEEP_PD_EN
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_MPSM_DEEP_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_MPSM_EN
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_MPSM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_MPSM_PD_EN
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_MPSM_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_POWERDOWN_EN
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_POWERDOWN_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_SELFREF_EN
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_SELFREF_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_SELFREF_SW
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_SELFREF_SW
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_PWRCTL_STAY_IN_SELFREF
+  `undef REGB_DDRC_CH0_DFLT_PWRCTL_STAY_IN_SELFREF
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHCTL0
+  `undef REGB_DDRC_CH0_DFLT_RFSHCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHCTL0_DIS_AUTO_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_RFSHCTL0_DIS_AUTO_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHCTL0_RANK_DIS_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_RFSHCTL0_RANK_DIS_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHCTL0_REFRESH_UPDATE_LEVEL
+  `undef REGB_DDRC_CH0_DFLT_RFSHCTL0_REFRESH_UPDATE_LEVEL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHMOD0
+  `undef REGB_DDRC_CH0_DFLT_RFSHMOD0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHMOD0_AUTO_REFAB_EN
+  `undef REGB_DDRC_CH0_DFLT_RFSHMOD0_AUTO_REFAB_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHMOD0_MIXED_REFSB_HI_THR
+  `undef REGB_DDRC_CH0_DFLT_RFSHMOD0_MIXED_REFSB_HI_THR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHMOD0_PER_BANK_REFRESH
+  `undef REGB_DDRC_CH0_DFLT_RFSHMOD0_PER_BANK_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_RFSHMOD0_REFRESH_BURST
+  `undef REGB_DDRC_CH0_DFLT_RFSHMOD0_REFRESH_BURST
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0
+  `undef REGB_DDRC_CH0_DFLT_SCHED0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_AUTOPRE_RMW
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_AUTOPRE_RMW
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_DIS_OPT_NTT_BY_ACT
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_DIS_OPT_NTT_BY_ACT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_DIS_OPT_NTT_BY_PRE
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_DIS_OPT_NTT_BY_PRE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_DIS_OPT_WRECC_COLLISION_FLUSH
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_DIS_OPT_WRECC_COLLISION_FLUSH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_DIS_SPECULATIVE_ACT
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_DIS_SPECULATIVE_ACT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_EN_COUNT_EVERY_WR
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_EN_COUNT_EVERY_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_LPDDR4_OPT_ACT_TIMING
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_LPDDR4_OPT_ACT_TIMING
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_LPDDR5_OPT_ACT_TIMING
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_LPDDR5_OPT_ACT_TIMING
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_LPR_NUM_ENTRIES
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_LPR_NUM_ENTRIES
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_OPT_VPRW_SCH
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_OPT_VPRW_SCH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_OPT_WRCAM_FILL_LEVEL
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_OPT_WRCAM_FILL_LEVEL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_PAGECLOSE
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_PAGECLOSE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_PREFER_READ
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_PREFER_READ
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_PREFER_WRITE
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_PREFER_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED0_RDWR_SWITCH_POLICY_SEL
+  `undef REGB_DDRC_CH0_DFLT_SCHED0_RDWR_SWITCH_POLICY_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED1
+  `undef REGB_DDRC_CH0_DFLT_SCHED1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED1_DELAY_SWITCH_WRITE
+  `undef REGB_DDRC_CH0_DFLT_SCHED1_DELAY_SWITCH_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED1_OPT_HIT_GT_HPR
+  `undef REGB_DDRC_CH0_DFLT_SCHED1_OPT_HIT_GT_HPR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED1_PAGE_HIT_LIMIT_RD
+  `undef REGB_DDRC_CH0_DFLT_SCHED1_PAGE_HIT_LIMIT_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED1_PAGE_HIT_LIMIT_WR
+  `undef REGB_DDRC_CH0_DFLT_SCHED1_PAGE_HIT_LIMIT_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED1_VISIBLE_WINDOW_LIMIT_RD
+  `undef REGB_DDRC_CH0_DFLT_SCHED1_VISIBLE_WINDOW_LIMIT_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED1_VISIBLE_WINDOW_LIMIT_WR
+  `undef REGB_DDRC_CH0_DFLT_SCHED1_VISIBLE_WINDOW_LIMIT_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED3
+  `undef REGB_DDRC_CH0_DFLT_SCHED3
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED3_RD_PGHIT_NUM_THRESH
+  `undef REGB_DDRC_CH0_DFLT_SCHED3_RD_PGHIT_NUM_THRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED3_WRCAM_HIGHTHRESH
+  `undef REGB_DDRC_CH0_DFLT_SCHED3_WRCAM_HIGHTHRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED3_WRCAM_LOWTHRESH
+  `undef REGB_DDRC_CH0_DFLT_SCHED3_WRCAM_LOWTHRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED3_WR_PGHIT_NUM_THRESH
+  `undef REGB_DDRC_CH0_DFLT_SCHED3_WR_PGHIT_NUM_THRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED4
+  `undef REGB_DDRC_CH0_DFLT_SCHED4
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED4_RD_ACT_IDLE_GAP
+  `undef REGB_DDRC_CH0_DFLT_SCHED4_RD_ACT_IDLE_GAP
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED4_RD_PAGE_EXP_CYCLES
+  `undef REGB_DDRC_CH0_DFLT_SCHED4_RD_PAGE_EXP_CYCLES
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED4_WR_ACT_IDLE_GAP
+  `undef REGB_DDRC_CH0_DFLT_SCHED4_WR_ACT_IDLE_GAP
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SCHED4_WR_PAGE_EXP_CYCLES
+  `undef REGB_DDRC_CH0_DFLT_SCHED4_WR_PAGE_EXP_CYCLES
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_STAT
+  `undef REGB_DDRC_CH0_DFLT_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_STAT_DFI_LP_STATE
+  `undef REGB_DDRC_CH0_DFLT_STAT_DFI_LP_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_STAT_MPSM_STATE
+  `undef REGB_DDRC_CH0_DFLT_STAT_MPSM_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_STAT_OPERATING_MODE
+  `undef REGB_DDRC_CH0_DFLT_STAT_OPERATING_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_STAT_POWERDOWN_STATE
+  `undef REGB_DDRC_CH0_DFLT_STAT_POWERDOWN_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_STAT_SELFREF_CAM_NOT_EMPTY
+  `undef REGB_DDRC_CH0_DFLT_STAT_SELFREF_CAM_NOT_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_STAT_SELFREF_STATE
+  `undef REGB_DDRC_CH0_DFLT_STAT_SELFREF_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_STAT_SELFREF_TYPE
+  `undef REGB_DDRC_CH0_DFLT_STAT_SELFREF_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SWCTL
+  `undef REGB_DDRC_CH0_DFLT_SWCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SWCTLSTATIC
+  `undef REGB_DDRC_CH0_DFLT_SWCTLSTATIC
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SWCTLSTATIC_SW_STATIC_UNLOCK
+  `undef REGB_DDRC_CH0_DFLT_SWCTLSTATIC_SW_STATIC_UNLOCK
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SWCTL_SW_DONE
+  `undef REGB_DDRC_CH0_DFLT_SWCTL_SW_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SWSTAT
+  `undef REGB_DDRC_CH0_DFLT_SWSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_SWSTAT_SW_DONE_ACK
+  `undef REGB_DDRC_CH0_DFLT_SWSTAT_SW_DONE_ACK
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQCTL0
+  `undef REGB_DDRC_CH0_DFLT_ZQCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQCTL0_DIS_AUTO_ZQ
+  `undef REGB_DDRC_CH0_DFLT_ZQCTL0_DIS_AUTO_ZQ
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQCTL0_DIS_MPSMX_ZQCL
+  `undef REGB_DDRC_CH0_DFLT_ZQCTL0_DIS_MPSMX_ZQCL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQCTL0_ZQ_RESISTOR_SHARED
+  `undef REGB_DDRC_CH0_DFLT_ZQCTL0_ZQ_RESISTOR_SHARED
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQCTL1
+  `undef REGB_DDRC_CH0_DFLT_ZQCTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQCTL1_ZQ_RESET
+  `undef REGB_DDRC_CH0_DFLT_ZQCTL1_ZQ_RESET
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQCTL2
+  `undef REGB_DDRC_CH0_DFLT_ZQCTL2
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQCTL2_DIS_SRX_ZQCL
+  `undef REGB_DDRC_CH0_DFLT_ZQCTL2_DIS_SRX_ZQCL
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQSTAT
+  `undef REGB_DDRC_CH0_DFLT_ZQSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_DFLT_ZQSTAT_ZQ_RESET_BUSY
+  `undef REGB_DDRC_CH0_DFLT_ZQSTAT_ZQ_RESET_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_DQSOSCCFG0_ADDR
+  `undef REGB_DDRC_CH0_DQSOSCCFG0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DQSOSCRUNTIME_ADDR
+  `undef REGB_DDRC_CH0_DQSOSCRUNTIME_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_DQSOSCSTAT0_ADDR
+  `undef REGB_DDRC_CH0_DQSOSCSTAT0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_HWLPCTL_ADDR
+  `undef REGB_DDRC_CH0_HWLPCTL_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_INITTMG0_ADDR
+  `undef REGB_DDRC_CH0_INITTMG0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_INITTMG1_ADDR
+  `undef REGB_DDRC_CH0_INITTMG1_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_MRCTRL0_ADDR
+  `undef REGB_DDRC_CH0_MRCTRL0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_MRCTRL1_ADDR
+  `undef REGB_DDRC_CH0_MRCTRL1_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_MRRDATA0_ADDR
+  `undef REGB_DDRC_CH0_MRRDATA0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_MRRDATA1_ADDR
+  `undef REGB_DDRC_CH0_MRRDATA1_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_MRSTAT_ADDR
+  `undef REGB_DDRC_CH0_MRSTAT_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_CLKGATECTL
+  `undef REGB_DDRC_CH0_MSK_CLKGATECTL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_CLKGATECTL_BSM_CLK_ON
+  `undef REGB_DDRC_CH0_MSK_CLKGATECTL_BSM_CLK_ON
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DATACTL0
+  `undef REGB_DDRC_CH0_MSK_DATACTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DATACTL0_RD_DATA_COPY_EN
+  `undef REGB_DDRC_CH0_MSK_DATACTL0_RD_DATA_COPY_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DATACTL0_WR_DATA_COPY_EN
+  `undef REGB_DDRC_CH0_MSK_DATACTL0_WR_DATA_COPY_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DATACTL0_WR_DATA_X_EN
+  `undef REGB_DDRC_CH0_MSK_DATACTL0_WR_DATA_X_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DBICTL
+  `undef REGB_DDRC_CH0_MSK_DBICTL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DBICTL_DM_EN
+  `undef REGB_DDRC_CH0_MSK_DBICTL_DM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DBICTL_RD_DBI_EN
+  `undef REGB_DDRC_CH0_MSK_DBICTL_RD_DBI_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DBICTL_WR_DBI_EN
+  `undef REGB_DDRC_CH0_MSK_DBICTL_WR_DBI_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DDRCTL_VER_NUMBER
+  `undef REGB_DDRC_CH0_MSK_DDRCTL_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DDRCTL_VER_NUMBER_VER_NUMBER
+  `undef REGB_DDRC_CH0_MSK_DDRCTL_VER_NUMBER_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DDRCTL_VER_TYPE
+  `undef REGB_DDRC_CH0_MSK_DDRCTL_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DDRCTL_VER_TYPE_VER_TYPE
+  `undef REGB_DDRC_CH0_MSK_DDRCTL_VER_TYPE_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL0
+  `undef REGB_DDRC_CH0_MSK_DERATECTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL0_DERATE_ENABLE
+  `undef REGB_DDRC_CH0_MSK_DERATECTL0_DERATE_ENABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL0_DERATE_MR4_PAUSE_FC
+  `undef REGB_DDRC_CH0_MSK_DERATECTL0_DERATE_MR4_PAUSE_FC
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL0_DIS_TREFI_X0125
+  `undef REGB_DDRC_CH0_MSK_DERATECTL0_DIS_TREFI_X0125
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL0_DIS_TREFI_X6X8
+  `undef REGB_DDRC_CH0_MSK_DERATECTL0_DIS_TREFI_X6X8
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL0_LPDDR4_REFRESH_MODE
+  `undef REGB_DDRC_CH0_MSK_DERATECTL0_LPDDR4_REFRESH_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL1
+  `undef REGB_DDRC_CH0_MSK_DERATECTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL1_ACTIVE_DERATE_BYTE_RANK0
+  `undef REGB_DDRC_CH0_MSK_DERATECTL1_ACTIVE_DERATE_BYTE_RANK0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL5
+  `undef REGB_DDRC_CH0_MSK_DERATECTL5
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL5_DERATE_TEMP_LIMIT_INTR_CLR
+  `undef REGB_DDRC_CH0_MSK_DERATECTL5_DERATE_TEMP_LIMIT_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL5_DERATE_TEMP_LIMIT_INTR_EN
+  `undef REGB_DDRC_CH0_MSK_DERATECTL5_DERATE_TEMP_LIMIT_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL5_DERATE_TEMP_LIMIT_INTR_FORCE
+  `undef REGB_DDRC_CH0_MSK_DERATECTL5_DERATE_TEMP_LIMIT_INTR_FORCE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL6
+  `undef REGB_DDRC_CH0_MSK_DERATECTL6
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL6_DERATE_HIGH_TEMP_LIMIT
+  `undef REGB_DDRC_CH0_MSK_DERATECTL6_DERATE_HIGH_TEMP_LIMIT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL6_DERATE_LOW_TEMP_LIMIT
+  `undef REGB_DDRC_CH0_MSK_DERATECTL6_DERATE_LOW_TEMP_LIMIT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATECTL6_DERATE_MR4_TUF_DIS
+  `undef REGB_DDRC_CH0_MSK_DERATECTL6_DERATE_MR4_TUF_DIS
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATEDBGCTL
+  `undef REGB_DDRC_CH0_MSK_DERATEDBGCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATEDBGCTL_DBG_MR4_GRP_SEL
+  `undef REGB_DDRC_CH0_MSK_DERATEDBGCTL_DBG_MR4_GRP_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATEDBGCTL_DBG_MR4_RANK_SEL
+  `undef REGB_DDRC_CH0_MSK_DERATEDBGCTL_DBG_MR4_RANK_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATEDBGSTAT
+  `undef REGB_DDRC_CH0_MSK_DERATEDBGSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATEDBGSTAT_DBG_MR4_BYTE0
+  `undef REGB_DDRC_CH0_MSK_DERATEDBGSTAT_DBG_MR4_BYTE0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATEDBGSTAT_DBG_MR4_BYTE1
+  `undef REGB_DDRC_CH0_MSK_DERATEDBGSTAT_DBG_MR4_BYTE1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATEDBGSTAT_DBG_MR4_BYTE2
+  `undef REGB_DDRC_CH0_MSK_DERATEDBGSTAT_DBG_MR4_BYTE2
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATEDBGSTAT_DBG_MR4_BYTE3
+  `undef REGB_DDRC_CH0_MSK_DERATEDBGSTAT_DBG_MR4_BYTE3
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATESTAT0
+  `undef REGB_DDRC_CH0_MSK_DERATESTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DERATESTAT0_DERATE_TEMP_LIMIT_INTR
+  `undef REGB_DDRC_CH0_MSK_DERATESTAT0_DERATE_TEMP_LIMIT_INTR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFI0MSGCTL0
+  `undef REGB_DDRC_CH0_MSK_DFI0MSGCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFI0MSGCTL0_DFI0_CTRLMSG_CMD
+  `undef REGB_DDRC_CH0_MSK_DFI0MSGCTL0_DFI0_CTRLMSG_CMD
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFI0MSGCTL0_DFI0_CTRLMSG_DATA
+  `undef REGB_DDRC_CH0_MSK_DFI0MSGCTL0_DFI0_CTRLMSG_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFI0MSGCTL0_DFI0_CTRLMSG_REQ
+  `undef REGB_DDRC_CH0_MSK_DFI0MSGCTL0_DFI0_CTRLMSG_REQ
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFI0MSGCTL0_DFI0_CTRLMSG_TOUT_CLR
+  `undef REGB_DDRC_CH0_MSK_DFI0MSGCTL0_DFI0_CTRLMSG_TOUT_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFI0MSGSTAT0
+  `undef REGB_DDRC_CH0_MSK_DFI0MSGSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFI0MSGSTAT0_DFI0_CTRLMSG_REQ_BUSY
+  `undef REGB_DDRC_CH0_MSK_DFI0MSGSTAT0_DFI0_CTRLMSG_REQ_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFI0MSGSTAT0_DFI0_CTRLMSG_RESP_TOUT
+  `undef REGB_DDRC_CH0_MSK_DFI0MSGSTAT0_DFI0_CTRLMSG_RESP_TOUT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFILPCFG0
+  `undef REGB_DDRC_CH0_MSK_DFILPCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_DATA_REQ_EN
+  `undef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_DATA_REQ_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_DATA
+  `undef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_DSM
+  `undef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_DSM
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_MPSM
+  `undef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_MPSM
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_PD
+  `undef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_PD
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_SR
+  `undef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EN_SR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EXTRA_GAP_WR
+  `undef REGB_DDRC_CH0_MSK_DFILPCFG0_DFI_LP_EXTRA_GAP_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC
+  `undef REGB_DDRC_CH0_MSK_DFIMISC
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_DFI_CHANNEL_MODE
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_DFI_CHANNEL_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_DFI_DATA_CS_POLARITY
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_DFI_DATA_CS_POLARITY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_DFI_FREQUENCY
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_DFI_FREQUENCY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_DFI_FREQ_FSP
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_DFI_FREQ_FSP
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_DFI_INIT_COMPLETE_EN
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_DFI_INIT_COMPLETE_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_DFI_INIT_START
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_DFI_INIT_START
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_DIS_DYN_ADR_TRI
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_DIS_DYN_ADR_TRI
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_LP_OPTIMIZED_WRITE
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_LP_OPTIMIZED_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_PHY_DBI_MODE
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_PHY_DBI_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIMISC_SHARE_DFI_DRAM_CLK_DISABLE
+  `undef REGB_DDRC_CH0_MSK_DFIMISC_SHARE_DFI_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIPHYMSTR
+  `undef REGB_DDRC_CH0_MSK_DFIPHYMSTR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIPHYMSTR_DFI_PHYMSTR_BLK_REF_X32
+  `undef REGB_DDRC_CH0_MSK_DFIPHYMSTR_DFI_PHYMSTR_BLK_REF_X32
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIPHYMSTR_DFI_PHYMSTR_EN
+  `undef REGB_DDRC_CH0_MSK_DFIPHYMSTR_DFI_PHYMSTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFISTAT
+  `undef REGB_DDRC_CH0_MSK_DFISTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFISTAT_DFI_INIT_COMPLETE
+  `undef REGB_DDRC_CH0_MSK_DFISTAT_DFI_INIT_COMPLETE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFISTAT_DFI_LP_CTRL_ACK_STAT
+  `undef REGB_DDRC_CH0_MSK_DFISTAT_DFI_LP_CTRL_ACK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFISTAT_DFI_LP_DATA_ACK_STAT
+  `undef REGB_DDRC_CH0_MSK_DFISTAT_DFI_LP_DATA_ACK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIUPD0
+  `undef REGB_DDRC_CH0_MSK_DFIUPD0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIUPD0_CTRLUPD_PRE_SRX
+  `undef REGB_DDRC_CH0_MSK_DFIUPD0_CTRLUPD_PRE_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIUPD0_DFI_PHYUPD_EN
+  `undef REGB_DDRC_CH0_MSK_DFIUPD0_DFI_PHYUPD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIUPD0_DIS_AUTO_CTRLUPD
+  `undef REGB_DDRC_CH0_MSK_DFIUPD0_DIS_AUTO_CTRLUPD
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DFIUPD0_DIS_AUTO_CTRLUPD_SRX
+  `undef REGB_DDRC_CH0_MSK_DFIUPD0_DIS_AUTO_CTRLUPD_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DQSOSCCFG0
+  `undef REGB_DDRC_CH0_MSK_DQSOSCCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DQSOSCCFG0_DIS_DQSOSC_SRX
+  `undef REGB_DDRC_CH0_MSK_DQSOSCCFG0_DIS_DQSOSC_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DQSOSCRUNTIME
+  `undef REGB_DDRC_CH0_MSK_DQSOSCRUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DQSOSCRUNTIME_DQSOSC_RUNTIME
+  `undef REGB_DDRC_CH0_MSK_DQSOSCRUNTIME_DQSOSC_RUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DQSOSCRUNTIME_WCK2DQO_RUNTIME
+  `undef REGB_DDRC_CH0_MSK_DQSOSCRUNTIME_WCK2DQO_RUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DQSOSCSTAT0
+  `undef REGB_DDRC_CH0_MSK_DQSOSCSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DQSOSCSTAT0_DQSOSC_PER_RANK_STAT
+  `undef REGB_DDRC_CH0_MSK_DQSOSCSTAT0_DQSOSC_PER_RANK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_DQSOSCSTAT0_DQSOSC_STATE
+  `undef REGB_DDRC_CH0_MSK_DQSOSCSTAT0_DQSOSC_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_HWLPCTL
+  `undef REGB_DDRC_CH0_MSK_HWLPCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_HWLPCTL_HW_LP_CTRL
+  `undef REGB_DDRC_CH0_MSK_HWLPCTL_HW_LP_CTRL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_HWLPCTL_HW_LP_EN
+  `undef REGB_DDRC_CH0_MSK_HWLPCTL_HW_LP_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_HWLPCTL_HW_LP_EXIT_IDLE_EN
+  `undef REGB_DDRC_CH0_MSK_HWLPCTL_HW_LP_EXIT_IDLE_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_INITTMG0
+  `undef REGB_DDRC_CH0_MSK_INITTMG0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_INITTMG0_POST_CKE_X1024
+  `undef REGB_DDRC_CH0_MSK_INITTMG0_POST_CKE_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_INITTMG0_PRE_CKE_X1024
+  `undef REGB_DDRC_CH0_MSK_INITTMG0_PRE_CKE_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_INITTMG0_SKIP_DRAM_INIT
+  `undef REGB_DDRC_CH0_MSK_INITTMG0_SKIP_DRAM_INIT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_INITTMG1
+  `undef REGB_DDRC_CH0_MSK_INITTMG1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_INITTMG1_DRAM_RSTN_X1024
+  `undef REGB_DDRC_CH0_MSK_INITTMG1_DRAM_RSTN_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_MPR_EN
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_MPR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_MRR_DONE_CLR
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_MRR_DONE_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_MR_ADDR
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_MR_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_MR_CID
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_MR_CID
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_MR_RANK
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_MR_RANK
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_MR_TYPE
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_MR_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_MR_WR
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_MR_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_PBA_MODE
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_PBA_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_PDA_EN
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_PDA_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_PPR_EN
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_PPR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_PPR_PGMPST_EN
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_PPR_PGMPST_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL0_SW_INIT_INT
+  `undef REGB_DDRC_CH0_MSK_MRCTRL0_SW_INIT_INT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL1
+  `undef REGB_DDRC_CH0_MSK_MRCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRCTRL1_MR_DATA
+  `undef REGB_DDRC_CH0_MSK_MRCTRL1_MR_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRRDATA0
+  `undef REGB_DDRC_CH0_MSK_MRRDATA0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRRDATA0_MRR_DATA_LWR
+  `undef REGB_DDRC_CH0_MSK_MRRDATA0_MRR_DATA_LWR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRRDATA1
+  `undef REGB_DDRC_CH0_MSK_MRRDATA1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRRDATA1_MRR_DATA_UPR
+  `undef REGB_DDRC_CH0_MSK_MRRDATA1_MRR_DATA_UPR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRSTAT
+  `undef REGB_DDRC_CH0_MSK_MRSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRSTAT_MRR_DONE
+  `undef REGB_DDRC_CH0_MSK_MRSTAT_MRR_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRSTAT_MR_WR_BUSY
+  `undef REGB_DDRC_CH0_MSK_MRSTAT_MR_WR_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRSTAT_PDA_DONE
+  `undef REGB_DDRC_CH0_MSK_MRSTAT_PDA_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MRSTAT_PPR_DONE
+  `undef REGB_DDRC_CH0_MSK_MRSTAT_PPR_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0
+  `undef REGB_DDRC_CH0_MSK_MSTR0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_ACTIVE_LOGICAL_RANKS
+  `undef REGB_DDRC_CH0_MSK_MSTR0_ACTIVE_LOGICAL_RANKS
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_ACTIVE_RANKS
+  `undef REGB_DDRC_CH0_MSK_MSTR0_ACTIVE_RANKS
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_BANK_CONFIG
+  `undef REGB_DDRC_CH0_MSK_MSTR0_BANK_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_BG_CONFIG
+  `undef REGB_DDRC_CH0_MSK_MSTR0_BG_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_BURSTCHOP
+  `undef REGB_DDRC_CH0_MSK_MSTR0_BURSTCHOP
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_BURST_MODE
+  `undef REGB_DDRC_CH0_MSK_MSTR0_BURST_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_BURST_RDWR
+  `undef REGB_DDRC_CH0_MSK_MSTR0_BURST_RDWR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_DATA_BUS_WIDTH
+  `undef REGB_DDRC_CH0_MSK_MSTR0_DATA_BUS_WIDTH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_DDR4
+  `undef REGB_DDRC_CH0_MSK_MSTR0_DDR4
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_DDR5
+  `undef REGB_DDRC_CH0_MSK_MSTR0_DDR5
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_DEVICE_CONFIG
+  `undef REGB_DDRC_CH0_MSK_MSTR0_DEVICE_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_DLL_OFF_MODE
+  `undef REGB_DDRC_CH0_MSK_MSTR0_DLL_OFF_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_EN_2T_TIMING_MODE
+  `undef REGB_DDRC_CH0_MSK_MSTR0_EN_2T_TIMING_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_LPDDR4
+  `undef REGB_DDRC_CH0_MSK_MSTR0_LPDDR4
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR0_LPDDR5
+  `undef REGB_DDRC_CH0_MSK_MSTR0_LPDDR5
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR4
+  `undef REGB_DDRC_CH0_MSK_MSTR4
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR4_WCK_ON
+  `undef REGB_DDRC_CH0_MSK_MSTR4_WCK_ON
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR4_WCK_SUSPEND_EN
+  `undef REGB_DDRC_CH0_MSK_MSTR4_WCK_SUSPEND_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_MSTR4_WS_OFF_EN
+  `undef REGB_DDRC_CH0_MSK_MSTR4_WS_OFF_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP
+  `undef REGB_DDRC_CH0_MSK_ODTMAP
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP_RANK0_RD_ODT
+  `undef REGB_DDRC_CH0_MSK_ODTMAP_RANK0_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP_RANK0_WR_ODT
+  `undef REGB_DDRC_CH0_MSK_ODTMAP_RANK0_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP_RANK1_RD_ODT
+  `undef REGB_DDRC_CH0_MSK_ODTMAP_RANK1_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP_RANK1_WR_ODT
+  `undef REGB_DDRC_CH0_MSK_ODTMAP_RANK1_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP_RANK2_RD_ODT
+  `undef REGB_DDRC_CH0_MSK_ODTMAP_RANK2_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP_RANK2_WR_ODT
+  `undef REGB_DDRC_CH0_MSK_ODTMAP_RANK2_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP_RANK3_RD_ODT
+  `undef REGB_DDRC_CH0_MSK_ODTMAP_RANK3_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ODTMAP_RANK3_WR_ODT
+  `undef REGB_DDRC_CH0_MSK_ODTMAP_RANK3_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL0
+  `undef REGB_DDRC_CH0_MSK_OPCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_ACT_BYPASS
+  `undef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_ACT_BYPASS
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_MAX_RANK_RD_OPT
+  `undef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_MAX_RANK_RD_OPT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_MAX_RANK_WR_OPT
+  `undef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_MAX_RANK_WR_OPT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_RD_BYPASS
+  `undef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_RD_BYPASS
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_WC
+  `undef REGB_DDRC_CH0_MSK_OPCTRL0_DIS_WC
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL1
+  `undef REGB_DDRC_CH0_MSK_OPCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL1_DIS_DQ
+  `undef REGB_DDRC_CH0_MSK_OPCTRL1_DIS_DQ
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRL1_DIS_HIF
+  `undef REGB_DDRC_CH0_MSK_OPCTRL1_DIS_HIF
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_HPR_Q_DEPTH
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_HPR_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_LPR_Q_DEPTH
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_LPR_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_RD_Q_EMPTY
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_RD_Q_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_STALL
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_STALL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_STALL_RD
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_STALL_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_STALL_WR
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_STALL_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_WR_Q_EMPTY
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_WR_Q_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_W_Q_DEPTH
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_DBG_W_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_RD_DATA_PIPELINE_EMPTY
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_RD_DATA_PIPELINE_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCAM_WR_DATA_PIPELINE_EMPTY
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCAM_WR_DATA_PIPELINE_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCMD
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCMD
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCMD_CTRLUPD
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCMD_CTRLUPD
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCMD_HW_REF_ZQ_EN
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCMD_HW_REF_ZQ_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLCMD_ZQ_CALIB_SHORT
+  `undef REGB_DDRC_CH0_MSK_OPCTRLCMD_ZQ_CALIB_SHORT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLSTAT
+  `undef REGB_DDRC_CH0_MSK_OPCTRLSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLSTAT_CTRLUPD_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPCTRLSTAT_CTRLUPD_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPCTRLSTAT_ZQ_CALIB_SHORT_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPCTRLSTAT_ZQ_CALIB_SHORT_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK0_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK0_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK10_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK10_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK11_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK11_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK12_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK12_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK13_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK13_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK14_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK14_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK15_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK15_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK16_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK16_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK17_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK17_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK18_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK18_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK19_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK19_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK1_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK1_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK20_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK20_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK21_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK21_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK22_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK22_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK23_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK23_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK24_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK24_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK25_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK25_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK26_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK26_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK27_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK27_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK28_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK28_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK29_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK29_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK2_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK2_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK30_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK30_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK31_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK31_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK3_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK3_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK4_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK4_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK5_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK5_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK6_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK6_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK7_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK7_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK8_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK8_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK9_REFRESH
+  `undef REGB_DDRC_CH0_MSK_OPREFCTRL0_RANK9_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK0_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK0_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK10_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK10_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK11_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK11_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK12_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK12_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK13_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK13_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK14_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK14_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK15_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK15_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK16_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK16_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK17_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK17_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK18_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK18_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK19_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK19_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK1_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK1_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK20_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK20_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK21_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK21_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK22_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK22_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK23_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK23_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK24_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK24_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK25_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK25_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK26_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK26_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK27_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK27_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK28_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK28_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK29_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK29_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK2_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK2_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK30_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK30_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK31_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK31_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK3_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK3_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK4_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK4_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK5_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK5_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK6_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK6_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK7_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK7_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK8_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK8_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK9_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_MSK_OPREFSTAT0_RANK9_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONCFG
+  `undef REGB_DDRC_CH0_MSK_POISONCFG
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONCFG_RD_POISON_INTR_CLR
+  `undef REGB_DDRC_CH0_MSK_POISONCFG_RD_POISON_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONCFG_RD_POISON_INTR_EN
+  `undef REGB_DDRC_CH0_MSK_POISONCFG_RD_POISON_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONCFG_RD_POISON_SLVERR_EN
+  `undef REGB_DDRC_CH0_MSK_POISONCFG_RD_POISON_SLVERR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONCFG_WR_POISON_INTR_CLR
+  `undef REGB_DDRC_CH0_MSK_POISONCFG_WR_POISON_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONCFG_WR_POISON_INTR_EN
+  `undef REGB_DDRC_CH0_MSK_POISONCFG_WR_POISON_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONCFG_WR_POISON_SLVERR_EN
+  `undef REGB_DDRC_CH0_MSK_POISONCFG_WR_POISON_SLVERR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_0
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_1
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_10
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_10
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_11
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_11
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_12
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_12
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_13
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_13
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_14
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_14
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_15
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_15
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_2
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_2
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_3
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_3
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_4
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_4
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_5
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_5
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_6
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_6
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_7
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_7
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_8
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_8
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_9
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_RD_POISON_INTR_9
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_0
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_1
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_10
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_10
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_11
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_11
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_12
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_12
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_13
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_13
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_14
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_14
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_15
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_15
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_2
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_2
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_3
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_3
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_4
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_4
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_5
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_5
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_6
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_6
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_7
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_7
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_8
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_8
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_9
+  `undef REGB_DDRC_CH0_MSK_POISONSTAT_WR_POISON_INTR_9
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL
+  `undef REGB_DDRC_CH0_MSK_PWRCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_ACTV_PD_EN
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_ACTV_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_DIS_CAM_DRAIN_SELFREF
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_DIS_CAM_DRAIN_SELFREF
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_DSM_EN
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_DSM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_EN_DFI_DRAM_CLK_DISABLE
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_EN_DFI_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_LPDDR4_SR_ALLOWED
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_LPDDR4_SR_ALLOWED
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_MPSM_DEEP_PD_EN
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_MPSM_DEEP_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_MPSM_EN
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_MPSM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_MPSM_PD_EN
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_MPSM_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_POWERDOWN_EN
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_POWERDOWN_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_SELFREF_EN
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_SELFREF_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_SELFREF_SW
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_SELFREF_SW
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_PWRCTL_STAY_IN_SELFREF
+  `undef REGB_DDRC_CH0_MSK_PWRCTL_STAY_IN_SELFREF
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHCTL0
+  `undef REGB_DDRC_CH0_MSK_RFSHCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHCTL0_DIS_AUTO_REFRESH
+  `undef REGB_DDRC_CH0_MSK_RFSHCTL0_DIS_AUTO_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHCTL0_RANK_DIS_REFRESH
+  `undef REGB_DDRC_CH0_MSK_RFSHCTL0_RANK_DIS_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHCTL0_REFRESH_UPDATE_LEVEL
+  `undef REGB_DDRC_CH0_MSK_RFSHCTL0_REFRESH_UPDATE_LEVEL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHMOD0
+  `undef REGB_DDRC_CH0_MSK_RFSHMOD0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHMOD0_AUTO_REFAB_EN
+  `undef REGB_DDRC_CH0_MSK_RFSHMOD0_AUTO_REFAB_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHMOD0_MIXED_REFSB_HI_THR
+  `undef REGB_DDRC_CH0_MSK_RFSHMOD0_MIXED_REFSB_HI_THR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHMOD0_PER_BANK_REFRESH
+  `undef REGB_DDRC_CH0_MSK_RFSHMOD0_PER_BANK_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_RFSHMOD0_REFRESH_BURST
+  `undef REGB_DDRC_CH0_MSK_RFSHMOD0_REFRESH_BURST
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0
+  `undef REGB_DDRC_CH0_MSK_SCHED0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_AUTOPRE_RMW
+  `undef REGB_DDRC_CH0_MSK_SCHED0_AUTOPRE_RMW
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_DIS_OPT_NTT_BY_ACT
+  `undef REGB_DDRC_CH0_MSK_SCHED0_DIS_OPT_NTT_BY_ACT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_DIS_OPT_NTT_BY_PRE
+  `undef REGB_DDRC_CH0_MSK_SCHED0_DIS_OPT_NTT_BY_PRE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_DIS_OPT_WRECC_COLLISION_FLUSH
+  `undef REGB_DDRC_CH0_MSK_SCHED0_DIS_OPT_WRECC_COLLISION_FLUSH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_DIS_SPECULATIVE_ACT
+  `undef REGB_DDRC_CH0_MSK_SCHED0_DIS_SPECULATIVE_ACT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_EN_COUNT_EVERY_WR
+  `undef REGB_DDRC_CH0_MSK_SCHED0_EN_COUNT_EVERY_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_LPDDR4_OPT_ACT_TIMING
+  `undef REGB_DDRC_CH0_MSK_SCHED0_LPDDR4_OPT_ACT_TIMING
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_LPDDR5_OPT_ACT_TIMING
+  `undef REGB_DDRC_CH0_MSK_SCHED0_LPDDR5_OPT_ACT_TIMING
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_LPR_NUM_ENTRIES
+  `undef REGB_DDRC_CH0_MSK_SCHED0_LPR_NUM_ENTRIES
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_OPT_VPRW_SCH
+  `undef REGB_DDRC_CH0_MSK_SCHED0_OPT_VPRW_SCH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_OPT_WRCAM_FILL_LEVEL
+  `undef REGB_DDRC_CH0_MSK_SCHED0_OPT_WRCAM_FILL_LEVEL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_PAGECLOSE
+  `undef REGB_DDRC_CH0_MSK_SCHED0_PAGECLOSE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_PREFER_READ
+  `undef REGB_DDRC_CH0_MSK_SCHED0_PREFER_READ
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_PREFER_WRITE
+  `undef REGB_DDRC_CH0_MSK_SCHED0_PREFER_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED0_RDWR_SWITCH_POLICY_SEL
+  `undef REGB_DDRC_CH0_MSK_SCHED0_RDWR_SWITCH_POLICY_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED1
+  `undef REGB_DDRC_CH0_MSK_SCHED1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED1_DELAY_SWITCH_WRITE
+  `undef REGB_DDRC_CH0_MSK_SCHED1_DELAY_SWITCH_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED1_OPT_HIT_GT_HPR
+  `undef REGB_DDRC_CH0_MSK_SCHED1_OPT_HIT_GT_HPR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED1_PAGE_HIT_LIMIT_RD
+  `undef REGB_DDRC_CH0_MSK_SCHED1_PAGE_HIT_LIMIT_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED1_PAGE_HIT_LIMIT_WR
+  `undef REGB_DDRC_CH0_MSK_SCHED1_PAGE_HIT_LIMIT_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED1_VISIBLE_WINDOW_LIMIT_RD
+  `undef REGB_DDRC_CH0_MSK_SCHED1_VISIBLE_WINDOW_LIMIT_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED1_VISIBLE_WINDOW_LIMIT_WR
+  `undef REGB_DDRC_CH0_MSK_SCHED1_VISIBLE_WINDOW_LIMIT_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED3
+  `undef REGB_DDRC_CH0_MSK_SCHED3
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED3_RD_PGHIT_NUM_THRESH
+  `undef REGB_DDRC_CH0_MSK_SCHED3_RD_PGHIT_NUM_THRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED3_WRCAM_HIGHTHRESH
+  `undef REGB_DDRC_CH0_MSK_SCHED3_WRCAM_HIGHTHRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED3_WRCAM_LOWTHRESH
+  `undef REGB_DDRC_CH0_MSK_SCHED3_WRCAM_LOWTHRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED3_WR_PGHIT_NUM_THRESH
+  `undef REGB_DDRC_CH0_MSK_SCHED3_WR_PGHIT_NUM_THRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED4
+  `undef REGB_DDRC_CH0_MSK_SCHED4
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED4_RD_ACT_IDLE_GAP
+  `undef REGB_DDRC_CH0_MSK_SCHED4_RD_ACT_IDLE_GAP
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED4_RD_PAGE_EXP_CYCLES
+  `undef REGB_DDRC_CH0_MSK_SCHED4_RD_PAGE_EXP_CYCLES
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED4_WR_ACT_IDLE_GAP
+  `undef REGB_DDRC_CH0_MSK_SCHED4_WR_ACT_IDLE_GAP
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SCHED4_WR_PAGE_EXP_CYCLES
+  `undef REGB_DDRC_CH0_MSK_SCHED4_WR_PAGE_EXP_CYCLES
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_STAT
+  `undef REGB_DDRC_CH0_MSK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_STAT_DFI_LP_STATE
+  `undef REGB_DDRC_CH0_MSK_STAT_DFI_LP_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_STAT_MPSM_STATE
+  `undef REGB_DDRC_CH0_MSK_STAT_MPSM_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_STAT_OPERATING_MODE
+  `undef REGB_DDRC_CH0_MSK_STAT_OPERATING_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_STAT_POWERDOWN_STATE
+  `undef REGB_DDRC_CH0_MSK_STAT_POWERDOWN_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_STAT_SELFREF_CAM_NOT_EMPTY
+  `undef REGB_DDRC_CH0_MSK_STAT_SELFREF_CAM_NOT_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_STAT_SELFREF_STATE
+  `undef REGB_DDRC_CH0_MSK_STAT_SELFREF_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_STAT_SELFREF_TYPE
+  `undef REGB_DDRC_CH0_MSK_STAT_SELFREF_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SWCTL
+  `undef REGB_DDRC_CH0_MSK_SWCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SWCTLSTATIC
+  `undef REGB_DDRC_CH0_MSK_SWCTLSTATIC
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SWCTLSTATIC_SW_STATIC_UNLOCK
+  `undef REGB_DDRC_CH0_MSK_SWCTLSTATIC_SW_STATIC_UNLOCK
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SWCTL_SW_DONE
+  `undef REGB_DDRC_CH0_MSK_SWCTL_SW_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SWSTAT
+  `undef REGB_DDRC_CH0_MSK_SWSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_SWSTAT_SW_DONE_ACK
+  `undef REGB_DDRC_CH0_MSK_SWSTAT_SW_DONE_ACK
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQCTL0
+  `undef REGB_DDRC_CH0_MSK_ZQCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQCTL0_DIS_AUTO_ZQ
+  `undef REGB_DDRC_CH0_MSK_ZQCTL0_DIS_AUTO_ZQ
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQCTL0_DIS_MPSMX_ZQCL
+  `undef REGB_DDRC_CH0_MSK_ZQCTL0_DIS_MPSMX_ZQCL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQCTL0_ZQ_RESISTOR_SHARED
+  `undef REGB_DDRC_CH0_MSK_ZQCTL0_ZQ_RESISTOR_SHARED
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQCTL1
+  `undef REGB_DDRC_CH0_MSK_ZQCTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQCTL1_ZQ_RESET
+  `undef REGB_DDRC_CH0_MSK_ZQCTL1_ZQ_RESET
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQCTL2
+  `undef REGB_DDRC_CH0_MSK_ZQCTL2
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQCTL2_DIS_SRX_ZQCL
+  `undef REGB_DDRC_CH0_MSK_ZQCTL2_DIS_SRX_ZQCL
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQSTAT
+  `undef REGB_DDRC_CH0_MSK_ZQSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_MSK_ZQSTAT_ZQ_RESET_BUSY
+  `undef REGB_DDRC_CH0_MSK_ZQSTAT_ZQ_RESET_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_MSTR0_ADDR
+  `undef REGB_DDRC_CH0_MSTR0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_MSTR4_ADDR
+  `undef REGB_DDRC_CH0_MSTR4_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_ODTMAP_ADDR
+  `undef REGB_DDRC_CH0_ODTMAP_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_CLKGATECTL_BSM_CLK_ON
+  `undef REGB_DDRC_CH0_OFFSET_CLKGATECTL_BSM_CLK_ON
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DATACTL0_RD_DATA_COPY_EN
+  `undef REGB_DDRC_CH0_OFFSET_DATACTL0_RD_DATA_COPY_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DATACTL0_WR_DATA_COPY_EN
+  `undef REGB_DDRC_CH0_OFFSET_DATACTL0_WR_DATA_COPY_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DATACTL0_WR_DATA_X_EN
+  `undef REGB_DDRC_CH0_OFFSET_DATACTL0_WR_DATA_X_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DBICTL_DM_EN
+  `undef REGB_DDRC_CH0_OFFSET_DBICTL_DM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DBICTL_RD_DBI_EN
+  `undef REGB_DDRC_CH0_OFFSET_DBICTL_RD_DBI_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DBICTL_WR_DBI_EN
+  `undef REGB_DDRC_CH0_OFFSET_DBICTL_WR_DBI_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DDRCTL_VER_NUMBER_VER_NUMBER
+  `undef REGB_DDRC_CH0_OFFSET_DDRCTL_VER_NUMBER_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DDRCTL_VER_TYPE_VER_TYPE
+  `undef REGB_DDRC_CH0_OFFSET_DDRCTL_VER_TYPE_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL0_DERATE_ENABLE
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL0_DERATE_ENABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL0_DERATE_MR4_PAUSE_FC
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL0_DERATE_MR4_PAUSE_FC
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL0_DIS_TREFI_X0125
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL0_DIS_TREFI_X0125
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL0_DIS_TREFI_X6X8
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL0_DIS_TREFI_X6X8
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL0_LPDDR4_REFRESH_MODE
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL0_LPDDR4_REFRESH_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL1_ACTIVE_DERATE_BYTE_RANK0
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL1_ACTIVE_DERATE_BYTE_RANK0
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL5_DERATE_TEMP_LIMIT_INTR_CLR
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL5_DERATE_TEMP_LIMIT_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL5_DERATE_TEMP_LIMIT_INTR_EN
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL5_DERATE_TEMP_LIMIT_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL5_DERATE_TEMP_LIMIT_INTR_FORCE
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL5_DERATE_TEMP_LIMIT_INTR_FORCE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL6_DERATE_HIGH_TEMP_LIMIT
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL6_DERATE_HIGH_TEMP_LIMIT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL6_DERATE_LOW_TEMP_LIMIT
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL6_DERATE_LOW_TEMP_LIMIT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATECTL6_DERATE_MR4_TUF_DIS
+  `undef REGB_DDRC_CH0_OFFSET_DERATECTL6_DERATE_MR4_TUF_DIS
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATEDBGCTL_DBG_MR4_GRP_SEL
+  `undef REGB_DDRC_CH0_OFFSET_DERATEDBGCTL_DBG_MR4_GRP_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATEDBGCTL_DBG_MR4_RANK_SEL
+  `undef REGB_DDRC_CH0_OFFSET_DERATEDBGCTL_DBG_MR4_RANK_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATEDBGSTAT_DBG_MR4_BYTE0
+  `undef REGB_DDRC_CH0_OFFSET_DERATEDBGSTAT_DBG_MR4_BYTE0
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATEDBGSTAT_DBG_MR4_BYTE1
+  `undef REGB_DDRC_CH0_OFFSET_DERATEDBGSTAT_DBG_MR4_BYTE1
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATEDBGSTAT_DBG_MR4_BYTE2
+  `undef REGB_DDRC_CH0_OFFSET_DERATEDBGSTAT_DBG_MR4_BYTE2
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATEDBGSTAT_DBG_MR4_BYTE3
+  `undef REGB_DDRC_CH0_OFFSET_DERATEDBGSTAT_DBG_MR4_BYTE3
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DERATESTAT0_DERATE_TEMP_LIMIT_INTR
+  `undef REGB_DDRC_CH0_OFFSET_DERATESTAT0_DERATE_TEMP_LIMIT_INTR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFI0MSGCTL0_DFI0_CTRLMSG_CMD
+  `undef REGB_DDRC_CH0_OFFSET_DFI0MSGCTL0_DFI0_CTRLMSG_CMD
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFI0MSGCTL0_DFI0_CTRLMSG_DATA
+  `undef REGB_DDRC_CH0_OFFSET_DFI0MSGCTL0_DFI0_CTRLMSG_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFI0MSGCTL0_DFI0_CTRLMSG_REQ
+  `undef REGB_DDRC_CH0_OFFSET_DFI0MSGCTL0_DFI0_CTRLMSG_REQ
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFI0MSGCTL0_DFI0_CTRLMSG_TOUT_CLR
+  `undef REGB_DDRC_CH0_OFFSET_DFI0MSGCTL0_DFI0_CTRLMSG_TOUT_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFI0MSGSTAT0_DFI0_CTRLMSG_REQ_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_DFI0MSGSTAT0_DFI0_CTRLMSG_REQ_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFI0MSGSTAT0_DFI0_CTRLMSG_RESP_TOUT
+  `undef REGB_DDRC_CH0_OFFSET_DFI0MSGSTAT0_DFI0_CTRLMSG_RESP_TOUT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_DATA_REQ_EN
+  `undef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_DATA_REQ_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_DATA
+  `undef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_DSM
+  `undef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_DSM
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_MPSM
+  `undef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_MPSM
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_PD
+  `undef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_PD
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_SR
+  `undef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EN_SR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EXTRA_GAP_WR
+  `undef REGB_DDRC_CH0_OFFSET_DFILPCFG0_DFI_LP_EXTRA_GAP_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_CHANNEL_MODE
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_CHANNEL_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_DATA_CS_POLARITY
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_DATA_CS_POLARITY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_FREQUENCY
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_FREQUENCY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_FREQ_FSP
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_FREQ_FSP
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_INIT_COMPLETE_EN
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_INIT_COMPLETE_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_INIT_START
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_DFI_INIT_START
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_DIS_DYN_ADR_TRI
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_DIS_DYN_ADR_TRI
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_LP_OPTIMIZED_WRITE
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_LP_OPTIMIZED_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_PHY_DBI_MODE
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_PHY_DBI_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIMISC_SHARE_DFI_DRAM_CLK_DISABLE
+  `undef REGB_DDRC_CH0_OFFSET_DFIMISC_SHARE_DFI_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIPHYMSTR_DFI_PHYMSTR_BLK_REF_X32
+  `undef REGB_DDRC_CH0_OFFSET_DFIPHYMSTR_DFI_PHYMSTR_BLK_REF_X32
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIPHYMSTR_DFI_PHYMSTR_EN
+  `undef REGB_DDRC_CH0_OFFSET_DFIPHYMSTR_DFI_PHYMSTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFISTAT_DFI_INIT_COMPLETE
+  `undef REGB_DDRC_CH0_OFFSET_DFISTAT_DFI_INIT_COMPLETE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFISTAT_DFI_LP_CTRL_ACK_STAT
+  `undef REGB_DDRC_CH0_OFFSET_DFISTAT_DFI_LP_CTRL_ACK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFISTAT_DFI_LP_DATA_ACK_STAT
+  `undef REGB_DDRC_CH0_OFFSET_DFISTAT_DFI_LP_DATA_ACK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIUPD0_CTRLUPD_PRE_SRX
+  `undef REGB_DDRC_CH0_OFFSET_DFIUPD0_CTRLUPD_PRE_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIUPD0_DFI_PHYUPD_EN
+  `undef REGB_DDRC_CH0_OFFSET_DFIUPD0_DFI_PHYUPD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIUPD0_DIS_AUTO_CTRLUPD
+  `undef REGB_DDRC_CH0_OFFSET_DFIUPD0_DIS_AUTO_CTRLUPD
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DFIUPD0_DIS_AUTO_CTRLUPD_SRX
+  `undef REGB_DDRC_CH0_OFFSET_DFIUPD0_DIS_AUTO_CTRLUPD_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DQSOSCCFG0_DIS_DQSOSC_SRX
+  `undef REGB_DDRC_CH0_OFFSET_DQSOSCCFG0_DIS_DQSOSC_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DQSOSCRUNTIME_DQSOSC_RUNTIME
+  `undef REGB_DDRC_CH0_OFFSET_DQSOSCRUNTIME_DQSOSC_RUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DQSOSCRUNTIME_WCK2DQO_RUNTIME
+  `undef REGB_DDRC_CH0_OFFSET_DQSOSCRUNTIME_WCK2DQO_RUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DQSOSCSTAT0_DQSOSC_PER_RANK_STAT
+  `undef REGB_DDRC_CH0_OFFSET_DQSOSCSTAT0_DQSOSC_PER_RANK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_DQSOSCSTAT0_DQSOSC_STATE
+  `undef REGB_DDRC_CH0_OFFSET_DQSOSCSTAT0_DQSOSC_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_HWLPCTL_HW_LP_CTRL
+  `undef REGB_DDRC_CH0_OFFSET_HWLPCTL_HW_LP_CTRL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_HWLPCTL_HW_LP_EN
+  `undef REGB_DDRC_CH0_OFFSET_HWLPCTL_HW_LP_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_HWLPCTL_HW_LP_EXIT_IDLE_EN
+  `undef REGB_DDRC_CH0_OFFSET_HWLPCTL_HW_LP_EXIT_IDLE_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_INITTMG0_POST_CKE_X1024
+  `undef REGB_DDRC_CH0_OFFSET_INITTMG0_POST_CKE_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_INITTMG0_PRE_CKE_X1024
+  `undef REGB_DDRC_CH0_OFFSET_INITTMG0_PRE_CKE_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_INITTMG0_SKIP_DRAM_INIT
+  `undef REGB_DDRC_CH0_OFFSET_INITTMG0_SKIP_DRAM_INIT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_INITTMG1_DRAM_RSTN_X1024
+  `undef REGB_DDRC_CH0_OFFSET_INITTMG1_DRAM_RSTN_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_MPR_EN
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_MPR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_MRR_DONE_CLR
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_MRR_DONE_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_ADDR
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_CID
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_CID
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_RANK
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_RANK
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_TYPE
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_WR
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_MR_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_PBA_MODE
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_PBA_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_PDA_EN
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_PDA_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_PPR_EN
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_PPR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_PPR_PGMPST_EN
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_PPR_PGMPST_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL0_SW_INIT_INT
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL0_SW_INIT_INT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRCTRL1_MR_DATA
+  `undef REGB_DDRC_CH0_OFFSET_MRCTRL1_MR_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRRDATA0_MRR_DATA_LWR
+  `undef REGB_DDRC_CH0_OFFSET_MRRDATA0_MRR_DATA_LWR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRRDATA1_MRR_DATA_UPR
+  `undef REGB_DDRC_CH0_OFFSET_MRRDATA1_MRR_DATA_UPR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRSTAT_MRR_DONE
+  `undef REGB_DDRC_CH0_OFFSET_MRSTAT_MRR_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRSTAT_MR_WR_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_MRSTAT_MR_WR_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRSTAT_PDA_DONE
+  `undef REGB_DDRC_CH0_OFFSET_MRSTAT_PDA_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MRSTAT_PPR_DONE
+  `undef REGB_DDRC_CH0_OFFSET_MRSTAT_PPR_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_ACTIVE_LOGICAL_RANKS
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_ACTIVE_LOGICAL_RANKS
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_ACTIVE_RANKS
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_ACTIVE_RANKS
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_BANK_CONFIG
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_BANK_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_BG_CONFIG
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_BG_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_BURSTCHOP
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_BURSTCHOP
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_BURST_MODE
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_BURST_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_BURST_RDWR
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_BURST_RDWR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_DATA_BUS_WIDTH
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_DATA_BUS_WIDTH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_DDR4
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_DDR4
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_DDR5
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_DDR5
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_DEVICE_CONFIG
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_DEVICE_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_DLL_OFF_MODE
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_DLL_OFF_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_EN_2T_TIMING_MODE
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_EN_2T_TIMING_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_LPDDR4
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_LPDDR4
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR0_LPDDR5
+  `undef REGB_DDRC_CH0_OFFSET_MSTR0_LPDDR5
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR4_WCK_ON
+  `undef REGB_DDRC_CH0_OFFSET_MSTR4_WCK_ON
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR4_WCK_SUSPEND_EN
+  `undef REGB_DDRC_CH0_OFFSET_MSTR4_WCK_SUSPEND_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_MSTR4_WS_OFF_EN
+  `undef REGB_DDRC_CH0_OFFSET_MSTR4_WS_OFF_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK0_RD_ODT
+  `undef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK0_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK0_WR_ODT
+  `undef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK0_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK1_RD_ODT
+  `undef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK1_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK1_WR_ODT
+  `undef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK1_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK2_RD_ODT
+  `undef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK2_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK2_WR_ODT
+  `undef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK2_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK3_RD_ODT
+  `undef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK3_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK3_WR_ODT
+  `undef REGB_DDRC_CH0_OFFSET_ODTMAP_RANK3_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_ACT_BYPASS
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_ACT_BYPASS
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_MAX_RANK_RD_OPT
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_MAX_RANK_RD_OPT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_MAX_RANK_WR_OPT
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_MAX_RANK_WR_OPT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_RD_BYPASS
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_RD_BYPASS
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_WC
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRL0_DIS_WC
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRL1_DIS_DQ
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRL1_DIS_DQ
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRL1_DIS_HIF
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRL1_DIS_HIF
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_HPR_Q_DEPTH
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_HPR_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_LPR_Q_DEPTH
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_LPR_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_RD_Q_EMPTY
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_RD_Q_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_STALL
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_STALL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_STALL_RD
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_STALL_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_STALL_WR
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_STALL_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_WR_Q_EMPTY
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_WR_Q_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_W_Q_DEPTH
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_DBG_W_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_RD_DATA_PIPELINE_EMPTY
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_RD_DATA_PIPELINE_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_WR_DATA_PIPELINE_EMPTY
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCAM_WR_DATA_PIPELINE_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCMD_CTRLUPD
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCMD_CTRLUPD
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCMD_HW_REF_ZQ_EN
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCMD_HW_REF_ZQ_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLCMD_ZQ_CALIB_SHORT
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLCMD_ZQ_CALIB_SHORT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLSTAT_CTRLUPD_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLSTAT_CTRLUPD_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPCTRLSTAT_ZQ_CALIB_SHORT_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPCTRLSTAT_ZQ_CALIB_SHORT_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK0_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK0_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK10_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK10_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK11_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK11_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK12_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK12_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK13_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK13_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK14_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK14_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK15_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK15_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK16_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK16_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK17_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK17_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK18_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK18_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK19_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK19_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK1_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK1_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK20_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK20_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK21_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK21_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK22_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK22_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK23_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK23_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK24_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK24_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK25_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK25_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK26_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK26_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK27_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK27_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK28_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK28_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK29_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK29_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK2_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK2_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK30_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK30_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK31_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK31_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK3_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK3_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK4_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK4_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK5_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK5_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK6_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK6_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK7_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK7_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK8_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK8_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK9_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_OPREFCTRL0_RANK9_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK0_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK0_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK10_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK10_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK11_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK11_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK12_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK12_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK13_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK13_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK14_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK14_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK15_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK15_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK16_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK16_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK17_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK17_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK18_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK18_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK19_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK19_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK1_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK1_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK20_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK20_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK21_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK21_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK22_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK22_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK23_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK23_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK24_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK24_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK25_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK25_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK26_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK26_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK27_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK27_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK28_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK28_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK29_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK29_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK2_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK2_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK30_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK30_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK31_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK31_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK3_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK3_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK4_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK4_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK5_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK5_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK6_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK6_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK7_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK7_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK8_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK8_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK9_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_OPREFSTAT0_RANK9_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONCFG_RD_POISON_INTR_CLR
+  `undef REGB_DDRC_CH0_OFFSET_POISONCFG_RD_POISON_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONCFG_RD_POISON_INTR_EN
+  `undef REGB_DDRC_CH0_OFFSET_POISONCFG_RD_POISON_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONCFG_RD_POISON_SLVERR_EN
+  `undef REGB_DDRC_CH0_OFFSET_POISONCFG_RD_POISON_SLVERR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONCFG_WR_POISON_INTR_CLR
+  `undef REGB_DDRC_CH0_OFFSET_POISONCFG_WR_POISON_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONCFG_WR_POISON_INTR_EN
+  `undef REGB_DDRC_CH0_OFFSET_POISONCFG_WR_POISON_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONCFG_WR_POISON_SLVERR_EN
+  `undef REGB_DDRC_CH0_OFFSET_POISONCFG_WR_POISON_SLVERR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_0
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_0
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_1
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_1
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_10
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_10
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_11
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_11
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_12
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_12
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_13
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_13
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_14
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_14
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_15
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_15
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_2
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_2
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_3
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_3
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_4
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_4
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_5
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_5
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_6
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_6
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_7
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_7
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_8
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_8
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_9
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_RD_POISON_INTR_9
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_0
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_0
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_1
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_1
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_10
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_10
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_11
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_11
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_12
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_12
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_13
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_13
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_14
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_14
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_15
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_15
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_2
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_2
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_3
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_3
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_4
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_4
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_5
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_5
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_6
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_6
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_7
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_7
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_8
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_8
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_9
+  `undef REGB_DDRC_CH0_OFFSET_POISONSTAT_WR_POISON_INTR_9
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_ACTV_PD_EN
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_ACTV_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_DIS_CAM_DRAIN_SELFREF
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_DIS_CAM_DRAIN_SELFREF
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_DSM_EN
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_DSM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_EN_DFI_DRAM_CLK_DISABLE
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_EN_DFI_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_LPDDR4_SR_ALLOWED
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_LPDDR4_SR_ALLOWED
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_MPSM_DEEP_PD_EN
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_MPSM_DEEP_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_MPSM_EN
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_MPSM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_MPSM_PD_EN
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_MPSM_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_POWERDOWN_EN
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_POWERDOWN_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_SELFREF_EN
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_SELFREF_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_SELFREF_SW
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_SELFREF_SW
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_PWRCTL_STAY_IN_SELFREF
+  `undef REGB_DDRC_CH0_OFFSET_PWRCTL_STAY_IN_SELFREF
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_RFSHCTL0_DIS_AUTO_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_RFSHCTL0_DIS_AUTO_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_RFSHCTL0_RANK_DIS_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_RFSHCTL0_RANK_DIS_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_RFSHCTL0_REFRESH_UPDATE_LEVEL
+  `undef REGB_DDRC_CH0_OFFSET_RFSHCTL0_REFRESH_UPDATE_LEVEL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_RFSHMOD0_AUTO_REFAB_EN
+  `undef REGB_DDRC_CH0_OFFSET_RFSHMOD0_AUTO_REFAB_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_RFSHMOD0_MIXED_REFSB_HI_THR
+  `undef REGB_DDRC_CH0_OFFSET_RFSHMOD0_MIXED_REFSB_HI_THR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_RFSHMOD0_PER_BANK_REFRESH
+  `undef REGB_DDRC_CH0_OFFSET_RFSHMOD0_PER_BANK_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_RFSHMOD0_REFRESH_BURST
+  `undef REGB_DDRC_CH0_OFFSET_RFSHMOD0_REFRESH_BURST
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_AUTOPRE_RMW
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_AUTOPRE_RMW
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_DIS_OPT_NTT_BY_ACT
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_DIS_OPT_NTT_BY_ACT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_DIS_OPT_NTT_BY_PRE
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_DIS_OPT_NTT_BY_PRE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_DIS_OPT_WRECC_COLLISION_FLUSH
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_DIS_OPT_WRECC_COLLISION_FLUSH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_DIS_SPECULATIVE_ACT
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_DIS_SPECULATIVE_ACT
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_EN_COUNT_EVERY_WR
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_EN_COUNT_EVERY_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_LPDDR4_OPT_ACT_TIMING
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_LPDDR4_OPT_ACT_TIMING
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_LPDDR5_OPT_ACT_TIMING
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_LPDDR5_OPT_ACT_TIMING
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_LPR_NUM_ENTRIES
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_LPR_NUM_ENTRIES
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_OPT_VPRW_SCH
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_OPT_VPRW_SCH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_OPT_WRCAM_FILL_LEVEL
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_OPT_WRCAM_FILL_LEVEL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_PAGECLOSE
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_PAGECLOSE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_PREFER_READ
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_PREFER_READ
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_PREFER_WRITE
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_PREFER_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED0_RDWR_SWITCH_POLICY_SEL
+  `undef REGB_DDRC_CH0_OFFSET_SCHED0_RDWR_SWITCH_POLICY_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED1_DELAY_SWITCH_WRITE
+  `undef REGB_DDRC_CH0_OFFSET_SCHED1_DELAY_SWITCH_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED1_OPT_HIT_GT_HPR
+  `undef REGB_DDRC_CH0_OFFSET_SCHED1_OPT_HIT_GT_HPR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED1_PAGE_HIT_LIMIT_RD
+  `undef REGB_DDRC_CH0_OFFSET_SCHED1_PAGE_HIT_LIMIT_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED1_PAGE_HIT_LIMIT_WR
+  `undef REGB_DDRC_CH0_OFFSET_SCHED1_PAGE_HIT_LIMIT_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED1_VISIBLE_WINDOW_LIMIT_RD
+  `undef REGB_DDRC_CH0_OFFSET_SCHED1_VISIBLE_WINDOW_LIMIT_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED1_VISIBLE_WINDOW_LIMIT_WR
+  `undef REGB_DDRC_CH0_OFFSET_SCHED1_VISIBLE_WINDOW_LIMIT_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED3_RD_PGHIT_NUM_THRESH
+  `undef REGB_DDRC_CH0_OFFSET_SCHED3_RD_PGHIT_NUM_THRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED3_WRCAM_HIGHTHRESH
+  `undef REGB_DDRC_CH0_OFFSET_SCHED3_WRCAM_HIGHTHRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED3_WRCAM_LOWTHRESH
+  `undef REGB_DDRC_CH0_OFFSET_SCHED3_WRCAM_LOWTHRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED3_WR_PGHIT_NUM_THRESH
+  `undef REGB_DDRC_CH0_OFFSET_SCHED3_WR_PGHIT_NUM_THRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED4_RD_ACT_IDLE_GAP
+  `undef REGB_DDRC_CH0_OFFSET_SCHED4_RD_ACT_IDLE_GAP
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED4_RD_PAGE_EXP_CYCLES
+  `undef REGB_DDRC_CH0_OFFSET_SCHED4_RD_PAGE_EXP_CYCLES
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED4_WR_ACT_IDLE_GAP
+  `undef REGB_DDRC_CH0_OFFSET_SCHED4_WR_ACT_IDLE_GAP
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SCHED4_WR_PAGE_EXP_CYCLES
+  `undef REGB_DDRC_CH0_OFFSET_SCHED4_WR_PAGE_EXP_CYCLES
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_STAT_DFI_LP_STATE
+  `undef REGB_DDRC_CH0_OFFSET_STAT_DFI_LP_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_STAT_MPSM_STATE
+  `undef REGB_DDRC_CH0_OFFSET_STAT_MPSM_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_STAT_OPERATING_MODE
+  `undef REGB_DDRC_CH0_OFFSET_STAT_OPERATING_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_STAT_POWERDOWN_STATE
+  `undef REGB_DDRC_CH0_OFFSET_STAT_POWERDOWN_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_STAT_SELFREF_CAM_NOT_EMPTY
+  `undef REGB_DDRC_CH0_OFFSET_STAT_SELFREF_CAM_NOT_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_STAT_SELFREF_STATE
+  `undef REGB_DDRC_CH0_OFFSET_STAT_SELFREF_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_STAT_SELFREF_TYPE
+  `undef REGB_DDRC_CH0_OFFSET_STAT_SELFREF_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SWCTLSTATIC_SW_STATIC_UNLOCK
+  `undef REGB_DDRC_CH0_OFFSET_SWCTLSTATIC_SW_STATIC_UNLOCK
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SWCTL_SW_DONE
+  `undef REGB_DDRC_CH0_OFFSET_SWCTL_SW_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_SWSTAT_SW_DONE_ACK
+  `undef REGB_DDRC_CH0_OFFSET_SWSTAT_SW_DONE_ACK
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ZQCTL0_DIS_AUTO_ZQ
+  `undef REGB_DDRC_CH0_OFFSET_ZQCTL0_DIS_AUTO_ZQ
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ZQCTL0_DIS_MPSMX_ZQCL
+  `undef REGB_DDRC_CH0_OFFSET_ZQCTL0_DIS_MPSMX_ZQCL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ZQCTL0_ZQ_RESISTOR_SHARED
+  `undef REGB_DDRC_CH0_OFFSET_ZQCTL0_ZQ_RESISTOR_SHARED
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ZQCTL1_ZQ_RESET
+  `undef REGB_DDRC_CH0_OFFSET_ZQCTL1_ZQ_RESET
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ZQCTL2_DIS_SRX_ZQCL
+  `undef REGB_DDRC_CH0_OFFSET_ZQCTL2_DIS_SRX_ZQCL
+`endif
+
+`ifdef REGB_DDRC_CH0_OFFSET_ZQSTAT_ZQ_RESET_BUSY
+  `undef REGB_DDRC_CH0_OFFSET_ZQSTAT_ZQ_RESET_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_CLKGATECTL
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_CLKGATECTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DATACTL0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DATACTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DBICTL
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DBICTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DDRCTL_VER_NUMBER
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DDRCTL_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DDRCTL_VER_TYPE
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DDRCTL_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DERATECTL0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DERATECTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DERATECTL1
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DERATECTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DERATECTL5
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DERATECTL5
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DERATECTL6
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DERATECTL6
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DERATEDBGCTL
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DERATEDBGCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DERATEDBGSTAT
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DERATEDBGSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DERATESTAT0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DERATESTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DFI0MSGCTL0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DFI0MSGCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DFI0MSGSTAT0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DFI0MSGSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DFILPCFG0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DFILPCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DFIMISC
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DFIMISC
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DFIPHYMSTR
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DFIPHYMSTR
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DFISTAT
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DFISTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DFIUPD0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DFIUPD0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DQSOSCCFG0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DQSOSCCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DQSOSCRUNTIME
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DQSOSCRUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_DQSOSCSTAT0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_DQSOSCSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_HWLPCTL
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_HWLPCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_INITTMG0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_INITTMG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_INITTMG1
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_INITTMG1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_MRCTRL0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_MRCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_MRCTRL1
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_MRCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_MRRDATA0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_MRRDATA0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_MRRDATA1
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_MRRDATA1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_MRSTAT
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_MRSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_MSTR0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_MSTR0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_MSTR4
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_MSTR4
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_ODTMAP
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_ODTMAP
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRL0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRL1
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRLCAM
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRLCAM
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRLCMD
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRLCMD
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRLSTAT
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_OPCTRLSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_OPREFCTRL0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_OPREFCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_OPREFSTAT0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_OPREFSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_POISONCFG
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_POISONCFG
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_POISONSTAT
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_POISONSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_PWRCTL
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_PWRCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_RFSHCTL0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_RFSHCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_RFSHMOD0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_RFSHMOD0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_SCHED0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_SCHED0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_SCHED1
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_SCHED1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_SCHED3
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_SCHED3
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_SCHED4
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_SCHED4
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_STAT
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_SWCTL
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_SWCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_SWCTLSTATIC
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_SWCTLSTATIC
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_SWSTAT
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_SWSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_ZQCTL0
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_ZQCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_ZQCTL1
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_ZQCTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_ZQCTL2
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_ZQCTL2
+`endif
+
+`ifdef REGB_DDRC_CH0_ONEBITRO_MSK_ZQSTAT
+  `undef REGB_DDRC_CH0_ONEBITRO_MSK_ZQSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_CLKGATECTL
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_CLKGATECTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DATACTL0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DATACTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DBICTL
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DBICTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DDRCTL_VER_NUMBER
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DDRCTL_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DDRCTL_VER_TYPE
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DDRCTL_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DERATECTL0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DERATECTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DERATECTL1
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DERATECTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DERATECTL5
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DERATECTL5
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DERATECTL6
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DERATECTL6
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DERATEDBGCTL
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DERATEDBGCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DERATEDBGSTAT
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DERATEDBGSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DERATESTAT0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DERATESTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DFI0MSGCTL0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DFI0MSGCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DFI0MSGSTAT0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DFI0MSGSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DFILPCFG0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DFILPCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DFIMISC
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DFIMISC
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DFIPHYMSTR
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DFIPHYMSTR
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DFISTAT
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DFISTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DFIUPD0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DFIUPD0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DQSOSCCFG0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DQSOSCCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DQSOSCRUNTIME
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DQSOSCRUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_DQSOSCSTAT0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_DQSOSCSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_HWLPCTL
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_HWLPCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_INITTMG0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_INITTMG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_INITTMG1
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_INITTMG1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_MRCTRL0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_MRCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_MRCTRL1
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_MRCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_MRRDATA0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_MRRDATA0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_MRRDATA1
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_MRRDATA1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_MRSTAT
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_MRSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_MSTR0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_MSTR0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_MSTR4
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_MSTR4
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_ODTMAP
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_ODTMAP
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRL0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRL1
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRLCAM
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRLCAM
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRLCMD
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRLCMD
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRLSTAT
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_OPCTRLSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_OPREFCTRL0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_OPREFCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_OPREFSTAT0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_OPREFSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_POISONCFG
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_POISONCFG
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_POISONSTAT
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_POISONSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_PWRCTL
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_PWRCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_RFSHCTL0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_RFSHCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_RFSHMOD0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_RFSHMOD0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_SCHED0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_SCHED0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_SCHED1
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_SCHED1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_SCHED3
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_SCHED3
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_SCHED4
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_SCHED4
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_STAT
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_SWCTL
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_SWCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_SWCTLSTATIC
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_SWCTLSTATIC
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_SWSTAT
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_SWSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_ZQCTL0
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_ZQCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_ZQCTL1
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_ZQCTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_ZQCTL2
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_ZQCTL2
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOCLR_MSK_ZQSTAT
+  `undef REGB_DDRC_CH0_ONETOCLR_MSK_ZQSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_CLKGATECTL
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_CLKGATECTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DATACTL0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DATACTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DBICTL
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DBICTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DDRCTL_VER_NUMBER
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DDRCTL_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DDRCTL_VER_TYPE
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DDRCTL_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DERATECTL0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DERATECTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DERATECTL1
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DERATECTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DERATECTL5
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DERATECTL5
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DERATECTL6
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DERATECTL6
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DERATEDBGCTL
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DERATEDBGCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DERATEDBGSTAT
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DERATEDBGSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DERATESTAT0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DERATESTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DFI0MSGCTL0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DFI0MSGCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DFI0MSGSTAT0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DFI0MSGSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DFILPCFG0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DFILPCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DFIMISC
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DFIMISC
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DFIPHYMSTR
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DFIPHYMSTR
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DFISTAT
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DFISTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DFIUPD0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DFIUPD0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DQSOSCCFG0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DQSOSCCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DQSOSCRUNTIME
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DQSOSCRUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_DQSOSCSTAT0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_DQSOSCSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_HWLPCTL
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_HWLPCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_INITTMG0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_INITTMG0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_INITTMG1
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_INITTMG1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_MRCTRL0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_MRCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_MRCTRL1
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_MRCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_MRRDATA0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_MRRDATA0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_MRRDATA1
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_MRRDATA1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_MRSTAT
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_MRSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_MSTR0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_MSTR0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_MSTR4
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_MSTR4
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_ODTMAP
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_ODTMAP
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRL0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRL1
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRLCAM
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRLCAM
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRLCMD
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRLCMD
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRLSTAT
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_OPCTRLSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_OPREFCTRL0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_OPREFCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_OPREFSTAT0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_OPREFSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_POISONCFG
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_POISONCFG
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_POISONSTAT
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_POISONSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_PWRCTL
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_PWRCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_RFSHCTL0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_RFSHCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_RFSHMOD0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_RFSHMOD0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_SCHED0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_SCHED0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_SCHED1
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_SCHED1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_SCHED3
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_SCHED3
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_SCHED4
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_SCHED4
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_STAT
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_SWCTL
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_SWCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_SWCTLSTATIC
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_SWCTLSTATIC
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_SWSTAT
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_SWSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_ZQCTL0
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_ZQCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_ZQCTL1
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_ZQCTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_ZQCTL2
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_ZQCTL2
+`endif
+
+`ifdef REGB_DDRC_CH0_ONETOSET_MSK_ZQSTAT
+  `undef REGB_DDRC_CH0_ONETOSET_MSK_ZQSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_OPCTRL0_ADDR
+  `undef REGB_DDRC_CH0_OPCTRL0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_OPCTRL1_ADDR
+  `undef REGB_DDRC_CH0_OPCTRL1_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_OPCTRLCAM_ADDR
+  `undef REGB_DDRC_CH0_OPCTRLCAM_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_OPCTRLCMD_ADDR
+  `undef REGB_DDRC_CH0_OPCTRLCMD_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_OPCTRLSTAT_ADDR
+  `undef REGB_DDRC_CH0_OPCTRLSTAT_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_OPREFCTRL0_ADDR
+  `undef REGB_DDRC_CH0_OPREFCTRL0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_OPREFSTAT0_ADDR
+  `undef REGB_DDRC_CH0_OPREFSTAT0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_POISONCFG_ADDR
+  `undef REGB_DDRC_CH0_POISONCFG_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_POISONSTAT_ADDR
+  `undef REGB_DDRC_CH0_POISONSTAT_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_PWRCTL_ADDR
+  `undef REGB_DDRC_CH0_PWRCTL_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_RFSHCTL0_ADDR
+  `undef REGB_DDRC_CH0_RFSHCTL0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_RFSHMOD0_ADDR
+  `undef REGB_DDRC_CH0_RFSHMOD0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_CLKGATECTL
+  `undef REGB_DDRC_CH0_RWONLY_MSK_CLKGATECTL
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DATACTL0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DATACTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DBICTL
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DBICTL
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DDRCTL_VER_NUMBER
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DDRCTL_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DDRCTL_VER_TYPE
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DDRCTL_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DERATECTL0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DERATECTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DERATECTL1
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DERATECTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DERATECTL5
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DERATECTL5
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DERATECTL6
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DERATECTL6
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DERATEDBGCTL
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DERATEDBGCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DERATEDBGSTAT
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DERATEDBGSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DERATESTAT0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DERATESTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DFI0MSGCTL0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DFI0MSGCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DFI0MSGSTAT0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DFI0MSGSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DFILPCFG0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DFILPCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DFIMISC
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DFIMISC
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DFIPHYMSTR
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DFIPHYMSTR
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DFISTAT
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DFISTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DFIUPD0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DFIUPD0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DQSOSCCFG0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DQSOSCCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DQSOSCRUNTIME
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DQSOSCRUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_DQSOSCSTAT0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_DQSOSCSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_HWLPCTL
+  `undef REGB_DDRC_CH0_RWONLY_MSK_HWLPCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_INITTMG0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_INITTMG0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_INITTMG1
+  `undef REGB_DDRC_CH0_RWONLY_MSK_INITTMG1
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_MRCTRL0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_MRCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_MRCTRL1
+  `undef REGB_DDRC_CH0_RWONLY_MSK_MRCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_MRRDATA0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_MRRDATA0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_MRRDATA1
+  `undef REGB_DDRC_CH0_RWONLY_MSK_MRRDATA1
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_MRSTAT
+  `undef REGB_DDRC_CH0_RWONLY_MSK_MRSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_MSTR0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_MSTR0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_MSTR4
+  `undef REGB_DDRC_CH0_RWONLY_MSK_MSTR4
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_ODTMAP
+  `undef REGB_DDRC_CH0_RWONLY_MSK_ODTMAP
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_OPCTRL0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_OPCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_OPCTRL1
+  `undef REGB_DDRC_CH0_RWONLY_MSK_OPCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_OPCTRLCAM
+  `undef REGB_DDRC_CH0_RWONLY_MSK_OPCTRLCAM
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_OPCTRLCMD
+  `undef REGB_DDRC_CH0_RWONLY_MSK_OPCTRLCMD
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_OPCTRLSTAT
+  `undef REGB_DDRC_CH0_RWONLY_MSK_OPCTRLSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_OPREFCTRL0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_OPREFCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_OPREFSTAT0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_OPREFSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_POISONCFG
+  `undef REGB_DDRC_CH0_RWONLY_MSK_POISONCFG
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_POISONSTAT
+  `undef REGB_DDRC_CH0_RWONLY_MSK_POISONSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_PWRCTL
+  `undef REGB_DDRC_CH0_RWONLY_MSK_PWRCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_RFSHCTL0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_RFSHCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_RFSHMOD0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_RFSHMOD0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_SCHED0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_SCHED0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_SCHED1
+  `undef REGB_DDRC_CH0_RWONLY_MSK_SCHED1
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_SCHED3
+  `undef REGB_DDRC_CH0_RWONLY_MSK_SCHED3
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_SCHED4
+  `undef REGB_DDRC_CH0_RWONLY_MSK_SCHED4
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_STAT
+  `undef REGB_DDRC_CH0_RWONLY_MSK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_SWCTL
+  `undef REGB_DDRC_CH0_RWONLY_MSK_SWCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_SWCTLSTATIC
+  `undef REGB_DDRC_CH0_RWONLY_MSK_SWCTLSTATIC
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_SWSTAT
+  `undef REGB_DDRC_CH0_RWONLY_MSK_SWSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_ZQCTL0
+  `undef REGB_DDRC_CH0_RWONLY_MSK_ZQCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_ZQCTL1
+  `undef REGB_DDRC_CH0_RWONLY_MSK_ZQCTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_ZQCTL2
+  `undef REGB_DDRC_CH0_RWONLY_MSK_ZQCTL2
+`endif
+
+`ifdef REGB_DDRC_CH0_RWONLY_MSK_ZQSTAT
+  `undef REGB_DDRC_CH0_RWONLY_MSK_ZQSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SCHED0_ADDR
+  `undef REGB_DDRC_CH0_SCHED0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_SCHED1_ADDR
+  `undef REGB_DDRC_CH0_SCHED1_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_SCHED3_ADDR
+  `undef REGB_DDRC_CH0_SCHED3_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_SCHED4_ADDR
+  `undef REGB_DDRC_CH0_SCHED4_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_CLKGATECTL
+  `undef REGB_DDRC_CH0_SIZE_CLKGATECTL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_CLKGATECTL_BSM_CLK_ON
+  `undef REGB_DDRC_CH0_SIZE_CLKGATECTL_BSM_CLK_ON
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DATACTL0
+  `undef REGB_DDRC_CH0_SIZE_DATACTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DATACTL0_RD_DATA_COPY_EN
+  `undef REGB_DDRC_CH0_SIZE_DATACTL0_RD_DATA_COPY_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DATACTL0_WR_DATA_COPY_EN
+  `undef REGB_DDRC_CH0_SIZE_DATACTL0_WR_DATA_COPY_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DATACTL0_WR_DATA_X_EN
+  `undef REGB_DDRC_CH0_SIZE_DATACTL0_WR_DATA_X_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DBICTL
+  `undef REGB_DDRC_CH0_SIZE_DBICTL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DBICTL_DM_EN
+  `undef REGB_DDRC_CH0_SIZE_DBICTL_DM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DBICTL_RD_DBI_EN
+  `undef REGB_DDRC_CH0_SIZE_DBICTL_RD_DBI_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DBICTL_WR_DBI_EN
+  `undef REGB_DDRC_CH0_SIZE_DBICTL_WR_DBI_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DDRCTL_VER_NUMBER
+  `undef REGB_DDRC_CH0_SIZE_DDRCTL_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DDRCTL_VER_NUMBER_VER_NUMBER
+  `undef REGB_DDRC_CH0_SIZE_DDRCTL_VER_NUMBER_VER_NUMBER
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DDRCTL_VER_TYPE
+  `undef REGB_DDRC_CH0_SIZE_DDRCTL_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DDRCTL_VER_TYPE_VER_TYPE
+  `undef REGB_DDRC_CH0_SIZE_DDRCTL_VER_TYPE_VER_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL0
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL0_DERATE_ENABLE
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL0_DERATE_ENABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL0_DERATE_MR4_PAUSE_FC
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL0_DERATE_MR4_PAUSE_FC
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL0_DIS_TREFI_X0125
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL0_DIS_TREFI_X0125
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL0_DIS_TREFI_X6X8
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL0_DIS_TREFI_X6X8
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL0_LPDDR4_REFRESH_MODE
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL0_LPDDR4_REFRESH_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL1
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL1_ACTIVE_DERATE_BYTE_RANK0
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL1_ACTIVE_DERATE_BYTE_RANK0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL5
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL5
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL5_DERATE_TEMP_LIMIT_INTR_CLR
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL5_DERATE_TEMP_LIMIT_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL5_DERATE_TEMP_LIMIT_INTR_EN
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL5_DERATE_TEMP_LIMIT_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL5_DERATE_TEMP_LIMIT_INTR_FORCE
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL5_DERATE_TEMP_LIMIT_INTR_FORCE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL6
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL6
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL6_DERATE_HIGH_TEMP_LIMIT
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL6_DERATE_HIGH_TEMP_LIMIT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL6_DERATE_LOW_TEMP_LIMIT
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL6_DERATE_LOW_TEMP_LIMIT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATECTL6_DERATE_MR4_TUF_DIS
+  `undef REGB_DDRC_CH0_SIZE_DERATECTL6_DERATE_MR4_TUF_DIS
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATEDBGCTL
+  `undef REGB_DDRC_CH0_SIZE_DERATEDBGCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATEDBGCTL_DBG_MR4_GRP_SEL
+  `undef REGB_DDRC_CH0_SIZE_DERATEDBGCTL_DBG_MR4_GRP_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATEDBGCTL_DBG_MR4_RANK_SEL
+  `undef REGB_DDRC_CH0_SIZE_DERATEDBGCTL_DBG_MR4_RANK_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT
+  `undef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT_DBG_MR4_BYTE0
+  `undef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT_DBG_MR4_BYTE0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT_DBG_MR4_BYTE1
+  `undef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT_DBG_MR4_BYTE1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT_DBG_MR4_BYTE2
+  `undef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT_DBG_MR4_BYTE2
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT_DBG_MR4_BYTE3
+  `undef REGB_DDRC_CH0_SIZE_DERATEDBGSTAT_DBG_MR4_BYTE3
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATESTAT0
+  `undef REGB_DDRC_CH0_SIZE_DERATESTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DERATESTAT0_DERATE_TEMP_LIMIT_INTR
+  `undef REGB_DDRC_CH0_SIZE_DERATESTAT0_DERATE_TEMP_LIMIT_INTR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0
+  `undef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0_DFI0_CTRLMSG_CMD
+  `undef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0_DFI0_CTRLMSG_CMD
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0_DFI0_CTRLMSG_DATA
+  `undef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0_DFI0_CTRLMSG_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0_DFI0_CTRLMSG_REQ
+  `undef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0_DFI0_CTRLMSG_REQ
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0_DFI0_CTRLMSG_TOUT_CLR
+  `undef REGB_DDRC_CH0_SIZE_DFI0MSGCTL0_DFI0_CTRLMSG_TOUT_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFI0MSGSTAT0
+  `undef REGB_DDRC_CH0_SIZE_DFI0MSGSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFI0MSGSTAT0_DFI0_CTRLMSG_REQ_BUSY
+  `undef REGB_DDRC_CH0_SIZE_DFI0MSGSTAT0_DFI0_CTRLMSG_REQ_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFI0MSGSTAT0_DFI0_CTRLMSG_RESP_TOUT
+  `undef REGB_DDRC_CH0_SIZE_DFI0MSGSTAT0_DFI0_CTRLMSG_RESP_TOUT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFILPCFG0
+  `undef REGB_DDRC_CH0_SIZE_DFILPCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_DATA_REQ_EN
+  `undef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_DATA_REQ_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_DATA
+  `undef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_DSM
+  `undef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_DSM
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_MPSM
+  `undef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_MPSM
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_PD
+  `undef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_PD
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_SR
+  `undef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EN_SR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EXTRA_GAP_WR
+  `undef REGB_DDRC_CH0_SIZE_DFILPCFG0_DFI_LP_EXTRA_GAP_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_CHANNEL_MODE
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_CHANNEL_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_DATA_CS_POLARITY
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_DATA_CS_POLARITY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_FREQUENCY
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_FREQUENCY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_FREQ_FSP
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_FREQ_FSP
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_INIT_COMPLETE_EN
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_INIT_COMPLETE_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_INIT_START
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_DFI_INIT_START
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_DIS_DYN_ADR_TRI
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_DIS_DYN_ADR_TRI
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_LP_OPTIMIZED_WRITE
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_LP_OPTIMIZED_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_PHY_DBI_MODE
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_PHY_DBI_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIMISC_SHARE_DFI_DRAM_CLK_DISABLE
+  `undef REGB_DDRC_CH0_SIZE_DFIMISC_SHARE_DFI_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIPHYMSTR
+  `undef REGB_DDRC_CH0_SIZE_DFIPHYMSTR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIPHYMSTR_DFI_PHYMSTR_BLK_REF_X32
+  `undef REGB_DDRC_CH0_SIZE_DFIPHYMSTR_DFI_PHYMSTR_BLK_REF_X32
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIPHYMSTR_DFI_PHYMSTR_EN
+  `undef REGB_DDRC_CH0_SIZE_DFIPHYMSTR_DFI_PHYMSTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFISTAT
+  `undef REGB_DDRC_CH0_SIZE_DFISTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFISTAT_DFI_INIT_COMPLETE
+  `undef REGB_DDRC_CH0_SIZE_DFISTAT_DFI_INIT_COMPLETE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFISTAT_DFI_LP_CTRL_ACK_STAT
+  `undef REGB_DDRC_CH0_SIZE_DFISTAT_DFI_LP_CTRL_ACK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFISTAT_DFI_LP_DATA_ACK_STAT
+  `undef REGB_DDRC_CH0_SIZE_DFISTAT_DFI_LP_DATA_ACK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIUPD0
+  `undef REGB_DDRC_CH0_SIZE_DFIUPD0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIUPD0_CTRLUPD_PRE_SRX
+  `undef REGB_DDRC_CH0_SIZE_DFIUPD0_CTRLUPD_PRE_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIUPD0_DFI_PHYUPD_EN
+  `undef REGB_DDRC_CH0_SIZE_DFIUPD0_DFI_PHYUPD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIUPD0_DIS_AUTO_CTRLUPD
+  `undef REGB_DDRC_CH0_SIZE_DFIUPD0_DIS_AUTO_CTRLUPD
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DFIUPD0_DIS_AUTO_CTRLUPD_SRX
+  `undef REGB_DDRC_CH0_SIZE_DFIUPD0_DIS_AUTO_CTRLUPD_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DQSOSCCFG0
+  `undef REGB_DDRC_CH0_SIZE_DQSOSCCFG0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DQSOSCCFG0_DIS_DQSOSC_SRX
+  `undef REGB_DDRC_CH0_SIZE_DQSOSCCFG0_DIS_DQSOSC_SRX
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DQSOSCRUNTIME
+  `undef REGB_DDRC_CH0_SIZE_DQSOSCRUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DQSOSCRUNTIME_DQSOSC_RUNTIME
+  `undef REGB_DDRC_CH0_SIZE_DQSOSCRUNTIME_DQSOSC_RUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DQSOSCRUNTIME_WCK2DQO_RUNTIME
+  `undef REGB_DDRC_CH0_SIZE_DQSOSCRUNTIME_WCK2DQO_RUNTIME
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DQSOSCSTAT0
+  `undef REGB_DDRC_CH0_SIZE_DQSOSCSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DQSOSCSTAT0_DQSOSC_PER_RANK_STAT
+  `undef REGB_DDRC_CH0_SIZE_DQSOSCSTAT0_DQSOSC_PER_RANK_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_DQSOSCSTAT0_DQSOSC_STATE
+  `undef REGB_DDRC_CH0_SIZE_DQSOSCSTAT0_DQSOSC_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_HWLPCTL
+  `undef REGB_DDRC_CH0_SIZE_HWLPCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_HWLPCTL_HW_LP_CTRL
+  `undef REGB_DDRC_CH0_SIZE_HWLPCTL_HW_LP_CTRL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_HWLPCTL_HW_LP_EN
+  `undef REGB_DDRC_CH0_SIZE_HWLPCTL_HW_LP_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_HWLPCTL_HW_LP_EXIT_IDLE_EN
+  `undef REGB_DDRC_CH0_SIZE_HWLPCTL_HW_LP_EXIT_IDLE_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_INITTMG0
+  `undef REGB_DDRC_CH0_SIZE_INITTMG0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_INITTMG0_POST_CKE_X1024
+  `undef REGB_DDRC_CH0_SIZE_INITTMG0_POST_CKE_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_INITTMG0_PRE_CKE_X1024
+  `undef REGB_DDRC_CH0_SIZE_INITTMG0_PRE_CKE_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_INITTMG0_SKIP_DRAM_INIT
+  `undef REGB_DDRC_CH0_SIZE_INITTMG0_SKIP_DRAM_INIT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_INITTMG1
+  `undef REGB_DDRC_CH0_SIZE_INITTMG1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_INITTMG1_DRAM_RSTN_X1024
+  `undef REGB_DDRC_CH0_SIZE_INITTMG1_DRAM_RSTN_X1024
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_MPR_EN
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_MPR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_MRR_DONE_CLR
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_MRR_DONE_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_ADDR
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_CID
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_CID
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_RANK
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_RANK
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_TYPE
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_WR
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_MR_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_PBA_MODE
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_PBA_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_PDA_EN
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_PDA_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_PPR_EN
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_PPR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_PPR_PGMPST_EN
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_PPR_PGMPST_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL0_SW_INIT_INT
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL0_SW_INIT_INT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL1
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRCTRL1_MR_DATA
+  `undef REGB_DDRC_CH0_SIZE_MRCTRL1_MR_DATA
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRRDATA0
+  `undef REGB_DDRC_CH0_SIZE_MRRDATA0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRRDATA0_MRR_DATA_LWR
+  `undef REGB_DDRC_CH0_SIZE_MRRDATA0_MRR_DATA_LWR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRRDATA1
+  `undef REGB_DDRC_CH0_SIZE_MRRDATA1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRRDATA1_MRR_DATA_UPR
+  `undef REGB_DDRC_CH0_SIZE_MRRDATA1_MRR_DATA_UPR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRSTAT
+  `undef REGB_DDRC_CH0_SIZE_MRSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRSTAT_MRR_DONE
+  `undef REGB_DDRC_CH0_SIZE_MRSTAT_MRR_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRSTAT_MR_WR_BUSY
+  `undef REGB_DDRC_CH0_SIZE_MRSTAT_MR_WR_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRSTAT_PDA_DONE
+  `undef REGB_DDRC_CH0_SIZE_MRSTAT_PDA_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MRSTAT_PPR_DONE
+  `undef REGB_DDRC_CH0_SIZE_MRSTAT_PPR_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0
+  `undef REGB_DDRC_CH0_SIZE_MSTR0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_ACTIVE_LOGICAL_RANKS
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_ACTIVE_LOGICAL_RANKS
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_ACTIVE_RANKS
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_ACTIVE_RANKS
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_BANK_CONFIG
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_BANK_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_BG_CONFIG
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_BG_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_BURSTCHOP
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_BURSTCHOP
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_BURST_MODE
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_BURST_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_BURST_RDWR
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_BURST_RDWR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_DATA_BUS_WIDTH
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_DATA_BUS_WIDTH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_DDR4
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_DDR4
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_DDR5
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_DDR5
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_DEVICE_CONFIG
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_DEVICE_CONFIG
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_DLL_OFF_MODE
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_DLL_OFF_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_EN_2T_TIMING_MODE
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_EN_2T_TIMING_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_LPDDR4
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_LPDDR4
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR0_LPDDR5
+  `undef REGB_DDRC_CH0_SIZE_MSTR0_LPDDR5
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR4
+  `undef REGB_DDRC_CH0_SIZE_MSTR4
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR4_WCK_ON
+  `undef REGB_DDRC_CH0_SIZE_MSTR4_WCK_ON
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR4_WCK_SUSPEND_EN
+  `undef REGB_DDRC_CH0_SIZE_MSTR4_WCK_SUSPEND_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_MSTR4_WS_OFF_EN
+  `undef REGB_DDRC_CH0_SIZE_MSTR4_WS_OFF_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP_RANK0_RD_ODT
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP_RANK0_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP_RANK0_WR_ODT
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP_RANK0_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP_RANK1_RD_ODT
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP_RANK1_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP_RANK1_WR_ODT
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP_RANK1_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP_RANK2_RD_ODT
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP_RANK2_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP_RANK2_WR_ODT
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP_RANK2_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP_RANK3_RD_ODT
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP_RANK3_RD_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ODTMAP_RANK3_WR_ODT
+  `undef REGB_DDRC_CH0_SIZE_ODTMAP_RANK3_WR_ODT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL0
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_ACT_BYPASS
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_ACT_BYPASS
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_MAX_RANK_RD_OPT
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_MAX_RANK_RD_OPT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_MAX_RANK_WR_OPT
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_MAX_RANK_WR_OPT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_RD_BYPASS
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_RD_BYPASS
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_WC
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL0_DIS_WC
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL1
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL1_DIS_DQ
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL1_DIS_DQ
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRL1_DIS_HIF
+  `undef REGB_DDRC_CH0_SIZE_OPCTRL1_DIS_HIF
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_HPR_Q_DEPTH
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_HPR_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_LPR_Q_DEPTH
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_LPR_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_RD_Q_EMPTY
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_RD_Q_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_STALL
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_STALL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_STALL_RD
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_STALL_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_STALL_WR
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_STALL_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_WR_Q_EMPTY
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_WR_Q_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_W_Q_DEPTH
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_DBG_W_Q_DEPTH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_RD_DATA_PIPELINE_EMPTY
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_RD_DATA_PIPELINE_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCAM_WR_DATA_PIPELINE_EMPTY
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCAM_WR_DATA_PIPELINE_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCMD
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCMD
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCMD_CTRLUPD
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCMD_CTRLUPD
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCMD_HW_REF_ZQ_EN
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCMD_HW_REF_ZQ_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLCMD_ZQ_CALIB_SHORT
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLCMD_ZQ_CALIB_SHORT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLSTAT
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLSTAT_CTRLUPD_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLSTAT_CTRLUPD_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPCTRLSTAT_ZQ_CALIB_SHORT_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPCTRLSTAT_ZQ_CALIB_SHORT_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK0_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK0_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK10_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK10_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK11_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK11_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK12_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK12_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK13_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK13_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK14_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK14_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK15_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK15_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK16_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK16_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK17_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK17_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK18_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK18_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK19_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK19_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK1_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK1_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK20_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK20_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK21_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK21_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK22_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK22_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK23_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK23_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK24_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK24_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK25_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK25_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK26_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK26_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK27_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK27_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK28_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK28_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK29_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK29_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK2_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK2_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK30_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK30_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK31_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK31_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK3_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK3_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK4_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK4_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK5_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK5_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK6_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK6_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK7_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK7_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK8_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK8_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK9_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_OPREFCTRL0_RANK9_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK0_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK0_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK10_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK10_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK11_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK11_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK12_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK12_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK13_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK13_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK14_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK14_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK15_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK15_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK16_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK16_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK17_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK17_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK18_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK18_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK19_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK19_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK1_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK1_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK20_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK20_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK21_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK21_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK22_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK22_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK23_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK23_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK24_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK24_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK25_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK25_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK26_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK26_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK27_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK27_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK28_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK28_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK29_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK29_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK2_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK2_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK30_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK30_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK31_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK31_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK3_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK3_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK4_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK4_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK5_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK5_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK6_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK6_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK7_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK7_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK8_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK8_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK9_REFRESH_BUSY
+  `undef REGB_DDRC_CH0_SIZE_OPREFSTAT0_RANK9_REFRESH_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONCFG
+  `undef REGB_DDRC_CH0_SIZE_POISONCFG
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONCFG_RD_POISON_INTR_CLR
+  `undef REGB_DDRC_CH0_SIZE_POISONCFG_RD_POISON_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONCFG_RD_POISON_INTR_EN
+  `undef REGB_DDRC_CH0_SIZE_POISONCFG_RD_POISON_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONCFG_RD_POISON_SLVERR_EN
+  `undef REGB_DDRC_CH0_SIZE_POISONCFG_RD_POISON_SLVERR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONCFG_WR_POISON_INTR_CLR
+  `undef REGB_DDRC_CH0_SIZE_POISONCFG_WR_POISON_INTR_CLR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONCFG_WR_POISON_INTR_EN
+  `undef REGB_DDRC_CH0_SIZE_POISONCFG_WR_POISON_INTR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONCFG_WR_POISON_SLVERR_EN
+  `undef REGB_DDRC_CH0_SIZE_POISONCFG_WR_POISON_SLVERR_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_0
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_1
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_10
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_10
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_11
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_11
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_12
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_12
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_13
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_13
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_14
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_14
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_15
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_15
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_2
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_2
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_3
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_3
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_4
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_4
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_5
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_5
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_6
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_6
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_7
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_7
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_8
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_8
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_9
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_RD_POISON_INTR_9
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_0
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_1
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_10
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_10
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_11
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_11
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_12
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_12
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_13
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_13
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_14
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_14
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_15
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_15
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_2
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_2
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_3
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_3
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_4
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_4
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_5
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_5
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_6
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_6
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_7
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_7
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_8
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_8
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_9
+  `undef REGB_DDRC_CH0_SIZE_POISONSTAT_WR_POISON_INTR_9
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_ACTV_PD_EN
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_ACTV_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_DIS_CAM_DRAIN_SELFREF
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_DIS_CAM_DRAIN_SELFREF
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_DSM_EN
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_DSM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_EN_DFI_DRAM_CLK_DISABLE
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_EN_DFI_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_LPDDR4_SR_ALLOWED
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_LPDDR4_SR_ALLOWED
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_MPSM_DEEP_PD_EN
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_MPSM_DEEP_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_MPSM_EN
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_MPSM_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_MPSM_PD_EN
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_MPSM_PD_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_POWERDOWN_EN
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_POWERDOWN_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_SELFREF_EN
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_SELFREF_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_SELFREF_SW
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_SELFREF_SW
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_PWRCTL_STAY_IN_SELFREF
+  `undef REGB_DDRC_CH0_SIZE_PWRCTL_STAY_IN_SELFREF
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHCTL0
+  `undef REGB_DDRC_CH0_SIZE_RFSHCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHCTL0_DIS_AUTO_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_RFSHCTL0_DIS_AUTO_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHCTL0_RANK_DIS_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_RFSHCTL0_RANK_DIS_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHCTL0_REFRESH_UPDATE_LEVEL
+  `undef REGB_DDRC_CH0_SIZE_RFSHCTL0_REFRESH_UPDATE_LEVEL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHMOD0
+  `undef REGB_DDRC_CH0_SIZE_RFSHMOD0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHMOD0_AUTO_REFAB_EN
+  `undef REGB_DDRC_CH0_SIZE_RFSHMOD0_AUTO_REFAB_EN
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHMOD0_MIXED_REFSB_HI_THR
+  `undef REGB_DDRC_CH0_SIZE_RFSHMOD0_MIXED_REFSB_HI_THR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHMOD0_PER_BANK_REFRESH
+  `undef REGB_DDRC_CH0_SIZE_RFSHMOD0_PER_BANK_REFRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_RFSHMOD0_REFRESH_BURST
+  `undef REGB_DDRC_CH0_SIZE_RFSHMOD0_REFRESH_BURST
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0
+  `undef REGB_DDRC_CH0_SIZE_SCHED0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_AUTOPRE_RMW
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_AUTOPRE_RMW
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_DIS_OPT_NTT_BY_ACT
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_DIS_OPT_NTT_BY_ACT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_DIS_OPT_NTT_BY_PRE
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_DIS_OPT_NTT_BY_PRE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_DIS_OPT_WRECC_COLLISION_FLUSH
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_DIS_OPT_WRECC_COLLISION_FLUSH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_DIS_SPECULATIVE_ACT
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_DIS_SPECULATIVE_ACT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_EN_COUNT_EVERY_WR
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_EN_COUNT_EVERY_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_LPDDR4_OPT_ACT_TIMING
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_LPDDR4_OPT_ACT_TIMING
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_LPDDR5_OPT_ACT_TIMING
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_LPDDR5_OPT_ACT_TIMING
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_LPR_NUM_ENTRIES
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_LPR_NUM_ENTRIES
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_OPT_VPRW_SCH
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_OPT_VPRW_SCH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_OPT_WRCAM_FILL_LEVEL
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_OPT_WRCAM_FILL_LEVEL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_PAGECLOSE
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_PAGECLOSE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_PREFER_READ
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_PREFER_READ
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_PREFER_WRITE
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_PREFER_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED0_RDWR_SWITCH_POLICY_SEL
+  `undef REGB_DDRC_CH0_SIZE_SCHED0_RDWR_SWITCH_POLICY_SEL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED1
+  `undef REGB_DDRC_CH0_SIZE_SCHED1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED1_DELAY_SWITCH_WRITE
+  `undef REGB_DDRC_CH0_SIZE_SCHED1_DELAY_SWITCH_WRITE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED1_OPT_HIT_GT_HPR
+  `undef REGB_DDRC_CH0_SIZE_SCHED1_OPT_HIT_GT_HPR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED1_PAGE_HIT_LIMIT_RD
+  `undef REGB_DDRC_CH0_SIZE_SCHED1_PAGE_HIT_LIMIT_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED1_PAGE_HIT_LIMIT_WR
+  `undef REGB_DDRC_CH0_SIZE_SCHED1_PAGE_HIT_LIMIT_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED1_VISIBLE_WINDOW_LIMIT_RD
+  `undef REGB_DDRC_CH0_SIZE_SCHED1_VISIBLE_WINDOW_LIMIT_RD
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED1_VISIBLE_WINDOW_LIMIT_WR
+  `undef REGB_DDRC_CH0_SIZE_SCHED1_VISIBLE_WINDOW_LIMIT_WR
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED3
+  `undef REGB_DDRC_CH0_SIZE_SCHED3
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED3_RD_PGHIT_NUM_THRESH
+  `undef REGB_DDRC_CH0_SIZE_SCHED3_RD_PGHIT_NUM_THRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED3_WRCAM_HIGHTHRESH
+  `undef REGB_DDRC_CH0_SIZE_SCHED3_WRCAM_HIGHTHRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED3_WRCAM_LOWTHRESH
+  `undef REGB_DDRC_CH0_SIZE_SCHED3_WRCAM_LOWTHRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED3_WR_PGHIT_NUM_THRESH
+  `undef REGB_DDRC_CH0_SIZE_SCHED3_WR_PGHIT_NUM_THRESH
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED4
+  `undef REGB_DDRC_CH0_SIZE_SCHED4
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED4_RD_ACT_IDLE_GAP
+  `undef REGB_DDRC_CH0_SIZE_SCHED4_RD_ACT_IDLE_GAP
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED4_RD_PAGE_EXP_CYCLES
+  `undef REGB_DDRC_CH0_SIZE_SCHED4_RD_PAGE_EXP_CYCLES
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED4_WR_ACT_IDLE_GAP
+  `undef REGB_DDRC_CH0_SIZE_SCHED4_WR_ACT_IDLE_GAP
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SCHED4_WR_PAGE_EXP_CYCLES
+  `undef REGB_DDRC_CH0_SIZE_SCHED4_WR_PAGE_EXP_CYCLES
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_STAT
+  `undef REGB_DDRC_CH0_SIZE_STAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_STAT_DFI_LP_STATE
+  `undef REGB_DDRC_CH0_SIZE_STAT_DFI_LP_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_STAT_MPSM_STATE
+  `undef REGB_DDRC_CH0_SIZE_STAT_MPSM_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_STAT_OPERATING_MODE
+  `undef REGB_DDRC_CH0_SIZE_STAT_OPERATING_MODE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_STAT_POWERDOWN_STATE
+  `undef REGB_DDRC_CH0_SIZE_STAT_POWERDOWN_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_STAT_SELFREF_CAM_NOT_EMPTY
+  `undef REGB_DDRC_CH0_SIZE_STAT_SELFREF_CAM_NOT_EMPTY
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_STAT_SELFREF_STATE
+  `undef REGB_DDRC_CH0_SIZE_STAT_SELFREF_STATE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_STAT_SELFREF_TYPE
+  `undef REGB_DDRC_CH0_SIZE_STAT_SELFREF_TYPE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SWCTL
+  `undef REGB_DDRC_CH0_SIZE_SWCTL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SWCTLSTATIC
+  `undef REGB_DDRC_CH0_SIZE_SWCTLSTATIC
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SWCTLSTATIC_SW_STATIC_UNLOCK
+  `undef REGB_DDRC_CH0_SIZE_SWCTLSTATIC_SW_STATIC_UNLOCK
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SWCTL_SW_DONE
+  `undef REGB_DDRC_CH0_SIZE_SWCTL_SW_DONE
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SWSTAT
+  `undef REGB_DDRC_CH0_SIZE_SWSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_SWSTAT_SW_DONE_ACK
+  `undef REGB_DDRC_CH0_SIZE_SWSTAT_SW_DONE_ACK
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQCTL0
+  `undef REGB_DDRC_CH0_SIZE_ZQCTL0
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQCTL0_DIS_AUTO_ZQ
+  `undef REGB_DDRC_CH0_SIZE_ZQCTL0_DIS_AUTO_ZQ
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQCTL0_DIS_MPSMX_ZQCL
+  `undef REGB_DDRC_CH0_SIZE_ZQCTL0_DIS_MPSMX_ZQCL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQCTL0_ZQ_RESISTOR_SHARED
+  `undef REGB_DDRC_CH0_SIZE_ZQCTL0_ZQ_RESISTOR_SHARED
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQCTL1
+  `undef REGB_DDRC_CH0_SIZE_ZQCTL1
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQCTL1_ZQ_RESET
+  `undef REGB_DDRC_CH0_SIZE_ZQCTL1_ZQ_RESET
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQCTL2
+  `undef REGB_DDRC_CH0_SIZE_ZQCTL2
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQCTL2_DIS_SRX_ZQCL
+  `undef REGB_DDRC_CH0_SIZE_ZQCTL2_DIS_SRX_ZQCL
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQSTAT
+  `undef REGB_DDRC_CH0_SIZE_ZQSTAT
+`endif
+
+`ifdef REGB_DDRC_CH0_SIZE_ZQSTAT_ZQ_RESET_BUSY
+  `undef REGB_DDRC_CH0_SIZE_ZQSTAT_ZQ_RESET_BUSY
+`endif
+
+`ifdef REGB_DDRC_CH0_STAT_ADDR
+  `undef REGB_DDRC_CH0_STAT_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_SWCTLSTATIC_ADDR
+  `undef REGB_DDRC_CH0_SWCTLSTATIC_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_SWCTL_ADDR
+  `undef REGB_DDRC_CH0_SWCTL_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_SWSTAT_ADDR
+  `undef REGB_DDRC_CH0_SWSTAT_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_ZQCTL0_ADDR
+  `undef REGB_DDRC_CH0_ZQCTL0_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_ZQCTL1_ADDR
+  `undef REGB_DDRC_CH0_ZQCTL1_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_ZQCTL2_ADDR
+  `undef REGB_DDRC_CH0_ZQCTL2_ADDR
+`endif
+
+`ifdef REGB_DDRC_CH0_ZQSTAT_ADDR
+  `undef REGB_DDRC_CH0_ZQSTAT_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DERATEINT
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DERATEINT
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DERATEVAL0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DERATEVAL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DERATEVAL1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DERATEVAL1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFILPTMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFILPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFILPTMG1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFILPTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFIMSGTMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFIMSGTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG2
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG4
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG5
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFITMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFIUPDTMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFIUPDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DFIUPDTMG1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DFIUPDTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DQSOSCCTL0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DQSOSCCTL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG12
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG12
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG13
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG13
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG14
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG14
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG2
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG23
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG23
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG24
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG24
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG25
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG25
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG3
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG30
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG30
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG4
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG5
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG6
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG6
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG7
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG7
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG9
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_DRAMSET1TMG9
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_HWLPTMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_HWLPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_INITMR0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_INITMR0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_INITMR1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_INITMR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_INITMR2
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_INITMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_INITMR3
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_INITMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_PERFHPR1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_PERFHPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_PERFLPR1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_PERFLPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_PERFWR1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_PERFWR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_PWRTMG
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_PWRTMG
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_RFSHSET1TMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_RFSHSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_RFSHSET1TMG1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_RFSHSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_RFSHSET1TMG2
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_RFSHSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_RFSHSET1TMG3
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_RFSHSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_SCHEDTMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_SCHEDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_TMGCFG
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_TMGCFG
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_ZQSET1TMG0
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_ZQSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_COMPANION_MSK_ZQSET1TMG1
+  `undef REGB_FREQ0_CH0_COMPANION_MSK_ZQSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DERATEINT_ADDR
+  `undef REGB_FREQ0_CH0_DERATEINT_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DERATEVAL0_ADDR
+  `undef REGB_FREQ0_CH0_DERATEVAL0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DERATEVAL1_ADDR
+  `undef REGB_FREQ0_CH0_DERATEVAL1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFILPTMG0_ADDR
+  `undef REGB_FREQ0_CH0_DFILPTMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFILPTMG1_ADDR
+  `undef REGB_FREQ0_CH0_DFILPTMG1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFIMSGTMG0_ADDR
+  `undef REGB_FREQ0_CH0_DFIMSGTMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFITMG0_ADDR
+  `undef REGB_FREQ0_CH0_DFITMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFITMG1_ADDR
+  `undef REGB_FREQ0_CH0_DFITMG1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFITMG2_ADDR
+  `undef REGB_FREQ0_CH0_DFITMG2_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFITMG4_ADDR
+  `undef REGB_FREQ0_CH0_DFITMG4_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFITMG5_ADDR
+  `undef REGB_FREQ0_CH0_DFITMG5_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFIUPDTMG0_ADDR
+  `undef REGB_FREQ0_CH0_DFIUPDTMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFIUPDTMG1_ADDR
+  `undef REGB_FREQ0_CH0_DFIUPDTMG1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEINT
+  `undef REGB_FREQ0_CH0_DFLT_DERATEINT
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEINT_MR4_READ_INTERVAL
+  `undef REGB_FREQ0_CH0_DFLT_DERATEINT_MR4_READ_INTERVAL
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEVAL0
+  `undef REGB_FREQ0_CH0_DFLT_DERATEVAL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEVAL0_DERATED_T_RAS_MIN
+  `undef REGB_FREQ0_CH0_DFLT_DERATEVAL0_DERATED_T_RAS_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEVAL0_DERATED_T_RCD
+  `undef REGB_FREQ0_CH0_DFLT_DERATEVAL0_DERATED_T_RCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEVAL0_DERATED_T_RP
+  `undef REGB_FREQ0_CH0_DFLT_DERATEVAL0_DERATED_T_RP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEVAL0_DERATED_T_RRD
+  `undef REGB_FREQ0_CH0_DFLT_DERATEVAL0_DERATED_T_RRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEVAL1
+  `undef REGB_FREQ0_CH0_DFLT_DERATEVAL1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DERATEVAL1_DERATED_T_RC
+  `undef REGB_FREQ0_CH0_DFLT_DERATEVAL1_DERATED_T_RC
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFILPTMG0
+  `undef REGB_FREQ0_CH0_DFLT_DFILPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFILPTMG0_DFI_LP_WAKEUP_DSM
+  `undef REGB_FREQ0_CH0_DFLT_DFILPTMG0_DFI_LP_WAKEUP_DSM
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFILPTMG0_DFI_LP_WAKEUP_MPSM
+  `undef REGB_FREQ0_CH0_DFLT_DFILPTMG0_DFI_LP_WAKEUP_MPSM
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFILPTMG0_DFI_LP_WAKEUP_PD
+  `undef REGB_FREQ0_CH0_DFLT_DFILPTMG0_DFI_LP_WAKEUP_PD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFILPTMG0_DFI_LP_WAKEUP_SR
+  `undef REGB_FREQ0_CH0_DFLT_DFILPTMG0_DFI_LP_WAKEUP_SR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFILPTMG1
+  `undef REGB_FREQ0_CH0_DFLT_DFILPTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFILPTMG1_DFI_LP_WAKEUP_DATA
+  `undef REGB_FREQ0_CH0_DFLT_DFILPTMG1_DFI_LP_WAKEUP_DATA
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFILPTMG1_DFI_TLP_RESP
+  `undef REGB_FREQ0_CH0_DFLT_DFILPTMG1_DFI_TLP_RESP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFIMSGTMG0
+  `undef REGB_FREQ0_CH0_DFLT_DFIMSGTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFIMSGTMG0_DFI_T_CTRLMSG_RESP
+  `undef REGB_FREQ0_CH0_DFLT_DFIMSGTMG0_DFI_T_CTRLMSG_RESP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG0
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG0_DFI_TPHY_WRDATA
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG0_DFI_TPHY_WRDATA
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG0_DFI_TPHY_WRLAT
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG0_DFI_TPHY_WRLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG0_DFI_T_CTRL_DELAY
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG0_DFI_T_CTRL_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG0_DFI_T_RDDATA_EN
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG0_DFI_T_RDDATA_EN
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG1
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_CMD_LAT
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_CMD_LAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_DRAM_CLK_DISABLE
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_DRAM_CLK_ENABLE
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_DRAM_CLK_ENABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_PARIN_LAT
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_PARIN_LAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_WRDATA_DELAY
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG1_DFI_T_WRDATA_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG2
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG2_DFI_TPHY_RDCSLAT
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG2_DFI_TPHY_RDCSLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG2_DFI_TPHY_WRCSLAT
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG2_DFI_TPHY_WRCSLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG2_DFI_TWCK_DELAY
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG2_DFI_TWCK_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG4
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG4_DFI_TWCK_DIS
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG4_DFI_TWCK_DIS
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG4_DFI_TWCK_EN_FS
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG4_DFI_TWCK_EN_FS
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG4_DFI_TWCK_EN_RD
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG4_DFI_TWCK_EN_RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG4_DFI_TWCK_EN_WR
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG4_DFI_TWCK_EN_WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG5
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG5_DFI_TWCK_FAST_TOGGLE
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG5_DFI_TWCK_FAST_TOGGLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG5_DFI_TWCK_TOGGLE
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG5_DFI_TWCK_TOGGLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG5_DFI_TWCK_TOGGLE_CS
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG5_DFI_TWCK_TOGGLE_CS
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFITMG5_DFI_TWCK_TOGGLE_POST
+  `undef REGB_FREQ0_CH0_DFLT_DFITMG5_DFI_TWCK_TOGGLE_POST
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFIUPDTMG0
+  `undef REGB_FREQ0_CH0_DFLT_DFIUPDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFIUPDTMG0_DFI_T_CTRLUP_MAX
+  `undef REGB_FREQ0_CH0_DFLT_DFIUPDTMG0_DFI_T_CTRLUP_MAX
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFIUPDTMG0_DFI_T_CTRLUP_MIN
+  `undef REGB_FREQ0_CH0_DFLT_DFIUPDTMG0_DFI_T_CTRLUP_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFIUPDTMG1
+  `undef REGB_FREQ0_CH0_DFLT_DFIUPDTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MAX_X1024
+  `undef REGB_FREQ0_CH0_DFLT_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MAX_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MIN_X1024
+  `undef REGB_FREQ0_CH0_DFLT_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MIN_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DQSOSCCTL0
+  `undef REGB_FREQ0_CH0_DFLT_DQSOSCCTL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DQSOSCCTL0_DQSOSC_ENABLE
+  `undef REGB_FREQ0_CH0_DFLT_DQSOSCCTL0_DQSOSC_ENABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DQSOSCCTL0_DQSOSC_INTERVAL
+  `undef REGB_FREQ0_CH0_DFLT_DQSOSCCTL0_DQSOSC_INTERVAL
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DQSOSCCTL0_DQSOSC_INTERVAL_UNIT
+  `undef REGB_FREQ0_CH0_DFLT_DQSOSCCTL0_DQSOSC_INTERVAL_UNIT
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0_T_FAW
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0_T_FAW
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0_T_RAS_MAX
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0_T_RAS_MAX
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0_T_RAS_MIN
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0_T_RAS_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0_WR2PRE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG0_WR2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG1
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG12
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG12
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG12_T_CMDCKE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG12_T_CMDCKE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG12_T_MRD_PDA
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG12_T_MRD_PDA
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG12_T_WR_MPR
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG12_T_WR_MPR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13_ODTLOFF
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13_ODTLOFF
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13_T_CCD_MW
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13_T_CCD_MW
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13_T_CCD_W2
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13_T_CCD_W2
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13_T_PPD
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG13_T_PPD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG14
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG14
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG14_T_OSCO
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG14_T_OSCO
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG14_T_XSR
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG14_T_XSR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG1_RD2PRE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG1_RD2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG1_T_RC
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG1_T_RC
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG1_T_XP
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG1_T_XP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG23
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG23
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG23_T_PDN
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG23_T_PDN
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG23_T_XSR_DSM_X1024
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG23_T_XSR_DSM_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24_BANK_ORG
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24_BANK_ORG
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24_MAX_RD_SYNC
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24_MAX_RD_SYNC
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24_MAX_WR_SYNC
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24_MAX_WR_SYNC
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24_RD2WR_S
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG24_RD2WR_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG25
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG25
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG25_LPDDR4_DIFF_BANK_RWA2PRE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG25_LPDDR4_DIFF_BANK_RWA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG25_RDA2PRE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG25_RDA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG25_WRA2PRE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG25_WRA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2_RD2WR
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2_RD2WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2_READ_LATENCY
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2_READ_LATENCY
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2_WR2RD
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2_WR2RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2_WRITE_LATENCY
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG2_WRITE_LATENCY
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG3
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG30
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG30
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG30_MRR2MRW
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG30_MRR2MRW
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG30_MRR2RD
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG30_MRR2RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG30_MRR2WR
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG30_MRR2WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG3_RD2MR
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG3_RD2MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG3_T_MR
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG3_T_MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG3_WR2MR
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG3_WR2MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4_T_CCD
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4_T_CCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4_T_RCD
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4_T_RCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4_T_RP
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4_T_RP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4_T_RRD
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG4_T_RRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5_T_CKE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5_T_CKE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5_T_CKESR
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5_T_CKESR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5_T_CKSRE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5_T_CKSRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5_T_CKSRX
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG5_T_CKSRX
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG6
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG6
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG6_T_CKCSX
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG6_T_CKCSX
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG7
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG7
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG7_T_CSH
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG7_T_CSH
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9_DDR4_WR_PREAMBLE
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9_DDR4_WR_PREAMBLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9_T_CCD_S
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9_T_CCD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9_T_RRD_S
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9_T_RRD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9_WR2RD_S
+  `undef REGB_FREQ0_CH0_DFLT_DRAMSET1TMG9_WR2RD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_HWLPTMG0
+  `undef REGB_FREQ0_CH0_DFLT_HWLPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_HWLPTMG0_HW_LP_IDLE_X32
+  `undef REGB_FREQ0_CH0_DFLT_HWLPTMG0_HW_LP_IDLE_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR0
+  `undef REGB_FREQ0_CH0_DFLT_INITMR0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR0_EMR
+  `undef REGB_FREQ0_CH0_DFLT_INITMR0_EMR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR0_MR
+  `undef REGB_FREQ0_CH0_DFLT_INITMR0_MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR1
+  `undef REGB_FREQ0_CH0_DFLT_INITMR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR1_EMR2
+  `undef REGB_FREQ0_CH0_DFLT_INITMR1_EMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR1_EMR3
+  `undef REGB_FREQ0_CH0_DFLT_INITMR1_EMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR2
+  `undef REGB_FREQ0_CH0_DFLT_INITMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR2_MR4
+  `undef REGB_FREQ0_CH0_DFLT_INITMR2_MR4
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR2_MR5
+  `undef REGB_FREQ0_CH0_DFLT_INITMR2_MR5
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR3
+  `undef REGB_FREQ0_CH0_DFLT_INITMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR3_MR22
+  `undef REGB_FREQ0_CH0_DFLT_INITMR3_MR22
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_INITMR3_MR6
+  `undef REGB_FREQ0_CH0_DFLT_INITMR3_MR6
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFHPR1
+  `undef REGB_FREQ0_CH0_DFLT_PERFHPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFHPR1_HPR_MAX_STARVE
+  `undef REGB_FREQ0_CH0_DFLT_PERFHPR1_HPR_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFHPR1_HPR_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_DFLT_PERFHPR1_HPR_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFLPR1
+  `undef REGB_FREQ0_CH0_DFLT_PERFLPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFLPR1_LPR_MAX_STARVE
+  `undef REGB_FREQ0_CH0_DFLT_PERFLPR1_LPR_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFLPR1_LPR_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_DFLT_PERFLPR1_LPR_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFWR1
+  `undef REGB_FREQ0_CH0_DFLT_PERFWR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFWR1_W_MAX_STARVE
+  `undef REGB_FREQ0_CH0_DFLT_PERFWR1_W_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PERFWR1_W_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_DFLT_PERFWR1_W_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PWRTMG
+  `undef REGB_FREQ0_CH0_DFLT_PWRTMG
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PWRTMG_POWERDOWN_TO_X32
+  `undef REGB_FREQ0_CH0_DFLT_PWRTMG_POWERDOWN_TO_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_PWRTMG_SELFREF_TO_X32
+  `undef REGB_FREQ0_CH0_DFLT_PWRTMG_SELFREF_TO_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0_REFRESH_MARGIN
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0_REFRESH_MARGIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0_REFRESH_TO_X1_X32
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0_REFRESH_TO_X1_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0_T_REFI_X1_SEL
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0_T_REFI_X1_SEL
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0_T_REFI_X1_X32
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG0_T_REFI_X1_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG1
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG1_T_RFC_MIN
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG1_T_RFC_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG1_T_RFC_MIN_AB
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG1_T_RFC_MIN_AB
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG2
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG2_T_PBR2ACT
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG2_T_PBR2ACT
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG2_T_PBR2PBR
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG2_T_PBR2PBR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG2_T_RFC_MIN_DLR
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG2_T_RFC_MIN_DLR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG3
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG3_REFRESH_TO_AB_X32
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG3_REFRESH_TO_AB_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG3_T_REFSBRD
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG3_T_REFSBRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG3_T_RFCSB
+  `undef REGB_FREQ0_CH0_DFLT_RFSHSET1TMG3_T_RFCSB
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_SCHEDTMG0
+  `undef REGB_FREQ0_CH0_DFLT_SCHEDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_SCHEDTMG0_PAGECLOSE_TIMER
+  `undef REGB_FREQ0_CH0_DFLT_SCHEDTMG0_PAGECLOSE_TIMER
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_SCHEDTMG0_RDWR_IDLE_GAP
+  `undef REGB_FREQ0_CH0_DFLT_SCHEDTMG0_RDWR_IDLE_GAP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_TMGCFG
+  `undef REGB_FREQ0_CH0_DFLT_TMGCFG
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_TMGCFG_FREQUENCY_RATIO
+  `undef REGB_FREQ0_CH0_DFLT_TMGCFG_FREQUENCY_RATIO
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_ZQSET1TMG0
+  `undef REGB_FREQ0_CH0_DFLT_ZQSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_ZQSET1TMG0_T_ZQ_LONG_NOP
+  `undef REGB_FREQ0_CH0_DFLT_ZQSET1TMG0_T_ZQ_LONG_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_ZQSET1TMG0_T_ZQ_SHORT_NOP
+  `undef REGB_FREQ0_CH0_DFLT_ZQSET1TMG0_T_ZQ_SHORT_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_ZQSET1TMG1
+  `undef REGB_FREQ0_CH0_DFLT_ZQSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_ZQSET1TMG1_T_ZQ_RESET_NOP
+  `undef REGB_FREQ0_CH0_DFLT_ZQSET1TMG1_T_ZQ_RESET_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_DFLT_ZQSET1TMG1_T_ZQ_SHORT_INTERVAL_X1024
+  `undef REGB_FREQ0_CH0_DFLT_ZQSET1TMG1_T_ZQ_SHORT_INTERVAL_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_DQSOSCCTL0_ADDR
+  `undef REGB_FREQ0_CH0_DQSOSCCTL0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG0_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG12_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG12_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG13_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG13_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG14_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG14_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG1_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG23_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG23_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG24_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG24_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG25_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG25_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG2_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG2_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG30_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG30_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG3_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG3_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG4_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG4_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG5_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG5_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG6_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG6_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG7_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG7_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_DRAMSET1TMG9_ADDR
+  `undef REGB_FREQ0_CH0_DRAMSET1TMG9_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_HWLPTMG0_ADDR
+  `undef REGB_FREQ0_CH0_HWLPTMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_INITMR0_ADDR
+  `undef REGB_FREQ0_CH0_INITMR0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_INITMR1_ADDR
+  `undef REGB_FREQ0_CH0_INITMR1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_INITMR2_ADDR
+  `undef REGB_FREQ0_CH0_INITMR2_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_INITMR3_ADDR
+  `undef REGB_FREQ0_CH0_INITMR3_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEINT
+  `undef REGB_FREQ0_CH0_MSK_DERATEINT
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEINT_MR4_READ_INTERVAL
+  `undef REGB_FREQ0_CH0_MSK_DERATEINT_MR4_READ_INTERVAL
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEVAL0
+  `undef REGB_FREQ0_CH0_MSK_DERATEVAL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEVAL0_DERATED_T_RAS_MIN
+  `undef REGB_FREQ0_CH0_MSK_DERATEVAL0_DERATED_T_RAS_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEVAL0_DERATED_T_RCD
+  `undef REGB_FREQ0_CH0_MSK_DERATEVAL0_DERATED_T_RCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEVAL0_DERATED_T_RP
+  `undef REGB_FREQ0_CH0_MSK_DERATEVAL0_DERATED_T_RP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEVAL0_DERATED_T_RRD
+  `undef REGB_FREQ0_CH0_MSK_DERATEVAL0_DERATED_T_RRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEVAL1
+  `undef REGB_FREQ0_CH0_MSK_DERATEVAL1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DERATEVAL1_DERATED_T_RC
+  `undef REGB_FREQ0_CH0_MSK_DERATEVAL1_DERATED_T_RC
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFILPTMG0
+  `undef REGB_FREQ0_CH0_MSK_DFILPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFILPTMG0_DFI_LP_WAKEUP_DSM
+  `undef REGB_FREQ0_CH0_MSK_DFILPTMG0_DFI_LP_WAKEUP_DSM
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFILPTMG0_DFI_LP_WAKEUP_MPSM
+  `undef REGB_FREQ0_CH0_MSK_DFILPTMG0_DFI_LP_WAKEUP_MPSM
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFILPTMG0_DFI_LP_WAKEUP_PD
+  `undef REGB_FREQ0_CH0_MSK_DFILPTMG0_DFI_LP_WAKEUP_PD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFILPTMG0_DFI_LP_WAKEUP_SR
+  `undef REGB_FREQ0_CH0_MSK_DFILPTMG0_DFI_LP_WAKEUP_SR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFILPTMG1
+  `undef REGB_FREQ0_CH0_MSK_DFILPTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFILPTMG1_DFI_LP_WAKEUP_DATA
+  `undef REGB_FREQ0_CH0_MSK_DFILPTMG1_DFI_LP_WAKEUP_DATA
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFILPTMG1_DFI_TLP_RESP
+  `undef REGB_FREQ0_CH0_MSK_DFILPTMG1_DFI_TLP_RESP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFIMSGTMG0
+  `undef REGB_FREQ0_CH0_MSK_DFIMSGTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFIMSGTMG0_DFI_T_CTRLMSG_RESP
+  `undef REGB_FREQ0_CH0_MSK_DFIMSGTMG0_DFI_T_CTRLMSG_RESP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG0
+  `undef REGB_FREQ0_CH0_MSK_DFITMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG0_DFI_TPHY_WRDATA
+  `undef REGB_FREQ0_CH0_MSK_DFITMG0_DFI_TPHY_WRDATA
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG0_DFI_TPHY_WRLAT
+  `undef REGB_FREQ0_CH0_MSK_DFITMG0_DFI_TPHY_WRLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG0_DFI_T_CTRL_DELAY
+  `undef REGB_FREQ0_CH0_MSK_DFITMG0_DFI_T_CTRL_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG0_DFI_T_RDDATA_EN
+  `undef REGB_FREQ0_CH0_MSK_DFITMG0_DFI_T_RDDATA_EN
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG1
+  `undef REGB_FREQ0_CH0_MSK_DFITMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_CMD_LAT
+  `undef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_CMD_LAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_DRAM_CLK_DISABLE
+  `undef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_DRAM_CLK_ENABLE
+  `undef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_DRAM_CLK_ENABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_PARIN_LAT
+  `undef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_PARIN_LAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_WRDATA_DELAY
+  `undef REGB_FREQ0_CH0_MSK_DFITMG1_DFI_T_WRDATA_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG2
+  `undef REGB_FREQ0_CH0_MSK_DFITMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG2_DFI_TPHY_RDCSLAT
+  `undef REGB_FREQ0_CH0_MSK_DFITMG2_DFI_TPHY_RDCSLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG2_DFI_TPHY_WRCSLAT
+  `undef REGB_FREQ0_CH0_MSK_DFITMG2_DFI_TPHY_WRCSLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG2_DFI_TWCK_DELAY
+  `undef REGB_FREQ0_CH0_MSK_DFITMG2_DFI_TWCK_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG4
+  `undef REGB_FREQ0_CH0_MSK_DFITMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG4_DFI_TWCK_DIS
+  `undef REGB_FREQ0_CH0_MSK_DFITMG4_DFI_TWCK_DIS
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG4_DFI_TWCK_EN_FS
+  `undef REGB_FREQ0_CH0_MSK_DFITMG4_DFI_TWCK_EN_FS
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG4_DFI_TWCK_EN_RD
+  `undef REGB_FREQ0_CH0_MSK_DFITMG4_DFI_TWCK_EN_RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG4_DFI_TWCK_EN_WR
+  `undef REGB_FREQ0_CH0_MSK_DFITMG4_DFI_TWCK_EN_WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG5
+  `undef REGB_FREQ0_CH0_MSK_DFITMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG5_DFI_TWCK_FAST_TOGGLE
+  `undef REGB_FREQ0_CH0_MSK_DFITMG5_DFI_TWCK_FAST_TOGGLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG5_DFI_TWCK_TOGGLE
+  `undef REGB_FREQ0_CH0_MSK_DFITMG5_DFI_TWCK_TOGGLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG5_DFI_TWCK_TOGGLE_CS
+  `undef REGB_FREQ0_CH0_MSK_DFITMG5_DFI_TWCK_TOGGLE_CS
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFITMG5_DFI_TWCK_TOGGLE_POST
+  `undef REGB_FREQ0_CH0_MSK_DFITMG5_DFI_TWCK_TOGGLE_POST
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFIUPDTMG0
+  `undef REGB_FREQ0_CH0_MSK_DFIUPDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFIUPDTMG0_DFI_T_CTRLUP_MAX
+  `undef REGB_FREQ0_CH0_MSK_DFIUPDTMG0_DFI_T_CTRLUP_MAX
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFIUPDTMG0_DFI_T_CTRLUP_MIN
+  `undef REGB_FREQ0_CH0_MSK_DFIUPDTMG0_DFI_T_CTRLUP_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFIUPDTMG1
+  `undef REGB_FREQ0_CH0_MSK_DFIUPDTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MAX_X1024
+  `undef REGB_FREQ0_CH0_MSK_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MAX_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MIN_X1024
+  `undef REGB_FREQ0_CH0_MSK_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MIN_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DQSOSCCTL0
+  `undef REGB_FREQ0_CH0_MSK_DQSOSCCTL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DQSOSCCTL0_DQSOSC_ENABLE
+  `undef REGB_FREQ0_CH0_MSK_DQSOSCCTL0_DQSOSC_ENABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DQSOSCCTL0_DQSOSC_INTERVAL
+  `undef REGB_FREQ0_CH0_MSK_DQSOSCCTL0_DQSOSC_INTERVAL
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DQSOSCCTL0_DQSOSC_INTERVAL_UNIT
+  `undef REGB_FREQ0_CH0_MSK_DQSOSCCTL0_DQSOSC_INTERVAL_UNIT
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0_T_FAW
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0_T_FAW
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0_T_RAS_MAX
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0_T_RAS_MAX
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0_T_RAS_MIN
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0_T_RAS_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0_WR2PRE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG0_WR2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG1
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG12
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG12
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG12_T_CMDCKE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG12_T_CMDCKE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG12_T_MRD_PDA
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG12_T_MRD_PDA
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG12_T_WR_MPR
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG12_T_WR_MPR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13_ODTLOFF
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13_ODTLOFF
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13_T_CCD_MW
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13_T_CCD_MW
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13_T_CCD_W2
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13_T_CCD_W2
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13_T_PPD
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG13_T_PPD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG14
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG14
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG14_T_OSCO
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG14_T_OSCO
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG14_T_XSR
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG14_T_XSR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG1_RD2PRE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG1_RD2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG1_T_RC
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG1_T_RC
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG1_T_XP
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG1_T_XP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG23
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG23
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG23_T_PDN
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG23_T_PDN
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG23_T_XSR_DSM_X1024
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG23_T_XSR_DSM_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24_BANK_ORG
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24_BANK_ORG
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24_MAX_RD_SYNC
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24_MAX_RD_SYNC
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24_MAX_WR_SYNC
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24_MAX_WR_SYNC
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24_RD2WR_S
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG24_RD2WR_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG25
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG25
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG25_LPDDR4_DIFF_BANK_RWA2PRE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG25_LPDDR4_DIFF_BANK_RWA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG25_RDA2PRE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG25_RDA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG25_WRA2PRE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG25_WRA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2_RD2WR
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2_RD2WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2_READ_LATENCY
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2_READ_LATENCY
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2_WR2RD
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2_WR2RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2_WRITE_LATENCY
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG2_WRITE_LATENCY
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG3
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG30
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG30
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG30_MRR2MRW
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG30_MRR2MRW
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG30_MRR2RD
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG30_MRR2RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG30_MRR2WR
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG30_MRR2WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG3_RD2MR
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG3_RD2MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG3_T_MR
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG3_T_MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG3_WR2MR
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG3_WR2MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4_T_CCD
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4_T_CCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4_T_RCD
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4_T_RCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4_T_RP
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4_T_RP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4_T_RRD
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG4_T_RRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5_T_CKE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5_T_CKE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5_T_CKESR
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5_T_CKESR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5_T_CKSRE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5_T_CKSRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5_T_CKSRX
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG5_T_CKSRX
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG6
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG6
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG6_T_CKCSX
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG6_T_CKCSX
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG7
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG7
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG7_T_CSH
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG7_T_CSH
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9_DDR4_WR_PREAMBLE
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9_DDR4_WR_PREAMBLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9_T_CCD_S
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9_T_CCD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9_T_RRD_S
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9_T_RRD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9_WR2RD_S
+  `undef REGB_FREQ0_CH0_MSK_DRAMSET1TMG9_WR2RD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_HWLPTMG0
+  `undef REGB_FREQ0_CH0_MSK_HWLPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_HWLPTMG0_HW_LP_IDLE_X32
+  `undef REGB_FREQ0_CH0_MSK_HWLPTMG0_HW_LP_IDLE_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR0
+  `undef REGB_FREQ0_CH0_MSK_INITMR0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR0_EMR
+  `undef REGB_FREQ0_CH0_MSK_INITMR0_EMR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR0_MR
+  `undef REGB_FREQ0_CH0_MSK_INITMR0_MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR1
+  `undef REGB_FREQ0_CH0_MSK_INITMR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR1_EMR2
+  `undef REGB_FREQ0_CH0_MSK_INITMR1_EMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR1_EMR3
+  `undef REGB_FREQ0_CH0_MSK_INITMR1_EMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR2
+  `undef REGB_FREQ0_CH0_MSK_INITMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR2_MR4
+  `undef REGB_FREQ0_CH0_MSK_INITMR2_MR4
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR2_MR5
+  `undef REGB_FREQ0_CH0_MSK_INITMR2_MR5
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR3
+  `undef REGB_FREQ0_CH0_MSK_INITMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR3_MR22
+  `undef REGB_FREQ0_CH0_MSK_INITMR3_MR22
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_INITMR3_MR6
+  `undef REGB_FREQ0_CH0_MSK_INITMR3_MR6
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFHPR1
+  `undef REGB_FREQ0_CH0_MSK_PERFHPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFHPR1_HPR_MAX_STARVE
+  `undef REGB_FREQ0_CH0_MSK_PERFHPR1_HPR_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFHPR1_HPR_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_MSK_PERFHPR1_HPR_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFLPR1
+  `undef REGB_FREQ0_CH0_MSK_PERFLPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFLPR1_LPR_MAX_STARVE
+  `undef REGB_FREQ0_CH0_MSK_PERFLPR1_LPR_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFLPR1_LPR_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_MSK_PERFLPR1_LPR_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFWR1
+  `undef REGB_FREQ0_CH0_MSK_PERFWR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFWR1_W_MAX_STARVE
+  `undef REGB_FREQ0_CH0_MSK_PERFWR1_W_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PERFWR1_W_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_MSK_PERFWR1_W_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PWRTMG
+  `undef REGB_FREQ0_CH0_MSK_PWRTMG
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PWRTMG_POWERDOWN_TO_X32
+  `undef REGB_FREQ0_CH0_MSK_PWRTMG_POWERDOWN_TO_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_PWRTMG_SELFREF_TO_X32
+  `undef REGB_FREQ0_CH0_MSK_PWRTMG_SELFREF_TO_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0_REFRESH_MARGIN
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0_REFRESH_MARGIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0_REFRESH_TO_X1_X32
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0_REFRESH_TO_X1_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0_T_REFI_X1_SEL
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0_T_REFI_X1_SEL
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0_T_REFI_X1_X32
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG0_T_REFI_X1_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG1
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG1_T_RFC_MIN
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG1_T_RFC_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG1_T_RFC_MIN_AB
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG1_T_RFC_MIN_AB
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG2
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG2_T_PBR2ACT
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG2_T_PBR2ACT
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG2_T_PBR2PBR
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG2_T_PBR2PBR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG2_T_RFC_MIN_DLR
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG2_T_RFC_MIN_DLR
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG3
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG3_REFRESH_TO_AB_X32
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG3_REFRESH_TO_AB_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG3_T_REFSBRD
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG3_T_REFSBRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_RFSHSET1TMG3_T_RFCSB
+  `undef REGB_FREQ0_CH0_MSK_RFSHSET1TMG3_T_RFCSB
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_SCHEDTMG0
+  `undef REGB_FREQ0_CH0_MSK_SCHEDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_SCHEDTMG0_PAGECLOSE_TIMER
+  `undef REGB_FREQ0_CH0_MSK_SCHEDTMG0_PAGECLOSE_TIMER
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_SCHEDTMG0_RDWR_IDLE_GAP
+  `undef REGB_FREQ0_CH0_MSK_SCHEDTMG0_RDWR_IDLE_GAP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_TMGCFG
+  `undef REGB_FREQ0_CH0_MSK_TMGCFG
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_TMGCFG_FREQUENCY_RATIO
+  `undef REGB_FREQ0_CH0_MSK_TMGCFG_FREQUENCY_RATIO
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_ZQSET1TMG0
+  `undef REGB_FREQ0_CH0_MSK_ZQSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_ZQSET1TMG0_T_ZQ_LONG_NOP
+  `undef REGB_FREQ0_CH0_MSK_ZQSET1TMG0_T_ZQ_LONG_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_ZQSET1TMG0_T_ZQ_SHORT_NOP
+  `undef REGB_FREQ0_CH0_MSK_ZQSET1TMG0_T_ZQ_SHORT_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_ZQSET1TMG1
+  `undef REGB_FREQ0_CH0_MSK_ZQSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_ZQSET1TMG1_T_ZQ_RESET_NOP
+  `undef REGB_FREQ0_CH0_MSK_ZQSET1TMG1_T_ZQ_RESET_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_MSK_ZQSET1TMG1_T_ZQ_SHORT_INTERVAL_X1024
+  `undef REGB_FREQ0_CH0_MSK_ZQSET1TMG1_T_ZQ_SHORT_INTERVAL_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DERATEINT_MR4_READ_INTERVAL
+  `undef REGB_FREQ0_CH0_OFFSET_DERATEINT_MR4_READ_INTERVAL
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DERATEVAL0_DERATED_T_RAS_MIN
+  `undef REGB_FREQ0_CH0_OFFSET_DERATEVAL0_DERATED_T_RAS_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DERATEVAL0_DERATED_T_RCD
+  `undef REGB_FREQ0_CH0_OFFSET_DERATEVAL0_DERATED_T_RCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DERATEVAL0_DERATED_T_RP
+  `undef REGB_FREQ0_CH0_OFFSET_DERATEVAL0_DERATED_T_RP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DERATEVAL0_DERATED_T_RRD
+  `undef REGB_FREQ0_CH0_OFFSET_DERATEVAL0_DERATED_T_RRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DERATEVAL1_DERATED_T_RC
+  `undef REGB_FREQ0_CH0_OFFSET_DERATEVAL1_DERATED_T_RC
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFILPTMG0_DFI_LP_WAKEUP_DSM
+  `undef REGB_FREQ0_CH0_OFFSET_DFILPTMG0_DFI_LP_WAKEUP_DSM
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFILPTMG0_DFI_LP_WAKEUP_MPSM
+  `undef REGB_FREQ0_CH0_OFFSET_DFILPTMG0_DFI_LP_WAKEUP_MPSM
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFILPTMG0_DFI_LP_WAKEUP_PD
+  `undef REGB_FREQ0_CH0_OFFSET_DFILPTMG0_DFI_LP_WAKEUP_PD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFILPTMG0_DFI_LP_WAKEUP_SR
+  `undef REGB_FREQ0_CH0_OFFSET_DFILPTMG0_DFI_LP_WAKEUP_SR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFILPTMG1_DFI_LP_WAKEUP_DATA
+  `undef REGB_FREQ0_CH0_OFFSET_DFILPTMG1_DFI_LP_WAKEUP_DATA
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFILPTMG1_DFI_TLP_RESP
+  `undef REGB_FREQ0_CH0_OFFSET_DFILPTMG1_DFI_TLP_RESP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFIMSGTMG0_DFI_T_CTRLMSG_RESP
+  `undef REGB_FREQ0_CH0_OFFSET_DFIMSGTMG0_DFI_T_CTRLMSG_RESP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG0_DFI_TPHY_WRDATA
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG0_DFI_TPHY_WRDATA
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG0_DFI_TPHY_WRLAT
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG0_DFI_TPHY_WRLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG0_DFI_T_CTRL_DELAY
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG0_DFI_T_CTRL_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG0_DFI_T_RDDATA_EN
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG0_DFI_T_RDDATA_EN
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_CMD_LAT
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_CMD_LAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_DRAM_CLK_DISABLE
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_DRAM_CLK_ENABLE
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_DRAM_CLK_ENABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_PARIN_LAT
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_PARIN_LAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_WRDATA_DELAY
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG1_DFI_T_WRDATA_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG2_DFI_TPHY_RDCSLAT
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG2_DFI_TPHY_RDCSLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG2_DFI_TPHY_WRCSLAT
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG2_DFI_TPHY_WRCSLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG2_DFI_TWCK_DELAY
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG2_DFI_TWCK_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG4_DFI_TWCK_DIS
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG4_DFI_TWCK_DIS
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG4_DFI_TWCK_EN_FS
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG4_DFI_TWCK_EN_FS
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG4_DFI_TWCK_EN_RD
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG4_DFI_TWCK_EN_RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG4_DFI_TWCK_EN_WR
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG4_DFI_TWCK_EN_WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG5_DFI_TWCK_FAST_TOGGLE
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG5_DFI_TWCK_FAST_TOGGLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG5_DFI_TWCK_TOGGLE
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG5_DFI_TWCK_TOGGLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG5_DFI_TWCK_TOGGLE_CS
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG5_DFI_TWCK_TOGGLE_CS
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFITMG5_DFI_TWCK_TOGGLE_POST
+  `undef REGB_FREQ0_CH0_OFFSET_DFITMG5_DFI_TWCK_TOGGLE_POST
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFIUPDTMG0_DFI_T_CTRLUP_MAX
+  `undef REGB_FREQ0_CH0_OFFSET_DFIUPDTMG0_DFI_T_CTRLUP_MAX
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFIUPDTMG0_DFI_T_CTRLUP_MIN
+  `undef REGB_FREQ0_CH0_OFFSET_DFIUPDTMG0_DFI_T_CTRLUP_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MAX_X1024
+  `undef REGB_FREQ0_CH0_OFFSET_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MAX_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MIN_X1024
+  `undef REGB_FREQ0_CH0_OFFSET_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MIN_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DQSOSCCTL0_DQSOSC_ENABLE
+  `undef REGB_FREQ0_CH0_OFFSET_DQSOSCCTL0_DQSOSC_ENABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DQSOSCCTL0_DQSOSC_INTERVAL
+  `undef REGB_FREQ0_CH0_OFFSET_DQSOSCCTL0_DQSOSC_INTERVAL
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DQSOSCCTL0_DQSOSC_INTERVAL_UNIT
+  `undef REGB_FREQ0_CH0_OFFSET_DQSOSCCTL0_DQSOSC_INTERVAL_UNIT
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG0_T_FAW
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG0_T_FAW
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG0_T_RAS_MAX
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG0_T_RAS_MAX
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG0_T_RAS_MIN
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG0_T_RAS_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG0_WR2PRE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG0_WR2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG12_T_CMDCKE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG12_T_CMDCKE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG12_T_MRD_PDA
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG12_T_MRD_PDA
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG12_T_WR_MPR
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG12_T_WR_MPR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG13_ODTLOFF
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG13_ODTLOFF
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG13_T_CCD_MW
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG13_T_CCD_MW
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG13_T_CCD_W2
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG13_T_CCD_W2
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG13_T_PPD
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG13_T_PPD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG14_T_OSCO
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG14_T_OSCO
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG14_T_XSR
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG14_T_XSR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG1_RD2PRE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG1_RD2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG1_T_RC
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG1_T_RC
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG1_T_XP
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG1_T_XP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG23_T_PDN
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG23_T_PDN
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG23_T_XSR_DSM_X1024
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG23_T_XSR_DSM_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG24_BANK_ORG
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG24_BANK_ORG
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG24_MAX_RD_SYNC
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG24_MAX_RD_SYNC
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG24_MAX_WR_SYNC
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG24_MAX_WR_SYNC
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG24_RD2WR_S
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG24_RD2WR_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG25_LPDDR4_DIFF_BANK_RWA2PRE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG25_LPDDR4_DIFF_BANK_RWA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG25_RDA2PRE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG25_RDA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG25_WRA2PRE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG25_WRA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG2_RD2WR
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG2_RD2WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG2_READ_LATENCY
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG2_READ_LATENCY
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG2_WR2RD
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG2_WR2RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG2_WRITE_LATENCY
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG2_WRITE_LATENCY
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG30_MRR2MRW
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG30_MRR2MRW
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG30_MRR2RD
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG30_MRR2RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG30_MRR2WR
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG30_MRR2WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG3_RD2MR
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG3_RD2MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG3_T_MR
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG3_T_MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG3_WR2MR
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG3_WR2MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG4_T_CCD
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG4_T_CCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG4_T_RCD
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG4_T_RCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG4_T_RP
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG4_T_RP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG4_T_RRD
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG4_T_RRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG5_T_CKE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG5_T_CKE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG5_T_CKESR
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG5_T_CKESR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG5_T_CKSRE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG5_T_CKSRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG5_T_CKSRX
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG5_T_CKSRX
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG6_T_CKCSX
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG6_T_CKCSX
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG7_T_CSH
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG7_T_CSH
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG9_DDR4_WR_PREAMBLE
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG9_DDR4_WR_PREAMBLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG9_T_CCD_S
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG9_T_CCD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG9_T_RRD_S
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG9_T_RRD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG9_WR2RD_S
+  `undef REGB_FREQ0_CH0_OFFSET_DRAMSET1TMG9_WR2RD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_HWLPTMG0_HW_LP_IDLE_X32
+  `undef REGB_FREQ0_CH0_OFFSET_HWLPTMG0_HW_LP_IDLE_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_INITMR0_EMR
+  `undef REGB_FREQ0_CH0_OFFSET_INITMR0_EMR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_INITMR0_MR
+  `undef REGB_FREQ0_CH0_OFFSET_INITMR0_MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_INITMR1_EMR2
+  `undef REGB_FREQ0_CH0_OFFSET_INITMR1_EMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_INITMR1_EMR3
+  `undef REGB_FREQ0_CH0_OFFSET_INITMR1_EMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_INITMR2_MR4
+  `undef REGB_FREQ0_CH0_OFFSET_INITMR2_MR4
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_INITMR2_MR5
+  `undef REGB_FREQ0_CH0_OFFSET_INITMR2_MR5
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_INITMR3_MR22
+  `undef REGB_FREQ0_CH0_OFFSET_INITMR3_MR22
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_INITMR3_MR6
+  `undef REGB_FREQ0_CH0_OFFSET_INITMR3_MR6
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_PERFHPR1_HPR_MAX_STARVE
+  `undef REGB_FREQ0_CH0_OFFSET_PERFHPR1_HPR_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_PERFHPR1_HPR_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_OFFSET_PERFHPR1_HPR_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_PERFLPR1_LPR_MAX_STARVE
+  `undef REGB_FREQ0_CH0_OFFSET_PERFLPR1_LPR_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_PERFLPR1_LPR_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_OFFSET_PERFLPR1_LPR_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_PERFWR1_W_MAX_STARVE
+  `undef REGB_FREQ0_CH0_OFFSET_PERFWR1_W_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_PERFWR1_W_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_OFFSET_PERFWR1_W_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_PWRTMG_POWERDOWN_TO_X32
+  `undef REGB_FREQ0_CH0_OFFSET_PWRTMG_POWERDOWN_TO_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_PWRTMG_SELFREF_TO_X32
+  `undef REGB_FREQ0_CH0_OFFSET_PWRTMG_SELFREF_TO_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG0_REFRESH_MARGIN
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG0_REFRESH_MARGIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG0_REFRESH_TO_X1_X32
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG0_REFRESH_TO_X1_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG0_T_REFI_X1_SEL
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG0_T_REFI_X1_SEL
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG0_T_REFI_X1_X32
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG0_T_REFI_X1_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG1_T_RFC_MIN
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG1_T_RFC_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG1_T_RFC_MIN_AB
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG1_T_RFC_MIN_AB
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG2_T_PBR2ACT
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG2_T_PBR2ACT
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG2_T_PBR2PBR
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG2_T_PBR2PBR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG2_T_RFC_MIN_DLR
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG2_T_RFC_MIN_DLR
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG3_REFRESH_TO_AB_X32
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG3_REFRESH_TO_AB_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG3_T_REFSBRD
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG3_T_REFSBRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG3_T_RFCSB
+  `undef REGB_FREQ0_CH0_OFFSET_RFSHSET1TMG3_T_RFCSB
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_SCHEDTMG0_PAGECLOSE_TIMER
+  `undef REGB_FREQ0_CH0_OFFSET_SCHEDTMG0_PAGECLOSE_TIMER
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_SCHEDTMG0_RDWR_IDLE_GAP
+  `undef REGB_FREQ0_CH0_OFFSET_SCHEDTMG0_RDWR_IDLE_GAP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_TMGCFG_FREQUENCY_RATIO
+  `undef REGB_FREQ0_CH0_OFFSET_TMGCFG_FREQUENCY_RATIO
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_ZQSET1TMG0_T_ZQ_LONG_NOP
+  `undef REGB_FREQ0_CH0_OFFSET_ZQSET1TMG0_T_ZQ_LONG_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_ZQSET1TMG0_T_ZQ_SHORT_NOP
+  `undef REGB_FREQ0_CH0_OFFSET_ZQSET1TMG0_T_ZQ_SHORT_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_ZQSET1TMG1_T_ZQ_RESET_NOP
+  `undef REGB_FREQ0_CH0_OFFSET_ZQSET1TMG1_T_ZQ_RESET_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_OFFSET_ZQSET1TMG1_T_ZQ_SHORT_INTERVAL_X1024
+  `undef REGB_FREQ0_CH0_OFFSET_ZQSET1TMG1_T_ZQ_SHORT_INTERVAL_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DERATEINT
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DERATEINT
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DERATEVAL0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DERATEVAL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DERATEVAL1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DERATEVAL1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFILPTMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFILPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFILPTMG1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFILPTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFIMSGTMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFIMSGTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG2
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG4
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG5
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFITMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFIUPDTMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFIUPDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DFIUPDTMG1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DFIUPDTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DQSOSCCTL0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DQSOSCCTL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG12
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG12
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG13
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG13
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG14
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG14
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG2
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG23
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG23
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG24
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG24
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG25
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG25
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG3
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG30
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG30
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG4
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG5
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG6
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG6
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG7
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG7
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG9
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_DRAMSET1TMG9
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_HWLPTMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_HWLPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_INITMR0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_INITMR0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_INITMR1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_INITMR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_INITMR2
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_INITMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_INITMR3
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_INITMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_PERFHPR1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_PERFHPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_PERFLPR1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_PERFLPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_PERFWR1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_PERFWR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_PWRTMG
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_PWRTMG
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_RFSHSET1TMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_RFSHSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_RFSHSET1TMG1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_RFSHSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_RFSHSET1TMG2
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_RFSHSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_RFSHSET1TMG3
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_RFSHSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_SCHEDTMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_SCHEDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_TMGCFG
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_TMGCFG
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_ZQSET1TMG0
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_ZQSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONEBITRO_MSK_ZQSET1TMG1
+  `undef REGB_FREQ0_CH0_ONEBITRO_MSK_ZQSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DERATEINT
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DERATEINT
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DERATEVAL0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DERATEVAL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DERATEVAL1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DERATEVAL1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFILPTMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFILPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFILPTMG1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFILPTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFIMSGTMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFIMSGTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG2
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG4
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG5
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFITMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFIUPDTMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFIUPDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DFIUPDTMG1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DFIUPDTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DQSOSCCTL0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DQSOSCCTL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG12
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG12
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG13
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG13
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG14
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG14
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG2
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG23
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG23
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG24
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG24
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG25
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG25
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG3
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG30
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG30
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG4
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG5
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG6
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG6
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG7
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG7
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG9
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_DRAMSET1TMG9
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_HWLPTMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_HWLPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_INITMR0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_INITMR0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_INITMR1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_INITMR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_INITMR2
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_INITMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_INITMR3
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_INITMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_PERFHPR1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_PERFHPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_PERFLPR1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_PERFLPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_PERFWR1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_PERFWR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_PWRTMG
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_PWRTMG
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_RFSHSET1TMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_RFSHSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_RFSHSET1TMG1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_RFSHSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_RFSHSET1TMG2
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_RFSHSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_RFSHSET1TMG3
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_RFSHSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_SCHEDTMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_SCHEDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_TMGCFG
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_TMGCFG
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_ZQSET1TMG0
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_ZQSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOCLR_MSK_ZQSET1TMG1
+  `undef REGB_FREQ0_CH0_ONETOCLR_MSK_ZQSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DERATEINT
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DERATEINT
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DERATEVAL0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DERATEVAL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DERATEVAL1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DERATEVAL1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFILPTMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFILPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFILPTMG1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFILPTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFIMSGTMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFIMSGTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG2
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG4
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG5
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFITMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFIUPDTMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFIUPDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DFIUPDTMG1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DFIUPDTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DQSOSCCTL0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DQSOSCCTL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG12
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG12
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG13
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG13
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG14
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG14
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG2
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG23
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG23
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG24
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG24
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG25
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG25
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG3
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG30
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG30
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG4
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG5
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG6
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG6
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG7
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG7
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG9
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_DRAMSET1TMG9
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_HWLPTMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_HWLPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_INITMR0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_INITMR0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_INITMR1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_INITMR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_INITMR2
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_INITMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_INITMR3
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_INITMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_PERFHPR1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_PERFHPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_PERFLPR1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_PERFLPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_PERFWR1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_PERFWR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_PWRTMG
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_PWRTMG
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_RFSHSET1TMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_RFSHSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_RFSHSET1TMG1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_RFSHSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_RFSHSET1TMG2
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_RFSHSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_RFSHSET1TMG3
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_RFSHSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_SCHEDTMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_SCHEDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_TMGCFG
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_TMGCFG
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_ZQSET1TMG0
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_ZQSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_ONETOSET_MSK_ZQSET1TMG1
+  `undef REGB_FREQ0_CH0_ONETOSET_MSK_ZQSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_PERFHPR1_ADDR
+  `undef REGB_FREQ0_CH0_PERFHPR1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_PERFLPR1_ADDR
+  `undef REGB_FREQ0_CH0_PERFLPR1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_PERFWR1_ADDR
+  `undef REGB_FREQ0_CH0_PERFWR1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_PWRTMG_ADDR
+  `undef REGB_FREQ0_CH0_PWRTMG_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_RFSHSET1TMG0_ADDR
+  `undef REGB_FREQ0_CH0_RFSHSET1TMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_RFSHSET1TMG1_ADDR
+  `undef REGB_FREQ0_CH0_RFSHSET1TMG1_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_RFSHSET1TMG2_ADDR
+  `undef REGB_FREQ0_CH0_RFSHSET1TMG2_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_RFSHSET1TMG3_ADDR
+  `undef REGB_FREQ0_CH0_RFSHSET1TMG3_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DERATEINT
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DERATEINT
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DERATEVAL0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DERATEVAL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DERATEVAL1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DERATEVAL1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFILPTMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFILPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFILPTMG1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFILPTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFIMSGTMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFIMSGTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG2
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG4
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG5
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFITMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFIUPDTMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFIUPDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DFIUPDTMG1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DFIUPDTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DQSOSCCTL0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DQSOSCCTL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG12
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG12
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG13
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG13
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG14
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG14
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG2
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG23
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG23
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG24
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG24
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG25
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG25
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG3
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG30
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG30
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG4
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG5
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG6
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG6
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG7
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG7
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG9
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_DRAMSET1TMG9
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_HWLPTMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_HWLPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_INITMR0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_INITMR0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_INITMR1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_INITMR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_INITMR2
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_INITMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_INITMR3
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_INITMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_PERFHPR1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_PERFHPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_PERFLPR1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_PERFLPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_PERFWR1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_PERFWR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_PWRTMG
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_PWRTMG
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_RFSHSET1TMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_RFSHSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_RFSHSET1TMG1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_RFSHSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_RFSHSET1TMG2
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_RFSHSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_RFSHSET1TMG3
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_RFSHSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_SCHEDTMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_SCHEDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_TMGCFG
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_TMGCFG
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_ZQSET1TMG0
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_ZQSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_RWONLY_MSK_ZQSET1TMG1
+  `undef REGB_FREQ0_CH0_RWONLY_MSK_ZQSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SCHEDTMG0_ADDR
+  `undef REGB_FREQ0_CH0_SCHEDTMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEINT
+  `undef REGB_FREQ0_CH0_SIZE_DERATEINT
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEINT_MR4_READ_INTERVAL
+  `undef REGB_FREQ0_CH0_SIZE_DERATEINT_MR4_READ_INTERVAL
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEVAL0
+  `undef REGB_FREQ0_CH0_SIZE_DERATEVAL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEVAL0_DERATED_T_RAS_MIN
+  `undef REGB_FREQ0_CH0_SIZE_DERATEVAL0_DERATED_T_RAS_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEVAL0_DERATED_T_RCD
+  `undef REGB_FREQ0_CH0_SIZE_DERATEVAL0_DERATED_T_RCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEVAL0_DERATED_T_RP
+  `undef REGB_FREQ0_CH0_SIZE_DERATEVAL0_DERATED_T_RP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEVAL0_DERATED_T_RRD
+  `undef REGB_FREQ0_CH0_SIZE_DERATEVAL0_DERATED_T_RRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEVAL1
+  `undef REGB_FREQ0_CH0_SIZE_DERATEVAL1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DERATEVAL1_DERATED_T_RC
+  `undef REGB_FREQ0_CH0_SIZE_DERATEVAL1_DERATED_T_RC
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFILPTMG0
+  `undef REGB_FREQ0_CH0_SIZE_DFILPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFILPTMG0_DFI_LP_WAKEUP_DSM
+  `undef REGB_FREQ0_CH0_SIZE_DFILPTMG0_DFI_LP_WAKEUP_DSM
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFILPTMG0_DFI_LP_WAKEUP_MPSM
+  `undef REGB_FREQ0_CH0_SIZE_DFILPTMG0_DFI_LP_WAKEUP_MPSM
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFILPTMG0_DFI_LP_WAKEUP_PD
+  `undef REGB_FREQ0_CH0_SIZE_DFILPTMG0_DFI_LP_WAKEUP_PD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFILPTMG0_DFI_LP_WAKEUP_SR
+  `undef REGB_FREQ0_CH0_SIZE_DFILPTMG0_DFI_LP_WAKEUP_SR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFILPTMG1
+  `undef REGB_FREQ0_CH0_SIZE_DFILPTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFILPTMG1_DFI_LP_WAKEUP_DATA
+  `undef REGB_FREQ0_CH0_SIZE_DFILPTMG1_DFI_LP_WAKEUP_DATA
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFILPTMG1_DFI_TLP_RESP
+  `undef REGB_FREQ0_CH0_SIZE_DFILPTMG1_DFI_TLP_RESP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFIMSGTMG0
+  `undef REGB_FREQ0_CH0_SIZE_DFIMSGTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFIMSGTMG0_DFI_T_CTRLMSG_RESP
+  `undef REGB_FREQ0_CH0_SIZE_DFIMSGTMG0_DFI_T_CTRLMSG_RESP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG0
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG0_DFI_TPHY_WRDATA
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG0_DFI_TPHY_WRDATA
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG0_DFI_TPHY_WRLAT
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG0_DFI_TPHY_WRLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG0_DFI_T_CTRL_DELAY
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG0_DFI_T_CTRL_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG0_DFI_T_RDDATA_EN
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG0_DFI_T_RDDATA_EN
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG1
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_CMD_LAT
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_CMD_LAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_DRAM_CLK_DISABLE
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_DRAM_CLK_DISABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_DRAM_CLK_ENABLE
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_DRAM_CLK_ENABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_PARIN_LAT
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_PARIN_LAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_WRDATA_DELAY
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG1_DFI_T_WRDATA_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG2
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG2_DFI_TPHY_RDCSLAT
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG2_DFI_TPHY_RDCSLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG2_DFI_TPHY_WRCSLAT
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG2_DFI_TPHY_WRCSLAT
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG2_DFI_TWCK_DELAY
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG2_DFI_TWCK_DELAY
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG4
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG4_DFI_TWCK_DIS
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG4_DFI_TWCK_DIS
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG4_DFI_TWCK_EN_FS
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG4_DFI_TWCK_EN_FS
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG4_DFI_TWCK_EN_RD
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG4_DFI_TWCK_EN_RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG4_DFI_TWCK_EN_WR
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG4_DFI_TWCK_EN_WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG5
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG5_DFI_TWCK_FAST_TOGGLE
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG5_DFI_TWCK_FAST_TOGGLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG5_DFI_TWCK_TOGGLE
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG5_DFI_TWCK_TOGGLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG5_DFI_TWCK_TOGGLE_CS
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG5_DFI_TWCK_TOGGLE_CS
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFITMG5_DFI_TWCK_TOGGLE_POST
+  `undef REGB_FREQ0_CH0_SIZE_DFITMG5_DFI_TWCK_TOGGLE_POST
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFIUPDTMG0
+  `undef REGB_FREQ0_CH0_SIZE_DFIUPDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFIUPDTMG0_DFI_T_CTRLUP_MAX
+  `undef REGB_FREQ0_CH0_SIZE_DFIUPDTMG0_DFI_T_CTRLUP_MAX
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFIUPDTMG0_DFI_T_CTRLUP_MIN
+  `undef REGB_FREQ0_CH0_SIZE_DFIUPDTMG0_DFI_T_CTRLUP_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFIUPDTMG1
+  `undef REGB_FREQ0_CH0_SIZE_DFIUPDTMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MAX_X1024
+  `undef REGB_FREQ0_CH0_SIZE_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MAX_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MIN_X1024
+  `undef REGB_FREQ0_CH0_SIZE_DFIUPDTMG1_DFI_T_CTRLUPD_INTERVAL_MIN_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DQSOSCCTL0
+  `undef REGB_FREQ0_CH0_SIZE_DQSOSCCTL0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DQSOSCCTL0_DQSOSC_ENABLE
+  `undef REGB_FREQ0_CH0_SIZE_DQSOSCCTL0_DQSOSC_ENABLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DQSOSCCTL0_DQSOSC_INTERVAL
+  `undef REGB_FREQ0_CH0_SIZE_DQSOSCCTL0_DQSOSC_INTERVAL
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DQSOSCCTL0_DQSOSC_INTERVAL_UNIT
+  `undef REGB_FREQ0_CH0_SIZE_DQSOSCCTL0_DQSOSC_INTERVAL_UNIT
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0_T_FAW
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0_T_FAW
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0_T_RAS_MAX
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0_T_RAS_MAX
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0_T_RAS_MIN
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0_T_RAS_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0_WR2PRE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG0_WR2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG1
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG12
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG12
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG12_T_CMDCKE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG12_T_CMDCKE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG12_T_MRD_PDA
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG12_T_MRD_PDA
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG12_T_WR_MPR
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG12_T_WR_MPR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13_ODTLOFF
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13_ODTLOFF
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13_T_CCD_MW
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13_T_CCD_MW
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13_T_CCD_W2
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13_T_CCD_W2
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13_T_PPD
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG13_T_PPD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG14
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG14
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG14_T_OSCO
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG14_T_OSCO
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG14_T_XSR
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG14_T_XSR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG1_RD2PRE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG1_RD2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG1_T_RC
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG1_T_RC
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG1_T_XP
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG1_T_XP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG23
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG23
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG23_T_PDN
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG23_T_PDN
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG23_T_XSR_DSM_X1024
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG23_T_XSR_DSM_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24_BANK_ORG
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24_BANK_ORG
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24_MAX_RD_SYNC
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24_MAX_RD_SYNC
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24_MAX_WR_SYNC
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24_MAX_WR_SYNC
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24_RD2WR_S
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG24_RD2WR_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG25
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG25
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG25_LPDDR4_DIFF_BANK_RWA2PRE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG25_LPDDR4_DIFF_BANK_RWA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG25_RDA2PRE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG25_RDA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG25_WRA2PRE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG25_WRA2PRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2_RD2WR
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2_RD2WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2_READ_LATENCY
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2_READ_LATENCY
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2_WR2RD
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2_WR2RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2_WRITE_LATENCY
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG2_WRITE_LATENCY
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG3
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG30
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG30
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG30_MRR2MRW
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG30_MRR2MRW
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG30_MRR2RD
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG30_MRR2RD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG30_MRR2WR
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG30_MRR2WR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG3_RD2MR
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG3_RD2MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG3_T_MR
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG3_T_MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG3_WR2MR
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG3_WR2MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4_T_CCD
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4_T_CCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4_T_RCD
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4_T_RCD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4_T_RP
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4_T_RP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4_T_RRD
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG4_T_RRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5_T_CKE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5_T_CKE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5_T_CKESR
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5_T_CKESR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5_T_CKSRE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5_T_CKSRE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5_T_CKSRX
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG5_T_CKSRX
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG6
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG6
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG6_T_CKCSX
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG6_T_CKCSX
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG7
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG7
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG7_T_CSH
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG7_T_CSH
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9_DDR4_WR_PREAMBLE
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9_DDR4_WR_PREAMBLE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9_T_CCD_S
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9_T_CCD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9_T_RRD_S
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9_T_RRD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9_WR2RD_S
+  `undef REGB_FREQ0_CH0_SIZE_DRAMSET1TMG9_WR2RD_S
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_HWLPTMG0
+  `undef REGB_FREQ0_CH0_SIZE_HWLPTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_HWLPTMG0_HW_LP_IDLE_X32
+  `undef REGB_FREQ0_CH0_SIZE_HWLPTMG0_HW_LP_IDLE_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR0
+  `undef REGB_FREQ0_CH0_SIZE_INITMR0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR0_EMR
+  `undef REGB_FREQ0_CH0_SIZE_INITMR0_EMR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR0_MR
+  `undef REGB_FREQ0_CH0_SIZE_INITMR0_MR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR1
+  `undef REGB_FREQ0_CH0_SIZE_INITMR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR1_EMR2
+  `undef REGB_FREQ0_CH0_SIZE_INITMR1_EMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR1_EMR3
+  `undef REGB_FREQ0_CH0_SIZE_INITMR1_EMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR2
+  `undef REGB_FREQ0_CH0_SIZE_INITMR2
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR2_MR4
+  `undef REGB_FREQ0_CH0_SIZE_INITMR2_MR4
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR2_MR5
+  `undef REGB_FREQ0_CH0_SIZE_INITMR2_MR5
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR3
+  `undef REGB_FREQ0_CH0_SIZE_INITMR3
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR3_MR22
+  `undef REGB_FREQ0_CH0_SIZE_INITMR3_MR22
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_INITMR3_MR6
+  `undef REGB_FREQ0_CH0_SIZE_INITMR3_MR6
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFHPR1
+  `undef REGB_FREQ0_CH0_SIZE_PERFHPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFHPR1_HPR_MAX_STARVE
+  `undef REGB_FREQ0_CH0_SIZE_PERFHPR1_HPR_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFHPR1_HPR_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_SIZE_PERFHPR1_HPR_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFLPR1
+  `undef REGB_FREQ0_CH0_SIZE_PERFLPR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFLPR1_LPR_MAX_STARVE
+  `undef REGB_FREQ0_CH0_SIZE_PERFLPR1_LPR_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFLPR1_LPR_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_SIZE_PERFLPR1_LPR_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFWR1
+  `undef REGB_FREQ0_CH0_SIZE_PERFWR1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFWR1_W_MAX_STARVE
+  `undef REGB_FREQ0_CH0_SIZE_PERFWR1_W_MAX_STARVE
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PERFWR1_W_XACT_RUN_LENGTH
+  `undef REGB_FREQ0_CH0_SIZE_PERFWR1_W_XACT_RUN_LENGTH
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PWRTMG
+  `undef REGB_FREQ0_CH0_SIZE_PWRTMG
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PWRTMG_POWERDOWN_TO_X32
+  `undef REGB_FREQ0_CH0_SIZE_PWRTMG_POWERDOWN_TO_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_PWRTMG_SELFREF_TO_X32
+  `undef REGB_FREQ0_CH0_SIZE_PWRTMG_SELFREF_TO_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0_REFRESH_MARGIN
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0_REFRESH_MARGIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0_REFRESH_TO_X1_X32
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0_REFRESH_TO_X1_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0_T_REFI_X1_SEL
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0_T_REFI_X1_SEL
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0_T_REFI_X1_X32
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG0_T_REFI_X1_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG1
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG1_T_RFC_MIN
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG1_T_RFC_MIN
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG1_T_RFC_MIN_AB
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG1_T_RFC_MIN_AB
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG2
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG2
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG2_T_PBR2ACT
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG2_T_PBR2ACT
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG2_T_PBR2PBR
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG2_T_PBR2PBR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG2_T_RFC_MIN_DLR
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG2_T_RFC_MIN_DLR
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG3
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG3
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG3_REFRESH_TO_AB_X32
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG3_REFRESH_TO_AB_X32
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG3_T_REFSBRD
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG3_T_REFSBRD
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG3_T_RFCSB
+  `undef REGB_FREQ0_CH0_SIZE_RFSHSET1TMG3_T_RFCSB
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_SCHEDTMG0
+  `undef REGB_FREQ0_CH0_SIZE_SCHEDTMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_SCHEDTMG0_PAGECLOSE_TIMER
+  `undef REGB_FREQ0_CH0_SIZE_SCHEDTMG0_PAGECLOSE_TIMER
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_SCHEDTMG0_RDWR_IDLE_GAP
+  `undef REGB_FREQ0_CH0_SIZE_SCHEDTMG0_RDWR_IDLE_GAP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_TMGCFG
+  `undef REGB_FREQ0_CH0_SIZE_TMGCFG
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_TMGCFG_FREQUENCY_RATIO
+  `undef REGB_FREQ0_CH0_SIZE_TMGCFG_FREQUENCY_RATIO
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_ZQSET1TMG0
+  `undef REGB_FREQ0_CH0_SIZE_ZQSET1TMG0
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_ZQSET1TMG0_T_ZQ_LONG_NOP
+  `undef REGB_FREQ0_CH0_SIZE_ZQSET1TMG0_T_ZQ_LONG_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_ZQSET1TMG0_T_ZQ_SHORT_NOP
+  `undef REGB_FREQ0_CH0_SIZE_ZQSET1TMG0_T_ZQ_SHORT_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_ZQSET1TMG1
+  `undef REGB_FREQ0_CH0_SIZE_ZQSET1TMG1
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_ZQSET1TMG1_T_ZQ_RESET_NOP
+  `undef REGB_FREQ0_CH0_SIZE_ZQSET1TMG1_T_ZQ_RESET_NOP
+`endif
+
+`ifdef REGB_FREQ0_CH0_SIZE_ZQSET1TMG1_T_ZQ_SHORT_INTERVAL_X1024
+  `undef REGB_FREQ0_CH0_SIZE_ZQSET1TMG1_T_ZQ_SHORT_INTERVAL_X1024
+`endif
+
+`ifdef REGB_FREQ0_CH0_TMGCFG_ADDR
+  `undef REGB_FREQ0_CH0_TMGCFG_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_ZQSET1TMG0_ADDR
+  `undef REGB_FREQ0_CH0_ZQSET1TMG0_ADDR
+`endif
+
+`ifdef REGB_FREQ0_CH0_ZQSET1TMG1_ADDR
+  `undef REGB_FREQ0_CH0_ZQSET1TMG1_ADDR
+`endif
+
+`ifdef RM_BCM00_MAJ
+  `undef RM_BCM00_MAJ
+`endif
+
+`ifdef RM_BCM01
+  `undef RM_BCM01
+`endif
+
+`ifdef RM_BCM02
+  `undef RM_BCM02
+`endif
+
+`ifdef RM_BCM05
+  `undef RM_BCM05
+`endif
+
+`ifdef RM_BCM05_ATV
+  `undef RM_BCM05_ATV
+`endif
+
+`ifdef RM_BCM06
+  `undef RM_BCM06
+`endif
+
+`ifdef RM_BCM06_ATV
+  `undef RM_BCM06_ATV
+`endif
+
+`ifdef RM_BCM07
+  `undef RM_BCM07
+`endif
+
+`ifdef RM_BCM07_ATV
+  `undef RM_BCM07_ATV
+`endif
+
+`ifdef RM_BCM21
+  `undef RM_BCM21
+`endif
+
+`ifdef RM_BCM21_ATV
+  `undef RM_BCM21_ATV
+`endif
+
+`ifdef RM_BCM23
+  `undef RM_BCM23
+`endif
+
+`ifdef RM_BCM25
+  `undef RM_BCM25
+`endif
+
+`ifdef RM_BCM36_NHS
+  `undef RM_BCM36_NHS
+`endif
+
+`ifdef RM_BCM46_A
+  `undef RM_BCM46_A
+`endif
+
+`ifdef RM_BCM46_B
+  `undef RM_BCM46_B
+`endif
+
+`ifdef RM_BCM46_C
+  `undef RM_BCM46_C
+`endif
+
+`ifdef RM_BCM46_D
+  `undef RM_BCM46_D
+`endif
+
+`ifdef RM_BCM46_E
+  `undef RM_BCM46_E
+`endif
+
+`ifdef RM_BCM50
+  `undef RM_BCM50
+`endif
+
+`ifdef RM_BCM51
+  `undef RM_BCM51
+`endif
+
+`ifdef RM_BCM53
+  `undef RM_BCM53
+`endif
+
+`ifdef RM_BCM55
+  `undef RM_BCM55
+`endif
+
+`ifdef RM_BCM56
+  `undef RM_BCM56
+`endif
+
+`ifdef RM_BCM57
+  `undef RM_BCM57
+`endif
+
+`ifdef RM_BCM57_CHB
+  `undef RM_BCM57_CHB
+`endif
+
+`ifdef RM_BCM58
+  `undef RM_BCM58
+`endif
+
+`ifdef RM_BCM64
+  `undef RM_BCM64
+`endif
+
+`ifdef RM_BCM65
+  `undef RM_BCM65
+`endif
+
+`ifdef RM_BCM65_ATV
+  `undef RM_BCM65_ATV
+`endif
+
+`ifdef RM_BCM66_WAE
+  `undef RM_BCM66_WAE
+`endif
+
+`ifdef RM_BCM66_WAE_ATV
+  `undef RM_BCM66_WAE_ATV
+`endif
+
+`ifdef RM_BCM86
+  `undef RM_BCM86
+`endif
+
+`ifdef RM_BCM95_I
+  `undef RM_BCM95_I
+`endif
+
+`ifdef RM_BCM95_IE
+  `undef RM_BCM95_IE
+`endif
+
+`ifdef RM_BVM02
+  `undef RM_BVM02
+`endif
+
+`ifdef RM_SVA01
+  `undef RM_SVA01
+`endif
+
+`ifdef RM_SVA02
+  `undef RM_SVA02
+`endif
+
+`ifdef RM_SVA03
+  `undef RM_SVA03
+`endif
+
+`ifdef RM_SVA04
+  `undef RM_SVA04
+`endif
+
+`ifdef RM_SVA05
+  `undef RM_SVA05
+`endif
+
+`ifdef RM_SVA06
+  `undef RM_SVA06
+`endif
+
+`ifdef RM_SVA07
+  `undef RM_SVA07
+`endif
+
+`ifdef RM_SVA08
+  `undef RM_SVA08
+`endif
+
+`ifdef RM_SVA09
+  `undef RM_SVA09
+`endif
+
+`ifdef RM_SVA12_B
+  `undef RM_SVA12_B
+`endif
+
+`ifdef RM_SVA12_C
+  `undef RM_SVA12_C
+`endif
+
+`ifdef RM_SVA99
+  `undef RM_SVA99
+`endif
+
+`ifdef SHIFTAPBADDR
+  `undef SHIFTAPBADDR
+`endif
+
+`ifdef SNPS_SVA_MSG
+  `undef SNPS_SVA_MSG
+`endif
+
+`ifdef SNPS_UNR_CONSTANT
+  `undef SNPS_UNR_CONSTANT
+`endif
+
+`ifdef SNPS_UNR_CONSTRAINT
+  `undef SNPS_UNR_CONSTRAINT
+`endif
+
+`ifdef SNPS_UNR_CONSTRAINT_PROP
+  `undef SNPS_UNR_CONSTRAINT_PROP
+`endif
+
+`ifdef THEREIS_AHB_PORT
+  `undef THEREIS_AHB_PORT
+`endif
+
+`ifdef THEREIS_AXI4_PORT
+  `undef THEREIS_AXI4_PORT
+`endif
+
+`ifdef THEREIS_AXI_PORT
+  `undef THEREIS_AXI_PORT
+`endif
+
+`ifdef THEREIS_INTLV_NS
+  `undef THEREIS_INTLV_NS
+`endif
+
+`ifdef THEREIS_PORT_DSIZE
+  `undef THEREIS_PORT_DSIZE
+`endif
+
+`ifdef THEREIS_PORT_USIZE
+  `undef THEREIS_PORT_USIZE
+`endif
+
+`ifdef THEREIS_SAR
+  `undef THEREIS_SAR
+`endif
+
+`ifdef UMCTL2_A2X_COH_BUFMODE
+  `undef UMCTL2_A2X_COH_BUFMODE
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_0
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_0
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_1
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_1
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_10
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_10
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_11
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_11
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_12
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_12
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_13
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_13
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_14
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_14
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_15
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_15
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_2
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_2
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_3
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_3
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_4
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_4
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_5
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_5
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_6
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_6
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_7
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_7
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_8
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_8
+`endif
+
+`ifdef UMCTL2_AHB_HREADY_LOW_PERIOD_9
+  `undef UMCTL2_AHB_HREADY_LOW_PERIOD_9
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_0
+  `undef UMCTL2_AHB_LITE_MODE_0
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_1
+  `undef UMCTL2_AHB_LITE_MODE_1
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_10
+  `undef UMCTL2_AHB_LITE_MODE_10
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_11
+  `undef UMCTL2_AHB_LITE_MODE_11
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_12
+  `undef UMCTL2_AHB_LITE_MODE_12
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_13
+  `undef UMCTL2_AHB_LITE_MODE_13
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_14
+  `undef UMCTL2_AHB_LITE_MODE_14
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_15
+  `undef UMCTL2_AHB_LITE_MODE_15
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_2
+  `undef UMCTL2_AHB_LITE_MODE_2
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_3
+  `undef UMCTL2_AHB_LITE_MODE_3
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_4
+  `undef UMCTL2_AHB_LITE_MODE_4
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_5
+  `undef UMCTL2_AHB_LITE_MODE_5
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_6
+  `undef UMCTL2_AHB_LITE_MODE_6
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_7
+  `undef UMCTL2_AHB_LITE_MODE_7
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_8
+  `undef UMCTL2_AHB_LITE_MODE_8
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_9
+  `undef UMCTL2_AHB_LITE_MODE_9
+`endif
+
+`ifdef UMCTL2_AHB_LITE_MODE_TABLE
+  `undef UMCTL2_AHB_LITE_MODE_TABLE
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_0
+  `undef UMCTL2_AHB_NUM_MST_0
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_1
+  `undef UMCTL2_AHB_NUM_MST_1
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_10
+  `undef UMCTL2_AHB_NUM_MST_10
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_11
+  `undef UMCTL2_AHB_NUM_MST_11
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_12
+  `undef UMCTL2_AHB_NUM_MST_12
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_13
+  `undef UMCTL2_AHB_NUM_MST_13
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_14
+  `undef UMCTL2_AHB_NUM_MST_14
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_15
+  `undef UMCTL2_AHB_NUM_MST_15
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_2
+  `undef UMCTL2_AHB_NUM_MST_2
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_3
+  `undef UMCTL2_AHB_NUM_MST_3
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_4
+  `undef UMCTL2_AHB_NUM_MST_4
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_5
+  `undef UMCTL2_AHB_NUM_MST_5
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_6
+  `undef UMCTL2_AHB_NUM_MST_6
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_7
+  `undef UMCTL2_AHB_NUM_MST_7
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_8
+  `undef UMCTL2_AHB_NUM_MST_8
+`endif
+
+`ifdef UMCTL2_AHB_NUM_MST_9
+  `undef UMCTL2_AHB_NUM_MST_9
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_0
+  `undef UMCTL2_AHB_RAQD_0
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_1
+  `undef UMCTL2_AHB_RAQD_1
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_10
+  `undef UMCTL2_AHB_RAQD_10
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_11
+  `undef UMCTL2_AHB_RAQD_11
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_12
+  `undef UMCTL2_AHB_RAQD_12
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_13
+  `undef UMCTL2_AHB_RAQD_13
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_14
+  `undef UMCTL2_AHB_RAQD_14
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_15
+  `undef UMCTL2_AHB_RAQD_15
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_2
+  `undef UMCTL2_AHB_RAQD_2
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_3
+  `undef UMCTL2_AHB_RAQD_3
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_4
+  `undef UMCTL2_AHB_RAQD_4
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_5
+  `undef UMCTL2_AHB_RAQD_5
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_6
+  `undef UMCTL2_AHB_RAQD_6
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_7
+  `undef UMCTL2_AHB_RAQD_7
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_8
+  `undef UMCTL2_AHB_RAQD_8
+`endif
+
+`ifdef UMCTL2_AHB_RAQD_9
+  `undef UMCTL2_AHB_RAQD_9
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_0
+  `undef UMCTL2_AHB_RDQD_0
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_1
+  `undef UMCTL2_AHB_RDQD_1
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_10
+  `undef UMCTL2_AHB_RDQD_10
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_11
+  `undef UMCTL2_AHB_RDQD_11
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_12
+  `undef UMCTL2_AHB_RDQD_12
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_13
+  `undef UMCTL2_AHB_RDQD_13
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_14
+  `undef UMCTL2_AHB_RDQD_14
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_15
+  `undef UMCTL2_AHB_RDQD_15
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_2
+  `undef UMCTL2_AHB_RDQD_2
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_3
+  `undef UMCTL2_AHB_RDQD_3
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_4
+  `undef UMCTL2_AHB_RDQD_4
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_5
+  `undef UMCTL2_AHB_RDQD_5
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_6
+  `undef UMCTL2_AHB_RDQD_6
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_7
+  `undef UMCTL2_AHB_RDQD_7
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_8
+  `undef UMCTL2_AHB_RDQD_8
+`endif
+
+`ifdef UMCTL2_AHB_RDQD_9
+  `undef UMCTL2_AHB_RDQD_9
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_0
+  `undef UMCTL2_AHB_SPLIT_MODE_0
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_1
+  `undef UMCTL2_AHB_SPLIT_MODE_1
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_10
+  `undef UMCTL2_AHB_SPLIT_MODE_10
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_11
+  `undef UMCTL2_AHB_SPLIT_MODE_11
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_12
+  `undef UMCTL2_AHB_SPLIT_MODE_12
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_13
+  `undef UMCTL2_AHB_SPLIT_MODE_13
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_14
+  `undef UMCTL2_AHB_SPLIT_MODE_14
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_15
+  `undef UMCTL2_AHB_SPLIT_MODE_15
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_2
+  `undef UMCTL2_AHB_SPLIT_MODE_2
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_3
+  `undef UMCTL2_AHB_SPLIT_MODE_3
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_4
+  `undef UMCTL2_AHB_SPLIT_MODE_4
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_5
+  `undef UMCTL2_AHB_SPLIT_MODE_5
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_6
+  `undef UMCTL2_AHB_SPLIT_MODE_6
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_7
+  `undef UMCTL2_AHB_SPLIT_MODE_7
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_8
+  `undef UMCTL2_AHB_SPLIT_MODE_8
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_9
+  `undef UMCTL2_AHB_SPLIT_MODE_9
+`endif
+
+`ifdef UMCTL2_AHB_SPLIT_MODE_TABLE
+  `undef UMCTL2_AHB_SPLIT_MODE_TABLE
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_0
+  `undef UMCTL2_AHB_WAQD_0
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_1
+  `undef UMCTL2_AHB_WAQD_1
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_10
+  `undef UMCTL2_AHB_WAQD_10
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_11
+  `undef UMCTL2_AHB_WAQD_11
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_12
+  `undef UMCTL2_AHB_WAQD_12
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_13
+  `undef UMCTL2_AHB_WAQD_13
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_14
+  `undef UMCTL2_AHB_WAQD_14
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_15
+  `undef UMCTL2_AHB_WAQD_15
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_2
+  `undef UMCTL2_AHB_WAQD_2
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_3
+  `undef UMCTL2_AHB_WAQD_3
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_4
+  `undef UMCTL2_AHB_WAQD_4
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_5
+  `undef UMCTL2_AHB_WAQD_5
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_6
+  `undef UMCTL2_AHB_WAQD_6
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_7
+  `undef UMCTL2_AHB_WAQD_7
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_8
+  `undef UMCTL2_AHB_WAQD_8
+`endif
+
+`ifdef UMCTL2_AHB_WAQD_9
+  `undef UMCTL2_AHB_WAQD_9
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_0
+  `undef UMCTL2_AHB_WDQD_0
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_1
+  `undef UMCTL2_AHB_WDQD_1
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_10
+  `undef UMCTL2_AHB_WDQD_10
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_11
+  `undef UMCTL2_AHB_WDQD_11
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_12
+  `undef UMCTL2_AHB_WDQD_12
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_13
+  `undef UMCTL2_AHB_WDQD_13
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_14
+  `undef UMCTL2_AHB_WDQD_14
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_15
+  `undef UMCTL2_AHB_WDQD_15
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_2
+  `undef UMCTL2_AHB_WDQD_2
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_3
+  `undef UMCTL2_AHB_WDQD_3
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_4
+  `undef UMCTL2_AHB_WDQD_4
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_5
+  `undef UMCTL2_AHB_WDQD_5
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_6
+  `undef UMCTL2_AHB_WDQD_6
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_7
+  `undef UMCTL2_AHB_WDQD_7
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_8
+  `undef UMCTL2_AHB_WDQD_8
+`endif
+
+`ifdef UMCTL2_AHB_WDQD_9
+  `undef UMCTL2_AHB_WDQD_9
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_0
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_0
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_1
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_1
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_10
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_10
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_11
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_11
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_12
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_12
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_13
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_13
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_14
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_14
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_15
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_15
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_2
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_2
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_3
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_3
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_4
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_4
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_5
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_5
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_6
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_6
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_7
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_7
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_8
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_8
+`endif
+
+`ifdef UMCTL2_AHB_WRITE_RESP_MODE_9
+  `undef UMCTL2_AHB_WRITE_RESP_MODE_9
+`endif
+
+`ifdef UMCTL2_AM_BANKGROUP_BASE
+  `undef UMCTL2_AM_BANKGROUP_BASE
+`endif
+
+`ifdef UMCTL2_AM_BANK_BASE
+  `undef UMCTL2_AM_BANK_BASE
+`endif
+
+`ifdef UMCTL2_AM_CID_BASE
+  `undef UMCTL2_AM_CID_BASE
+`endif
+
+`ifdef UMCTL2_AM_COLUMN_BASE
+  `undef UMCTL2_AM_COLUMN_BASE
+`endif
+
+`ifdef UMCTL2_AM_DATACHANNEL_BASE
+  `undef UMCTL2_AM_DATACHANNEL_BASE
+`endif
+
+`ifdef UMCTL2_AM_RANK_BASE
+  `undef UMCTL2_AM_RANK_BASE
+`endif
+
+`ifdef UMCTL2_AM_ROW_BASE
+  `undef UMCTL2_AM_ROW_BASE
+`endif
+
+`ifdef UMCTL2_APB_AW
+  `undef UMCTL2_APB_AW
+`endif
+
+`ifdef UMCTL2_APB_DW
+  `undef UMCTL2_APB_DW
+`endif
+
+`ifdef UMCTL2_AP_ANY_ASYNC
+  `undef UMCTL2_AP_ANY_ASYNC
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_0
+  `undef UMCTL2_AP_ASYNC_0
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_1
+  `undef UMCTL2_AP_ASYNC_1
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_10
+  `undef UMCTL2_AP_ASYNC_10
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_11
+  `undef UMCTL2_AP_ASYNC_11
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_12
+  `undef UMCTL2_AP_ASYNC_12
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_13
+  `undef UMCTL2_AP_ASYNC_13
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_14
+  `undef UMCTL2_AP_ASYNC_14
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_15
+  `undef UMCTL2_AP_ASYNC_15
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_2
+  `undef UMCTL2_AP_ASYNC_2
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_3
+  `undef UMCTL2_AP_ASYNC_3
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_4
+  `undef UMCTL2_AP_ASYNC_4
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_5
+  `undef UMCTL2_AP_ASYNC_5
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_6
+  `undef UMCTL2_AP_ASYNC_6
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_7
+  `undef UMCTL2_AP_ASYNC_7
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_8
+  `undef UMCTL2_AP_ASYNC_8
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_9
+  `undef UMCTL2_AP_ASYNC_9
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_0
+  `undef UMCTL2_AP_ASYNC_A_0
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_1
+  `undef UMCTL2_AP_ASYNC_A_1
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_10
+  `undef UMCTL2_AP_ASYNC_A_10
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_11
+  `undef UMCTL2_AP_ASYNC_A_11
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_12
+  `undef UMCTL2_AP_ASYNC_A_12
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_13
+  `undef UMCTL2_AP_ASYNC_A_13
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_14
+  `undef UMCTL2_AP_ASYNC_A_14
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_15
+  `undef UMCTL2_AP_ASYNC_A_15
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_2
+  `undef UMCTL2_AP_ASYNC_A_2
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_3
+  `undef UMCTL2_AP_ASYNC_A_3
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_4
+  `undef UMCTL2_AP_ASYNC_A_4
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_5
+  `undef UMCTL2_AP_ASYNC_A_5
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_6
+  `undef UMCTL2_AP_ASYNC_A_6
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_7
+  `undef UMCTL2_AP_ASYNC_A_7
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_8
+  `undef UMCTL2_AP_ASYNC_A_8
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_A_9
+  `undef UMCTL2_AP_ASYNC_A_9
+`endif
+
+`ifdef UMCTL2_AP_ASYNC_TABLE
+  `undef UMCTL2_AP_ASYNC_TABLE
+`endif
+
+`ifdef UMCTL2_ASYNC_DDRC_N_SYNC
+  `undef UMCTL2_ASYNC_DDRC_N_SYNC
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_0
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_0
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_1
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_1
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_10
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_10
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_11
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_11
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_12
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_12
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_13
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_13
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_14
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_14
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_15
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_15
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_2
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_2
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_3
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_3
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_4
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_4
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_5
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_5
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_6
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_6
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_7
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_7
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_8
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_8
+`endif
+
+`ifdef UMCTL2_ASYNC_FIFO_N_SYNC_9
+  `undef UMCTL2_ASYNC_FIFO_N_SYNC_9
+`endif
+
+`ifdef UMCTL2_ASYNC_LP4DCI_N_SYNC
+  `undef UMCTL2_ASYNC_LP4DCI_N_SYNC
+`endif
+
+`ifdef UMCTL2_ASYNC_REG_N_SYNC
+  `undef UMCTL2_ASYNC_REG_N_SYNC
+`endif
+
+`ifdef UMCTL2_AXI_ADDRW
+  `undef UMCTL2_AXI_ADDRW
+`endif
+
+`ifdef UMCTL2_AXI_ADDR_BOUNDARY
+  `undef UMCTL2_AXI_ADDR_BOUNDARY
+`endif
+
+`ifdef UMCTL2_AXI_BURST_WIDTH
+  `undef UMCTL2_AXI_BURST_WIDTH
+`endif
+
+`ifdef UMCTL2_AXI_CACHE_WIDTH
+  `undef UMCTL2_AXI_CACHE_WIDTH
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH
+  `undef UMCTL2_AXI_LOCK_WIDTH
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_0
+  `undef UMCTL2_AXI_LOCK_WIDTH_0
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_1
+  `undef UMCTL2_AXI_LOCK_WIDTH_1
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_10
+  `undef UMCTL2_AXI_LOCK_WIDTH_10
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_11
+  `undef UMCTL2_AXI_LOCK_WIDTH_11
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_12
+  `undef UMCTL2_AXI_LOCK_WIDTH_12
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_13
+  `undef UMCTL2_AXI_LOCK_WIDTH_13
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_14
+  `undef UMCTL2_AXI_LOCK_WIDTH_14
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_15
+  `undef UMCTL2_AXI_LOCK_WIDTH_15
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_2
+  `undef UMCTL2_AXI_LOCK_WIDTH_2
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_3
+  `undef UMCTL2_AXI_LOCK_WIDTH_3
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_4
+  `undef UMCTL2_AXI_LOCK_WIDTH_4
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_5
+  `undef UMCTL2_AXI_LOCK_WIDTH_5
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_6
+  `undef UMCTL2_AXI_LOCK_WIDTH_6
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_7
+  `undef UMCTL2_AXI_LOCK_WIDTH_7
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_8
+  `undef UMCTL2_AXI_LOCK_WIDTH_8
+`endif
+
+`ifdef UMCTL2_AXI_LOCK_WIDTH_9
+  `undef UMCTL2_AXI_LOCK_WIDTH_9
+`endif
+
+`ifdef UMCTL2_AXI_LOWPWR_NOPX_CNT
+  `undef UMCTL2_AXI_LOWPWR_NOPX_CNT
+`endif
+
+`ifdef UMCTL2_AXI_PROT_WIDTH
+  `undef UMCTL2_AXI_PROT_WIDTH
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_0
+  `undef UMCTL2_AXI_RAQD_0
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_1
+  `undef UMCTL2_AXI_RAQD_1
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_10
+  `undef UMCTL2_AXI_RAQD_10
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_11
+  `undef UMCTL2_AXI_RAQD_11
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_12
+  `undef UMCTL2_AXI_RAQD_12
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_13
+  `undef UMCTL2_AXI_RAQD_13
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_14
+  `undef UMCTL2_AXI_RAQD_14
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_15
+  `undef UMCTL2_AXI_RAQD_15
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_2
+  `undef UMCTL2_AXI_RAQD_2
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_3
+  `undef UMCTL2_AXI_RAQD_3
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_4
+  `undef UMCTL2_AXI_RAQD_4
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_5
+  `undef UMCTL2_AXI_RAQD_5
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_6
+  `undef UMCTL2_AXI_RAQD_6
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_7
+  `undef UMCTL2_AXI_RAQD_7
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_8
+  `undef UMCTL2_AXI_RAQD_8
+`endif
+
+`ifdef UMCTL2_AXI_RAQD_9
+  `undef UMCTL2_AXI_RAQD_9
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_0
+  `undef UMCTL2_AXI_RDQD_0
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_1
+  `undef UMCTL2_AXI_RDQD_1
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_10
+  `undef UMCTL2_AXI_RDQD_10
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_11
+  `undef UMCTL2_AXI_RDQD_11
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_12
+  `undef UMCTL2_AXI_RDQD_12
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_13
+  `undef UMCTL2_AXI_RDQD_13
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_14
+  `undef UMCTL2_AXI_RDQD_14
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_15
+  `undef UMCTL2_AXI_RDQD_15
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_2
+  `undef UMCTL2_AXI_RDQD_2
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_3
+  `undef UMCTL2_AXI_RDQD_3
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_4
+  `undef UMCTL2_AXI_RDQD_4
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_5
+  `undef UMCTL2_AXI_RDQD_5
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_6
+  `undef UMCTL2_AXI_RDQD_6
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_7
+  `undef UMCTL2_AXI_RDQD_7
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_8
+  `undef UMCTL2_AXI_RDQD_8
+`endif
+
+`ifdef UMCTL2_AXI_RDQD_9
+  `undef UMCTL2_AXI_RDQD_9
+`endif
+
+`ifdef UMCTL2_AXI_REGION_WIDTH
+  `undef UMCTL2_AXI_REGION_WIDTH
+`endif
+
+`ifdef UMCTL2_AXI_RESP_WIDTH
+  `undef UMCTL2_AXI_RESP_WIDTH
+`endif
+
+`ifdef UMCTL2_AXI_SAR_BW
+  `undef UMCTL2_AXI_SAR_BW
+`endif
+
+`ifdef UMCTL2_AXI_SAR_REG_BW
+  `undef UMCTL2_AXI_SAR_REG_BW
+`endif
+
+`ifdef UMCTL2_AXI_SAR_SW
+  `undef UMCTL2_AXI_SAR_SW
+`endif
+
+`ifdef UMCTL2_AXI_SIZE_WIDTH
+  `undef UMCTL2_AXI_SIZE_WIDTH
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_0
+  `undef UMCTL2_AXI_TAGBITS_0
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_1
+  `undef UMCTL2_AXI_TAGBITS_1
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_10
+  `undef UMCTL2_AXI_TAGBITS_10
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_11
+  `undef UMCTL2_AXI_TAGBITS_11
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_12
+  `undef UMCTL2_AXI_TAGBITS_12
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_13
+  `undef UMCTL2_AXI_TAGBITS_13
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_14
+  `undef UMCTL2_AXI_TAGBITS_14
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_15
+  `undef UMCTL2_AXI_TAGBITS_15
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_2
+  `undef UMCTL2_AXI_TAGBITS_2
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_3
+  `undef UMCTL2_AXI_TAGBITS_3
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_4
+  `undef UMCTL2_AXI_TAGBITS_4
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_5
+  `undef UMCTL2_AXI_TAGBITS_5
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_6
+  `undef UMCTL2_AXI_TAGBITS_6
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_7
+  `undef UMCTL2_AXI_TAGBITS_7
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_8
+  `undef UMCTL2_AXI_TAGBITS_8
+`endif
+
+`ifdef UMCTL2_AXI_TAGBITS_9
+  `undef UMCTL2_AXI_TAGBITS_9
+`endif
+
+`ifdef UMCTL2_AXI_USER_WIDTH
+  `undef UMCTL2_AXI_USER_WIDTH
+`endif
+
+`ifdef UMCTL2_AXI_USER_WIDTH_INT
+  `undef UMCTL2_AXI_USER_WIDTH_INT
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_0
+  `undef UMCTL2_AXI_WAQD_0
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_1
+  `undef UMCTL2_AXI_WAQD_1
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_10
+  `undef UMCTL2_AXI_WAQD_10
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_11
+  `undef UMCTL2_AXI_WAQD_11
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_12
+  `undef UMCTL2_AXI_WAQD_12
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_13
+  `undef UMCTL2_AXI_WAQD_13
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_14
+  `undef UMCTL2_AXI_WAQD_14
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_15
+  `undef UMCTL2_AXI_WAQD_15
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_2
+  `undef UMCTL2_AXI_WAQD_2
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_3
+  `undef UMCTL2_AXI_WAQD_3
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_4
+  `undef UMCTL2_AXI_WAQD_4
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_5
+  `undef UMCTL2_AXI_WAQD_5
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_6
+  `undef UMCTL2_AXI_WAQD_6
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_7
+  `undef UMCTL2_AXI_WAQD_7
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_8
+  `undef UMCTL2_AXI_WAQD_8
+`endif
+
+`ifdef UMCTL2_AXI_WAQD_9
+  `undef UMCTL2_AXI_WAQD_9
+`endif
+
+`ifdef UMCTL2_AXI_WDATA_PTR_BITS
+  `undef UMCTL2_AXI_WDATA_PTR_BITS
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_0
+  `undef UMCTL2_AXI_WDQD_0
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_1
+  `undef UMCTL2_AXI_WDQD_1
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_10
+  `undef UMCTL2_AXI_WDQD_10
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_11
+  `undef UMCTL2_AXI_WDQD_11
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_12
+  `undef UMCTL2_AXI_WDQD_12
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_13
+  `undef UMCTL2_AXI_WDQD_13
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_14
+  `undef UMCTL2_AXI_WDQD_14
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_15
+  `undef UMCTL2_AXI_WDQD_15
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_2
+  `undef UMCTL2_AXI_WDQD_2
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_3
+  `undef UMCTL2_AXI_WDQD_3
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_4
+  `undef UMCTL2_AXI_WDQD_4
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_5
+  `undef UMCTL2_AXI_WDQD_5
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_6
+  `undef UMCTL2_AXI_WDQD_6
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_7
+  `undef UMCTL2_AXI_WDQD_7
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_8
+  `undef UMCTL2_AXI_WDQD_8
+`endif
+
+`ifdef UMCTL2_AXI_WDQD_9
+  `undef UMCTL2_AXI_WDQD_9
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_0
+  `undef UMCTL2_AXI_WRQD_0
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_1
+  `undef UMCTL2_AXI_WRQD_1
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_10
+  `undef UMCTL2_AXI_WRQD_10
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_11
+  `undef UMCTL2_AXI_WRQD_11
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_12
+  `undef UMCTL2_AXI_WRQD_12
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_13
+  `undef UMCTL2_AXI_WRQD_13
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_14
+  `undef UMCTL2_AXI_WRQD_14
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_15
+  `undef UMCTL2_AXI_WRQD_15
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_2
+  `undef UMCTL2_AXI_WRQD_2
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_3
+  `undef UMCTL2_AXI_WRQD_3
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_4
+  `undef UMCTL2_AXI_WRQD_4
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_5
+  `undef UMCTL2_AXI_WRQD_5
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_6
+  `undef UMCTL2_AXI_WRQD_6
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_7
+  `undef UMCTL2_AXI_WRQD_7
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_8
+  `undef UMCTL2_AXI_WRQD_8
+`endif
+
+`ifdef UMCTL2_AXI_WRQD_9
+  `undef UMCTL2_AXI_WRQD_9
+`endif
+
+`ifdef UMCTL2_A_ADDRW
+  `undef UMCTL2_A_ADDRW
+`endif
+
+`ifdef UMCTL2_A_AXI
+  `undef UMCTL2_A_AXI
+`endif
+
+`ifdef UMCTL2_A_AXI4
+  `undef UMCTL2_A_AXI4
+`endif
+
+`ifdef UMCTL2_A_AXI4_0
+  `undef UMCTL2_A_AXI4_0
+`endif
+
+`ifdef UMCTL2_A_AXI_0
+  `undef UMCTL2_A_AXI_0
+`endif
+
+`ifdef UMCTL2_A_AXI_OR_AHB
+  `undef UMCTL2_A_AXI_OR_AHB
+`endif
+
+`ifdef UMCTL2_A_AXI_OR_AHB_0
+  `undef UMCTL2_A_AXI_OR_AHB_0
+`endif
+
+`ifdef UMCTL2_A_AXI_OR_AHB_EN
+  `undef UMCTL2_A_AXI_OR_AHB_EN
+`endif
+
+`ifdef UMCTL2_A_AXI_OR_AHB_OR_CHB
+  `undef UMCTL2_A_AXI_OR_AHB_OR_CHB
+`endif
+
+`ifdef UMCTL2_A_AXI_OR_AHB_OR_CHB_0
+  `undef UMCTL2_A_AXI_OR_AHB_OR_CHB_0
+`endif
+
+`ifdef UMCTL2_A_AXI_OR_CHB
+  `undef UMCTL2_A_AXI_OR_CHB
+`endif
+
+`ifdef UMCTL2_A_AXI_OR_CHB_0
+  `undef UMCTL2_A_AXI_OR_CHB_0
+`endif
+
+`ifdef UMCTL2_A_DIR_0
+  `undef UMCTL2_A_DIR_0
+`endif
+
+`ifdef UMCTL2_A_DIR_1
+  `undef UMCTL2_A_DIR_1
+`endif
+
+`ifdef UMCTL2_A_DIR_10
+  `undef UMCTL2_A_DIR_10
+`endif
+
+`ifdef UMCTL2_A_DIR_11
+  `undef UMCTL2_A_DIR_11
+`endif
+
+`ifdef UMCTL2_A_DIR_12
+  `undef UMCTL2_A_DIR_12
+`endif
+
+`ifdef UMCTL2_A_DIR_13
+  `undef UMCTL2_A_DIR_13
+`endif
+
+`ifdef UMCTL2_A_DIR_14
+  `undef UMCTL2_A_DIR_14
+`endif
+
+`ifdef UMCTL2_A_DIR_15
+  `undef UMCTL2_A_DIR_15
+`endif
+
+`ifdef UMCTL2_A_DIR_2
+  `undef UMCTL2_A_DIR_2
+`endif
+
+`ifdef UMCTL2_A_DIR_3
+  `undef UMCTL2_A_DIR_3
+`endif
+
+`ifdef UMCTL2_A_DIR_4
+  `undef UMCTL2_A_DIR_4
+`endif
+
+`ifdef UMCTL2_A_DIR_5
+  `undef UMCTL2_A_DIR_5
+`endif
+
+`ifdef UMCTL2_A_DIR_6
+  `undef UMCTL2_A_DIR_6
+`endif
+
+`ifdef UMCTL2_A_DIR_7
+  `undef UMCTL2_A_DIR_7
+`endif
+
+`ifdef UMCTL2_A_DIR_8
+  `undef UMCTL2_A_DIR_8
+`endif
+
+`ifdef UMCTL2_A_DIR_9
+  `undef UMCTL2_A_DIR_9
+`endif
+
+`ifdef UMCTL2_A_DW
+  `undef UMCTL2_A_DW
+`endif
+
+`ifdef UMCTL2_A_DW_INT_0
+  `undef UMCTL2_A_DW_INT_0
+`endif
+
+`ifdef UMCTL2_A_DW_INT_1
+  `undef UMCTL2_A_DW_INT_1
+`endif
+
+`ifdef UMCTL2_A_DW_INT_10
+  `undef UMCTL2_A_DW_INT_10
+`endif
+
+`ifdef UMCTL2_A_DW_INT_11
+  `undef UMCTL2_A_DW_INT_11
+`endif
+
+`ifdef UMCTL2_A_DW_INT_12
+  `undef UMCTL2_A_DW_INT_12
+`endif
+
+`ifdef UMCTL2_A_DW_INT_13
+  `undef UMCTL2_A_DW_INT_13
+`endif
+
+`ifdef UMCTL2_A_DW_INT_14
+  `undef UMCTL2_A_DW_INT_14
+`endif
+
+`ifdef UMCTL2_A_DW_INT_15
+  `undef UMCTL2_A_DW_INT_15
+`endif
+
+`ifdef UMCTL2_A_DW_INT_2
+  `undef UMCTL2_A_DW_INT_2
+`endif
+
+`ifdef UMCTL2_A_DW_INT_3
+  `undef UMCTL2_A_DW_INT_3
+`endif
+
+`ifdef UMCTL2_A_DW_INT_4
+  `undef UMCTL2_A_DW_INT_4
+`endif
+
+`ifdef UMCTL2_A_DW_INT_5
+  `undef UMCTL2_A_DW_INT_5
+`endif
+
+`ifdef UMCTL2_A_DW_INT_6
+  `undef UMCTL2_A_DW_INT_6
+`endif
+
+`ifdef UMCTL2_A_DW_INT_7
+  `undef UMCTL2_A_DW_INT_7
+`endif
+
+`ifdef UMCTL2_A_DW_INT_8
+  `undef UMCTL2_A_DW_INT_8
+`endif
+
+`ifdef UMCTL2_A_DW_INT_9
+  `undef UMCTL2_A_DW_INT_9
+`endif
+
+`ifdef UMCTL2_A_IDW
+  `undef UMCTL2_A_IDW
+`endif
+
+`ifdef UMCTL2_A_ID_MAPW
+  `undef UMCTL2_A_ID_MAPW
+`endif
+
+`ifdef UMCTL2_A_LENW
+  `undef UMCTL2_A_LENW
+`endif
+
+`ifdef UMCTL2_A_NPORTS
+  `undef UMCTL2_A_NPORTS
+`endif
+
+`ifdef UMCTL2_A_NPORTS_0
+  `undef UMCTL2_A_NPORTS_0
+`endif
+
+`ifdef UMCTL2_A_NPORTS_GT_0
+  `undef UMCTL2_A_NPORTS_GT_0
+`endif
+
+`ifdef UMCTL2_A_NPORTS_LG2
+  `undef UMCTL2_A_NPORTS_LG2
+`endif
+
+`ifdef UMCTL2_A_NSAR
+  `undef UMCTL2_A_NSAR
+`endif
+
+`ifdef UMCTL2_A_QOSW
+  `undef UMCTL2_A_QOSW
+`endif
+
+`ifdef UMCTL2_A_SYNC_0
+  `undef UMCTL2_A_SYNC_0
+`endif
+
+`ifdef UMCTL2_A_SYNC_1
+  `undef UMCTL2_A_SYNC_1
+`endif
+
+`ifdef UMCTL2_A_SYNC_10
+  `undef UMCTL2_A_SYNC_10
+`endif
+
+`ifdef UMCTL2_A_SYNC_11
+  `undef UMCTL2_A_SYNC_11
+`endif
+
+`ifdef UMCTL2_A_SYNC_12
+  `undef UMCTL2_A_SYNC_12
+`endif
+
+`ifdef UMCTL2_A_SYNC_13
+  `undef UMCTL2_A_SYNC_13
+`endif
+
+`ifdef UMCTL2_A_SYNC_14
+  `undef UMCTL2_A_SYNC_14
+`endif
+
+`ifdef UMCTL2_A_SYNC_15
+  `undef UMCTL2_A_SYNC_15
+`endif
+
+`ifdef UMCTL2_A_SYNC_2
+  `undef UMCTL2_A_SYNC_2
+`endif
+
+`ifdef UMCTL2_A_SYNC_3
+  `undef UMCTL2_A_SYNC_3
+`endif
+
+`ifdef UMCTL2_A_SYNC_4
+  `undef UMCTL2_A_SYNC_4
+`endif
+
+`ifdef UMCTL2_A_SYNC_5
+  `undef UMCTL2_A_SYNC_5
+`endif
+
+`ifdef UMCTL2_A_SYNC_6
+  `undef UMCTL2_A_SYNC_6
+`endif
+
+`ifdef UMCTL2_A_SYNC_7
+  `undef UMCTL2_A_SYNC_7
+`endif
+
+`ifdef UMCTL2_A_SYNC_8
+  `undef UMCTL2_A_SYNC_8
+`endif
+
+`ifdef UMCTL2_A_SYNC_9
+  `undef UMCTL2_A_SYNC_9
+`endif
+
+`ifdef UMCTL2_A_SYNC_TABLE
+  `undef UMCTL2_A_SYNC_TABLE
+`endif
+
+`ifdef UMCTL2_A_TYPE_0
+  `undef UMCTL2_A_TYPE_0
+`endif
+
+`ifdef UMCTL2_A_TYPE_1
+  `undef UMCTL2_A_TYPE_1
+`endif
+
+`ifdef UMCTL2_A_TYPE_10
+  `undef UMCTL2_A_TYPE_10
+`endif
+
+`ifdef UMCTL2_A_TYPE_11
+  `undef UMCTL2_A_TYPE_11
+`endif
+
+`ifdef UMCTL2_A_TYPE_12
+  `undef UMCTL2_A_TYPE_12
+`endif
+
+`ifdef UMCTL2_A_TYPE_13
+  `undef UMCTL2_A_TYPE_13
+`endif
+
+`ifdef UMCTL2_A_TYPE_14
+  `undef UMCTL2_A_TYPE_14
+`endif
+
+`ifdef UMCTL2_A_TYPE_15
+  `undef UMCTL2_A_TYPE_15
+`endif
+
+`ifdef UMCTL2_A_TYPE_2
+  `undef UMCTL2_A_TYPE_2
+`endif
+
+`ifdef UMCTL2_A_TYPE_3
+  `undef UMCTL2_A_TYPE_3
+`endif
+
+`ifdef UMCTL2_A_TYPE_4
+  `undef UMCTL2_A_TYPE_4
+`endif
+
+`ifdef UMCTL2_A_TYPE_5
+  `undef UMCTL2_A_TYPE_5
+`endif
+
+`ifdef UMCTL2_A_TYPE_6
+  `undef UMCTL2_A_TYPE_6
+`endif
+
+`ifdef UMCTL2_A_TYPE_7
+  `undef UMCTL2_A_TYPE_7
+`endif
+
+`ifdef UMCTL2_A_TYPE_8
+  `undef UMCTL2_A_TYPE_8
+`endif
+
+`ifdef UMCTL2_A_TYPE_9
+  `undef UMCTL2_A_TYPE_9
+`endif
+
+`ifdef UMCTL2_BCM36_NHS_DELAY
+  `undef UMCTL2_BCM36_NHS_DELAY
+`endif
+
+`ifdef UMCTL2_BCM36_NHS_INJECT_X
+  `undef UMCTL2_BCM36_NHS_INJECT_X
+`endif
+
+`ifdef UMCTL2_BCM_REG_OUTPUTS_C2P
+  `undef UMCTL2_BCM_REG_OUTPUTS_C2P
+`endif
+
+`ifdef UMCTL2_BCM_REG_OUTPUTS_P2C
+  `undef UMCTL2_BCM_REG_OUTPUTS_P2C
+`endif
+
+`ifdef UMCTL2_BSM_BITS
+  `undef UMCTL2_BSM_BITS
+`endif
+
+`ifdef UMCTL2_CG_EN
+  `undef UMCTL2_CG_EN
+`endif
+
+`ifdef UMCTL2_CG_EN_1
+  `undef UMCTL2_CG_EN_1
+`endif
+
+`ifdef UMCTL2_CHB_TAGBITS
+  `undef UMCTL2_CHB_TAGBITS
+`endif
+
+`ifdef UMCTL2_CID_WIDTH
+  `undef UMCTL2_CID_WIDTH
+`endif
+
+`ifdef UMCTL2_CID_WIDTH_0
+  `undef UMCTL2_CID_WIDTH_0
+`endif
+
+`ifdef UMCTL2_CMD_DELAY_BITS
+  `undef UMCTL2_CMD_DELAY_BITS
+`endif
+
+`ifdef UMCTL2_CMD_LEN_BITS
+  `undef UMCTL2_CMD_LEN_BITS
+`endif
+
+`ifdef UMCTL2_DATARAM_PAR_DW
+  `undef UMCTL2_DATARAM_PAR_DW
+`endif
+
+`ifdef UMCTL2_DATARAM_PAR_DW_GUI
+  `undef UMCTL2_DATARAM_PAR_DW_GUI
+`endif
+
+`ifdef UMCTL2_DATARAM_PAR_DW_LG2
+  `undef UMCTL2_DATARAM_PAR_DW_LG2
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_EN
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_EN
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_0
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_0
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_1
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_1
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_10
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_10
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_11
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_11
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_12
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_12
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_13
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_13
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_14
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_14
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_15
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_15
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_2
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_2
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_3
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_3
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_4
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_4
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_5
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_5
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_6
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_6
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_7
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_7
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_8
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_8
+`endif
+
+`ifdef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_9
+  `undef UMCTL2_DATA_CHANNEL_INTERLEAVE_NS_9
+`endif
+
+`ifdef UMCTL2_DFI_0
+  `undef UMCTL2_DFI_0
+`endif
+
+`ifdef UMCTL2_DFI_1
+  `undef UMCTL2_DFI_1
+`endif
+
+`ifdef UMCTL2_DUAL_CHANNEL_EN
+  `undef UMCTL2_DUAL_CHANNEL_EN
+`endif
+
+`ifdef UMCTL2_DUAL_DFI
+  `undef UMCTL2_DUAL_DFI
+`endif
+
+`ifdef UMCTL2_DUAL_HIF
+  `undef UMCTL2_DUAL_HIF
+`endif
+
+`ifdef UMCTL2_DUAL_PA
+  `undef UMCTL2_DUAL_PA
+`endif
+
+`ifdef UMCTL2_DYN_BSM_EN
+  `undef UMCTL2_DYN_BSM_EN
+`endif
+
+`ifdef UMCTL2_DYN_BSM_OR_MEMC_ENH_CAM_PTR
+  `undef UMCTL2_DYN_BSM_OR_MEMC_ENH_CAM_PTR
+`endif
+
+`ifdef UMCTL2_DYN_BSM_OR_MEMC_ENH_RDWR_SWITCH
+  `undef UMCTL2_DYN_BSM_OR_MEMC_ENH_RDWR_SWITCH
+`endif
+
+`ifdef UMCTL2_EXCL_ACCESS
+  `undef UMCTL2_EXCL_ACCESS
+`endif
+
+`ifdef UMCTL2_EXCL_ACCESS_0
+  `undef UMCTL2_EXCL_ACCESS_0
+`endif
+
+`ifdef UMCTL2_EXCL_ACC_FLAG
+  `undef UMCTL2_EXCL_ACC_FLAG
+`endif
+
+`ifdef UMCTL2_EXT_PORTPRIO
+  `undef UMCTL2_EXT_PORTPRIO
+`endif
+
+`ifdef UMCTL2_FAST_FREQUENCY_CHANGE_EN
+  `undef UMCTL2_FAST_FREQUENCY_CHANGE_EN
+`endif
+
+`ifdef UMCTL2_FATL_BITS
+  `undef UMCTL2_FATL_BITS
+`endif
+
+`ifdef UMCTL2_FREQUENCY_NUM
+  `undef UMCTL2_FREQUENCY_NUM
+`endif
+
+`ifdef UMCTL2_FREQUENCY_NUM_GT_0
+  `undef UMCTL2_FREQUENCY_NUM_GT_0
+`endif
+
+`ifdef UMCTL2_GEARDOWN_DIS_TB
+  `undef UMCTL2_GEARDOWN_DIS_TB
+`endif
+
+`ifdef UMCTL2_HET_RANK_EN
+  `undef UMCTL2_HET_RANK_EN
+`endif
+
+`ifdef UMCTL2_HIF_INLINE_ECC_INTERNAL_TESTING
+  `undef UMCTL2_HIF_INLINE_ECC_INTERNAL_TESTING
+`endif
+
+`ifdef UMCTL2_HWFFC_EN_VAL
+  `undef UMCTL2_HWFFC_EN_VAL
+`endif
+
+`ifdef UMCTL2_INCL_ARB
+  `undef UMCTL2_INCL_ARB
+`endif
+
+`ifdef UMCTL2_INCL_ARB_OR_CHB
+  `undef UMCTL2_INCL_ARB_OR_CHB
+`endif
+
+`ifdef UMCTL2_INT_NPORTS
+  `undef UMCTL2_INT_NPORTS
+`endif
+
+`ifdef UMCTL2_INT_NPORTS_0
+  `undef UMCTL2_INT_NPORTS_0
+`endif
+
+`ifdef UMCTL2_INT_NPORTS_DATA
+  `undef UMCTL2_INT_NPORTS_DATA
+`endif
+
+`ifdef UMCTL2_LPDDR4_DQ_WHEN_MASKED
+  `undef UMCTL2_LPDDR4_DQ_WHEN_MASKED
+`endif
+
+`ifdef UMCTL2_LRANK_BITS
+  `undef UMCTL2_LRANK_BITS
+`endif
+
+`ifdef UMCTL2_MAX_AXI_ADDRW
+  `undef UMCTL2_MAX_AXI_ADDRW
+`endif
+
+`ifdef UMCTL2_MAX_AXI_DATAW
+  `undef UMCTL2_MAX_AXI_DATAW
+`endif
+
+`ifdef UMCTL2_MAX_AXI_TAGBITS
+  `undef UMCTL2_MAX_AXI_TAGBITS
+`endif
+
+`ifdef UMCTL2_MAX_CMD_DELAY
+  `undef UMCTL2_MAX_CMD_DELAY
+`endif
+
+`ifdef UMCTL2_MAX_NUM_STACKS
+  `undef UMCTL2_MAX_NUM_STACKS
+`endif
+
+`ifdef UMCTL2_MAX_PL
+  `undef UMCTL2_MAX_PL
+`endif
+
+`ifdef UMCTL2_MAX_XPI_PORT_DW
+  `undef UMCTL2_MAX_XPI_PORT_DW
+`endif
+
+`ifdef UMCTL2_MAX_XPI_PORT_DW_GTEQ_128
+  `undef UMCTL2_MAX_XPI_PORT_DW_GTEQ_128
+`endif
+
+`ifdef UMCTL2_MAX_XPI_PORT_DW_GTEQ_16
+  `undef UMCTL2_MAX_XPI_PORT_DW_GTEQ_16
+`endif
+
+`ifdef UMCTL2_MAX_XPI_PORT_DW_GTEQ_256
+  `undef UMCTL2_MAX_XPI_PORT_DW_GTEQ_256
+`endif
+
+`ifdef UMCTL2_MAX_XPI_PORT_DW_GTEQ_32
+  `undef UMCTL2_MAX_XPI_PORT_DW_GTEQ_32
+`endif
+
+`ifdef UMCTL2_MAX_XPI_PORT_DW_GTEQ_64
+  `undef UMCTL2_MAX_XPI_PORT_DW_GTEQ_64
+`endif
+
+`ifdef UMCTL2_MIN_ADDRW
+  `undef UMCTL2_MIN_ADDRW
+`endif
+
+`ifdef UMCTL2_M_BLW
+  `undef UMCTL2_M_BLW
+`endif
+
+`ifdef UMCTL2_NUM_BSM
+  `undef UMCTL2_NUM_BSM
+`endif
+
+`ifdef UMCTL2_NUM_DATA_CHANNEL
+  `undef UMCTL2_NUM_DATA_CHANNEL
+`endif
+
+`ifdef UMCTL2_NUM_DATA_CHANNEL_GT_0
+  `undef UMCTL2_NUM_DATA_CHANNEL_GT_0
+`endif
+
+`ifdef UMCTL2_NUM_DFI
+  `undef UMCTL2_NUM_DFI
+`endif
+
+`ifdef UMCTL2_NUM_LRANKS_TOTAL
+  `undef UMCTL2_NUM_LRANKS_TOTAL
+`endif
+
+`ifdef UMCTL2_NUM_LRANKS_TOTAL_1
+  `undef UMCTL2_NUM_LRANKS_TOTAL_1
+`endif
+
+`ifdef UMCTL2_NUM_LRANKS_TOTAL_GT_0
+  `undef UMCTL2_NUM_LRANKS_TOTAL_GT_0
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_0
+  `undef UMCTL2_NUM_VIR_CH_0
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_1
+  `undef UMCTL2_NUM_VIR_CH_1
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_10
+  `undef UMCTL2_NUM_VIR_CH_10
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_11
+  `undef UMCTL2_NUM_VIR_CH_11
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_12
+  `undef UMCTL2_NUM_VIR_CH_12
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_13
+  `undef UMCTL2_NUM_VIR_CH_13
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_14
+  `undef UMCTL2_NUM_VIR_CH_14
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_15
+  `undef UMCTL2_NUM_VIR_CH_15
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_2
+  `undef UMCTL2_NUM_VIR_CH_2
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_3
+  `undef UMCTL2_NUM_VIR_CH_3
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_4
+  `undef UMCTL2_NUM_VIR_CH_4
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_5
+  `undef UMCTL2_NUM_VIR_CH_5
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_6
+  `undef UMCTL2_NUM_VIR_CH_6
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_7
+  `undef UMCTL2_NUM_VIR_CH_7
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_8
+  `undef UMCTL2_NUM_VIR_CH_8
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_9
+  `undef UMCTL2_NUM_VIR_CH_9
+`endif
+
+`ifdef UMCTL2_NUM_VIR_CH_TABLE
+  `undef UMCTL2_NUM_VIR_CH_TABLE
+`endif
+
+`ifdef UMCTL2_OCCAP_DDRC_INTERNAL_TESTING
+  `undef UMCTL2_OCCAP_DDRC_INTERNAL_TESTING
+`endif
+
+`ifdef UMCTL2_OCCAP_EN
+  `undef UMCTL2_OCCAP_EN
+`endif
+
+`ifdef UMCTL2_OCCAP_PIPELINE_EN
+  `undef UMCTL2_OCCAP_PIPELINE_EN
+`endif
+
+`ifdef UMCTL2_OCECC_EN
+  `undef UMCTL2_OCECC_EN
+`endif
+
+`ifdef UMCTL2_OCPAR_ADDR_LOG_HIGH_WIDTH
+  `undef UMCTL2_OCPAR_ADDR_LOG_HIGH_WIDTH
+`endif
+
+`ifdef UMCTL2_OCPAR_ADDR_LOG_LOW_WIDTH
+  `undef UMCTL2_OCPAR_ADDR_LOG_LOW_WIDTH
+`endif
+
+`ifdef UMCTL2_OCPAR_ADDR_LOG_USE_MSB
+  `undef UMCTL2_OCPAR_ADDR_LOG_USE_MSB
+`endif
+
+`ifdef UMCTL2_OCPAR_ADDR_PARITY_W
+  `undef UMCTL2_OCPAR_ADDR_PARITY_W
+`endif
+
+`ifdef UMCTL2_OCPAR_ADDR_PARITY_WIDTH
+  `undef UMCTL2_OCPAR_ADDR_PARITY_WIDTH
+`endif
+
+`ifdef UMCTL2_OCPAR_EN
+  `undef UMCTL2_OCPAR_EN
+`endif
+
+`ifdef UMCTL2_OCPAR_POISON_DW
+  `undef UMCTL2_OCPAR_POISON_DW
+`endif
+
+`ifdef UMCTL2_OCPAR_SLICE_WIDTH
+  `undef UMCTL2_OCPAR_SLICE_WIDTH
+`endif
+
+`ifdef UMCTL2_OCPAR_WDATA_OUT_ERR_WIDTH
+  `undef UMCTL2_OCPAR_WDATA_OUT_ERR_WIDTH
+`endif
+
+`ifdef UMCTL2_PAGEMATCH_EN
+  `undef UMCTL2_PAGEMATCH_EN
+`endif
+
+`ifdef UMCTL2_PARTIAL_WR
+  `undef UMCTL2_PARTIAL_WR
+`endif
+
+`ifdef UMCTL2_PARTIAL_WR_BITS
+  `undef UMCTL2_PARTIAL_WR_BITS
+`endif
+
+`ifdef UMCTL2_PARTIAL_WR_EN
+  `undef UMCTL2_PARTIAL_WR_EN
+`endif
+
+`ifdef UMCTL2_PA_OPT_TYPE
+  `undef UMCTL2_PA_OPT_TYPE
+`endif
+
+`ifdef UMCTL2_PA_OPT_TYPE_COMB
+  `undef UMCTL2_PA_OPT_TYPE_COMB
+`endif
+
+`ifdef UMCTL2_PHY_0
+  `undef UMCTL2_PHY_0
+`endif
+
+`ifdef UMCTL2_PHY_SPECIAL_IDLE
+  `undef UMCTL2_PHY_SPECIAL_IDLE
+`endif
+
+`ifdef UMCTL2_PORT_0
+  `undef UMCTL2_PORT_0
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_0
+  `undef UMCTL2_PORT_DSIZE_0
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_1
+  `undef UMCTL2_PORT_DSIZE_1
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_10
+  `undef UMCTL2_PORT_DSIZE_10
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_11
+  `undef UMCTL2_PORT_DSIZE_11
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_12
+  `undef UMCTL2_PORT_DSIZE_12
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_13
+  `undef UMCTL2_PORT_DSIZE_13
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_14
+  `undef UMCTL2_PORT_DSIZE_14
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_15
+  `undef UMCTL2_PORT_DSIZE_15
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_2
+  `undef UMCTL2_PORT_DSIZE_2
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_3
+  `undef UMCTL2_PORT_DSIZE_3
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_4
+  `undef UMCTL2_PORT_DSIZE_4
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_5
+  `undef UMCTL2_PORT_DSIZE_5
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_6
+  `undef UMCTL2_PORT_DSIZE_6
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_7
+  `undef UMCTL2_PORT_DSIZE_7
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_8
+  `undef UMCTL2_PORT_DSIZE_8
+`endif
+
+`ifdef UMCTL2_PORT_DSIZE_9
+  `undef UMCTL2_PORT_DSIZE_9
+`endif
+
+`ifdef UMCTL2_PORT_DW_0
+  `undef UMCTL2_PORT_DW_0
+`endif
+
+`ifdef UMCTL2_PORT_DW_1
+  `undef UMCTL2_PORT_DW_1
+`endif
+
+`ifdef UMCTL2_PORT_DW_10
+  `undef UMCTL2_PORT_DW_10
+`endif
+
+`ifdef UMCTL2_PORT_DW_11
+  `undef UMCTL2_PORT_DW_11
+`endif
+
+`ifdef UMCTL2_PORT_DW_12
+  `undef UMCTL2_PORT_DW_12
+`endif
+
+`ifdef UMCTL2_PORT_DW_13
+  `undef UMCTL2_PORT_DW_13
+`endif
+
+`ifdef UMCTL2_PORT_DW_14
+  `undef UMCTL2_PORT_DW_14
+`endif
+
+`ifdef UMCTL2_PORT_DW_15
+  `undef UMCTL2_PORT_DW_15
+`endif
+
+`ifdef UMCTL2_PORT_DW_2
+  `undef UMCTL2_PORT_DW_2
+`endif
+
+`ifdef UMCTL2_PORT_DW_3
+  `undef UMCTL2_PORT_DW_3
+`endif
+
+`ifdef UMCTL2_PORT_DW_4
+  `undef UMCTL2_PORT_DW_4
+`endif
+
+`ifdef UMCTL2_PORT_DW_5
+  `undef UMCTL2_PORT_DW_5
+`endif
+
+`ifdef UMCTL2_PORT_DW_6
+  `undef UMCTL2_PORT_DW_6
+`endif
+
+`ifdef UMCTL2_PORT_DW_7
+  `undef UMCTL2_PORT_DW_7
+`endif
+
+`ifdef UMCTL2_PORT_DW_8
+  `undef UMCTL2_PORT_DW_8
+`endif
+
+`ifdef UMCTL2_PORT_DW_9
+  `undef UMCTL2_PORT_DW_9
+`endif
+
+`ifdef UMCTL2_PORT_DW_TABLE
+  `undef UMCTL2_PORT_DW_TABLE
+`endif
+
+`ifdef UMCTL2_PORT_EN_RESET_VALUE
+  `undef UMCTL2_PORT_EN_RESET_VALUE
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_0
+  `undef UMCTL2_PORT_NBYTES_0
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_1
+  `undef UMCTL2_PORT_NBYTES_1
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_10
+  `undef UMCTL2_PORT_NBYTES_10
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_11
+  `undef UMCTL2_PORT_NBYTES_11
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_12
+  `undef UMCTL2_PORT_NBYTES_12
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_13
+  `undef UMCTL2_PORT_NBYTES_13
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_14
+  `undef UMCTL2_PORT_NBYTES_14
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_15
+  `undef UMCTL2_PORT_NBYTES_15
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_2
+  `undef UMCTL2_PORT_NBYTES_2
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_3
+  `undef UMCTL2_PORT_NBYTES_3
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_4
+  `undef UMCTL2_PORT_NBYTES_4
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_5
+  `undef UMCTL2_PORT_NBYTES_5
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_6
+  `undef UMCTL2_PORT_NBYTES_6
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_7
+  `undef UMCTL2_PORT_NBYTES_7
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_8
+  `undef UMCTL2_PORT_NBYTES_8
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_9
+  `undef UMCTL2_PORT_NBYTES_9
+`endif
+
+`ifdef UMCTL2_PORT_NBYTES_MAX
+  `undef UMCTL2_PORT_NBYTES_MAX
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_0
+  `undef UMCTL2_PORT_USIZE_0
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_1
+  `undef UMCTL2_PORT_USIZE_1
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_10
+  `undef UMCTL2_PORT_USIZE_10
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_11
+  `undef UMCTL2_PORT_USIZE_11
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_12
+  `undef UMCTL2_PORT_USIZE_12
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_13
+  `undef UMCTL2_PORT_USIZE_13
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_14
+  `undef UMCTL2_PORT_USIZE_14
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_15
+  `undef UMCTL2_PORT_USIZE_15
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_2
+  `undef UMCTL2_PORT_USIZE_2
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_3
+  `undef UMCTL2_PORT_USIZE_3
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_4
+  `undef UMCTL2_PORT_USIZE_4
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_5
+  `undef UMCTL2_PORT_USIZE_5
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_6
+  `undef UMCTL2_PORT_USIZE_6
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_7
+  `undef UMCTL2_PORT_USIZE_7
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_8
+  `undef UMCTL2_PORT_USIZE_8
+`endif
+
+`ifdef UMCTL2_PORT_USIZE_9
+  `undef UMCTL2_PORT_USIZE_9
+`endif
+
+`ifdef UMCTL2_P_AP_ASYNC_ANY
+  `undef UMCTL2_P_AP_ASYNC_ANY
+`endif
+
+`ifdef UMCTL2_P_ASYNC
+  `undef UMCTL2_P_ASYNC
+`endif
+
+`ifdef UMCTL2_P_ASYNC_EN
+  `undef UMCTL2_P_ASYNC_EN
+`endif
+
+`ifdef UMCTL2_P_SYNC_RATIO
+  `undef UMCTL2_P_SYNC_RATIO
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE
+  `undef UMCTL2_RAQ_TABLE
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_0
+  `undef UMCTL2_RAQ_TABLE_0
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_1
+  `undef UMCTL2_RAQ_TABLE_1
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_10
+  `undef UMCTL2_RAQ_TABLE_10
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_11
+  `undef UMCTL2_RAQ_TABLE_11
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_12
+  `undef UMCTL2_RAQ_TABLE_12
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_13
+  `undef UMCTL2_RAQ_TABLE_13
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_14
+  `undef UMCTL2_RAQ_TABLE_14
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_15
+  `undef UMCTL2_RAQ_TABLE_15
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_2
+  `undef UMCTL2_RAQ_TABLE_2
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_3
+  `undef UMCTL2_RAQ_TABLE_3
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_4
+  `undef UMCTL2_RAQ_TABLE_4
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_5
+  `undef UMCTL2_RAQ_TABLE_5
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_6
+  `undef UMCTL2_RAQ_TABLE_6
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_7
+  `undef UMCTL2_RAQ_TABLE_7
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_8
+  `undef UMCTL2_RAQ_TABLE_8
+`endif
+
+`ifdef UMCTL2_RAQ_TABLE_9
+  `undef UMCTL2_RAQ_TABLE_9
+`endif
+
+`ifdef UMCTL2_RDATARAM_AW
+  `undef UMCTL2_RDATARAM_AW
+`endif
+
+`ifdef UMCTL2_RDATARAM_DEPTH
+  `undef UMCTL2_RDATARAM_DEPTH
+`endif
+
+`ifdef UMCTL2_RDATARAM_DW
+  `undef UMCTL2_RDATARAM_DW
+`endif
+
+`ifdef UMCTL2_RDIMM_DIS_TB
+  `undef UMCTL2_RDIMM_DIS_TB
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_0
+  `undef UMCTL2_RDWR_ORDERED_0
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_1
+  `undef UMCTL2_RDWR_ORDERED_1
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_10
+  `undef UMCTL2_RDWR_ORDERED_10
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_11
+  `undef UMCTL2_RDWR_ORDERED_11
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_12
+  `undef UMCTL2_RDWR_ORDERED_12
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_13
+  `undef UMCTL2_RDWR_ORDERED_13
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_14
+  `undef UMCTL2_RDWR_ORDERED_14
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_15
+  `undef UMCTL2_RDWR_ORDERED_15
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_2
+  `undef UMCTL2_RDWR_ORDERED_2
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_3
+  `undef UMCTL2_RDWR_ORDERED_3
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_4
+  `undef UMCTL2_RDWR_ORDERED_4
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_5
+  `undef UMCTL2_RDWR_ORDERED_5
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_6
+  `undef UMCTL2_RDWR_ORDERED_6
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_7
+  `undef UMCTL2_RDWR_ORDERED_7
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_8
+  `undef UMCTL2_RDWR_ORDERED_8
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_9
+  `undef UMCTL2_RDWR_ORDERED_9
+`endif
+
+`ifdef UMCTL2_RDWR_ORDERED_TABLE
+  `undef UMCTL2_RDWR_ORDERED_TABLE
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_0
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_0
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_1
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_1
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_10
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_10
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_11
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_11
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_12
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_12
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_13
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_13
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_14
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_14
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_15
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_15
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_2
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_2
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_3
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_3
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_4
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_4
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_5
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_5
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_6
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_6
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_7
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_7
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_8
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_8
+`endif
+
+`ifdef UMCTL2_READ_DATA_INTERLEAVE_EN_9
+  `undef UMCTL2_READ_DATA_INTERLEAVE_EN_9
+`endif
+
+`ifdef UMCTL2_REF_RDWR_SWITCH_EN
+  `undef UMCTL2_REF_RDWR_SWITCH_EN
+`endif
+
+`ifdef UMCTL2_REGPAR_EN
+  `undef UMCTL2_REGPAR_EN
+`endif
+
+`ifdef UMCTL2_REGPAR_TYPE
+  `undef UMCTL2_REGPAR_TYPE
+`endif
+
+`ifdef UMCTL2_REGPAR_TYPE_0
+  `undef UMCTL2_REGPAR_TYPE_0
+`endif
+
+`ifdef UMCTL2_REGS_DYN_REGS
+  `undef UMCTL2_REGS_DYN_REGS
+`endif
+
+`ifdef UMCTL2_REGS_DYN_REGS_ACLK
+  `undef UMCTL2_REGS_DYN_REGS_ACLK
+`endif
+
+`ifdef UMCTL2_REGS_DYN_REGS_ACLK_UNIQUE
+  `undef UMCTL2_REGS_DYN_REGS_ACLK_UNIQUE
+`endif
+
+`ifdef UMCTL2_REGS_DYN_REGS_CCLK
+  `undef UMCTL2_REGS_DYN_REGS_CCLK
+`endif
+
+`ifdef UMCTL2_REGS_DYN_REGS_PCLK
+  `undef UMCTL2_REGS_DYN_REGS_PCLK
+`endif
+
+`ifdef UMCTL2_REGS_DYN_REG_BITFIELDS
+  `undef UMCTL2_REGS_DYN_REG_BITFIELDS
+`endif
+
+`ifdef UMCTL2_REGS_DYN_REG_FIELDS
+  `undef UMCTL2_REGS_DYN_REG_FIELDS
+`endif
+
+`ifdef UMCTL2_REGS_DYN_REG_FIELDS_LEN
+  `undef UMCTL2_REGS_DYN_REG_FIELDS_LEN
+`endif
+
+`ifdef UMCTL2_REGS_N_QUASI_DYN
+  `undef UMCTL2_REGS_N_QUASI_DYN
+`endif
+
+`ifdef UMCTL2_REGS_N_QUASI_DYN_LEN
+  `undef UMCTL2_REGS_N_QUASI_DYN_LEN
+`endif
+
+`ifdef UMCTL2_REGS_N_QUASI_DYN_STAT_REG
+  `undef UMCTL2_REGS_N_QUASI_DYN_STAT_REG
+`endif
+
+`ifdef UMCTL2_REGS_N_REGS
+  `undef UMCTL2_REGS_N_REGS
+`endif
+
+`ifdef UMCTL2_REGS_N_RO
+  `undef UMCTL2_REGS_N_RO
+`endif
+
+`ifdef UMCTL2_REGS_N_RO_BITFIELDS
+  `undef UMCTL2_REGS_N_RO_BITFIELDS
+`endif
+
+`ifdef UMCTL2_REGS_N_RO_FIELDS
+  `undef UMCTL2_REGS_N_RO_FIELDS
+`endif
+
+`ifdef UMCTL2_REGS_N_RO_MULTIBITFIELDS
+  `undef UMCTL2_REGS_N_RO_MULTIBITFIELDS
+`endif
+
+`ifdef UMCTL2_REGS_N_RO_MULTIBITFIELDS_LEN
+  `undef UMCTL2_REGS_N_RO_MULTIBITFIELDS_LEN
+`endif
+
+`ifdef UMCTL2_REGS_N_STATIC
+  `undef UMCTL2_REGS_N_STATIC
+`endif
+
+`ifdef UMCTL2_REGS_N_STATIC_LEN
+  `undef UMCTL2_REGS_N_STATIC_LEN
+`endif
+
+`ifdef UMCTL2_REGS_N_W1C_FIELDS
+  `undef UMCTL2_REGS_N_W1C_FIELDS
+`endif
+
+`ifdef UMCTL2_REGS_N_W1S_FIELDS
+  `undef UMCTL2_REGS_N_W1S_FIELDS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ADDR_MAP0
+  `undef UMCTL2_REGS_REGB_ADDR_MAP0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ADDR_MAP0_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ADDR_MAP0_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ADDR_MAP0_RANGE
+  `undef UMCTL2_REGS_REGB_ADDR_MAP0_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ADDR_MAP1
+  `undef UMCTL2_REGS_REGB_ADDR_MAP1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ADDR_MAP1_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ADDR_MAP1_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ADDR_MAP1_RANGE
+  `undef UMCTL2_REGS_REGB_ADDR_MAP1_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ADDR_MAP2
+  `undef UMCTL2_REGS_REGB_ADDR_MAP2
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ADDR_MAP3
+  `undef UMCTL2_REGS_REGB_ADDR_MAP3
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT0
+  `undef UMCTL2_REGS_REGB_ARB_PORT0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT0_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT0_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT0_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT0_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT1
+  `undef UMCTL2_REGS_REGB_ARB_PORT1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT10
+  `undef UMCTL2_REGS_REGB_ARB_PORT10
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT10_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT10_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT10_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT10_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT11
+  `undef UMCTL2_REGS_REGB_ARB_PORT11
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT11_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT11_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT11_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT11_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT12
+  `undef UMCTL2_REGS_REGB_ARB_PORT12
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT12_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT12_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT12_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT12_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT13
+  `undef UMCTL2_REGS_REGB_ARB_PORT13
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT13_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT13_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT13_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT13_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT14
+  `undef UMCTL2_REGS_REGB_ARB_PORT14
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT14_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT14_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT14_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT14_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT15
+  `undef UMCTL2_REGS_REGB_ARB_PORT15
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT15_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT15_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT15_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT15_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT1_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT1_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT1_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT1_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT2
+  `undef UMCTL2_REGS_REGB_ARB_PORT2
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT2_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT2_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT2_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT2_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT3
+  `undef UMCTL2_REGS_REGB_ARB_PORT3
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT3_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT3_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT3_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT3_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT4
+  `undef UMCTL2_REGS_REGB_ARB_PORT4
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT4_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT4_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT4_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT4_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT5
+  `undef UMCTL2_REGS_REGB_ARB_PORT5
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT5_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT5_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT5_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT5_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT6
+  `undef UMCTL2_REGS_REGB_ARB_PORT6
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT6_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT6_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT6_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT6_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT7
+  `undef UMCTL2_REGS_REGB_ARB_PORT7
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT7_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT7_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT7_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT7_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT8
+  `undef UMCTL2_REGS_REGB_ARB_PORT8
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT8_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT8_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT8_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT8_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT9
+  `undef UMCTL2_REGS_REGB_ARB_PORT9
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT9_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_ARB_PORT9_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_ARB_PORT9_RANGE
+  `undef UMCTL2_REGS_REGB_ARB_PORT9_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_DDRC_CH0
+  `undef UMCTL2_REGS_REGB_DDRC_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_DDRC_CH0_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_DDRC_CH0_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_DDRC_CH0_RANGE
+  `undef UMCTL2_REGS_REGB_DDRC_CH0_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_DDRC_CH1
+  `undef UMCTL2_REGS_REGB_DDRC_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_DDRC_CH1_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_DDRC_CH1_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_DDRC_CH1_RANGE
+  `undef UMCTL2_REGS_REGB_DDRC_CH1_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ0_CH0
+  `undef UMCTL2_REGS_REGB_FREQ0_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ0_CH0_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_FREQ0_CH0_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ0_CH0_RANGE
+  `undef UMCTL2_REGS_REGB_FREQ0_CH0_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ0_CH1
+  `undef UMCTL2_REGS_REGB_FREQ0_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ0_CH1_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_FREQ0_CH1_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ0_CH1_RANGE
+  `undef UMCTL2_REGS_REGB_FREQ0_CH1_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ10_CH0
+  `undef UMCTL2_REGS_REGB_FREQ10_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ10_CH1
+  `undef UMCTL2_REGS_REGB_FREQ10_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ11_CH0
+  `undef UMCTL2_REGS_REGB_FREQ11_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ11_CH1
+  `undef UMCTL2_REGS_REGB_FREQ11_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ12_CH0
+  `undef UMCTL2_REGS_REGB_FREQ12_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ12_CH1
+  `undef UMCTL2_REGS_REGB_FREQ12_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ13_CH0
+  `undef UMCTL2_REGS_REGB_FREQ13_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ13_CH1
+  `undef UMCTL2_REGS_REGB_FREQ13_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ14_CH0
+  `undef UMCTL2_REGS_REGB_FREQ14_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ14_CH1
+  `undef UMCTL2_REGS_REGB_FREQ14_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ1_CH0
+  `undef UMCTL2_REGS_REGB_FREQ1_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ1_CH0_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_FREQ1_CH0_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ1_CH0_RANGE
+  `undef UMCTL2_REGS_REGB_FREQ1_CH0_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ1_CH1
+  `undef UMCTL2_REGS_REGB_FREQ1_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ1_CH1_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_FREQ1_CH1_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ1_CH1_RANGE
+  `undef UMCTL2_REGS_REGB_FREQ1_CH1_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ2_CH0
+  `undef UMCTL2_REGS_REGB_FREQ2_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ2_CH0_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_FREQ2_CH0_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ2_CH0_RANGE
+  `undef UMCTL2_REGS_REGB_FREQ2_CH0_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ2_CH1
+  `undef UMCTL2_REGS_REGB_FREQ2_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ2_CH1_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_FREQ2_CH1_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ2_CH1_RANGE
+  `undef UMCTL2_REGS_REGB_FREQ2_CH1_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ3_CH0
+  `undef UMCTL2_REGS_REGB_FREQ3_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ3_CH0_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_FREQ3_CH0_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ3_CH0_RANGE
+  `undef UMCTL2_REGS_REGB_FREQ3_CH0_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ3_CH1
+  `undef UMCTL2_REGS_REGB_FREQ3_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ3_CH1_BASE_ADDRESS
+  `undef UMCTL2_REGS_REGB_FREQ3_CH1_BASE_ADDRESS
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ3_CH1_RANGE
+  `undef UMCTL2_REGS_REGB_FREQ3_CH1_RANGE
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ4_CH0
+  `undef UMCTL2_REGS_REGB_FREQ4_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ4_CH1
+  `undef UMCTL2_REGS_REGB_FREQ4_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ5_CH0
+  `undef UMCTL2_REGS_REGB_FREQ5_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ5_CH1
+  `undef UMCTL2_REGS_REGB_FREQ5_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ6_CH0
+  `undef UMCTL2_REGS_REGB_FREQ6_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ6_CH1
+  `undef UMCTL2_REGS_REGB_FREQ6_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ7_CH0
+  `undef UMCTL2_REGS_REGB_FREQ7_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ7_CH1
+  `undef UMCTL2_REGS_REGB_FREQ7_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ8_CH0
+  `undef UMCTL2_REGS_REGB_FREQ8_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ8_CH1
+  `undef UMCTL2_REGS_REGB_FREQ8_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ9_CH0
+  `undef UMCTL2_REGS_REGB_FREQ9_CH0
+`endif
+
+`ifdef UMCTL2_REGS_REGB_FREQ9_CH1
+  `undef UMCTL2_REGS_REGB_FREQ9_CH1
+`endif
+
+`ifdef UMCTL2_REGS_REG_WIDTH
+  `undef UMCTL2_REGS_REG_WIDTH
+`endif
+
+`ifdef UMCTL2_REGS_RO_BITFIELDS_CCLK
+  `undef UMCTL2_REGS_RO_BITFIELDS_CCLK
+`endif
+
+`ifdef UMCTL2_REGS_RW_REGS
+  `undef UMCTL2_REGS_RW_REGS
+`endif
+
+`ifdef UMCTL2_REGS_UMCTL2_MAX_ADDR
+  `undef UMCTL2_REGS_UMCTL2_MAX_ADDR
+`endif
+
+`ifdef UMCTL2_REG_SCRUB_INTERVALW
+  `undef UMCTL2_REG_SCRUB_INTERVALW
+`endif
+
+`ifdef UMCTL2_RESET_WIDTH
+  `undef UMCTL2_RESET_WIDTH
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_0
+  `undef UMCTL2_RRB_EXTRAM_0
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_1
+  `undef UMCTL2_RRB_EXTRAM_1
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_10
+  `undef UMCTL2_RRB_EXTRAM_10
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_11
+  `undef UMCTL2_RRB_EXTRAM_11
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_12
+  `undef UMCTL2_RRB_EXTRAM_12
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_13
+  `undef UMCTL2_RRB_EXTRAM_13
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_14
+  `undef UMCTL2_RRB_EXTRAM_14
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_15
+  `undef UMCTL2_RRB_EXTRAM_15
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_2
+  `undef UMCTL2_RRB_EXTRAM_2
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_3
+  `undef UMCTL2_RRB_EXTRAM_3
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_4
+  `undef UMCTL2_RRB_EXTRAM_4
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_5
+  `undef UMCTL2_RRB_EXTRAM_5
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_6
+  `undef UMCTL2_RRB_EXTRAM_6
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_7
+  `undef UMCTL2_RRB_EXTRAM_7
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_8
+  `undef UMCTL2_RRB_EXTRAM_8
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_9
+  `undef UMCTL2_RRB_EXTRAM_9
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_0
+  `undef UMCTL2_RRB_EXTRAM_REG_0
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_1
+  `undef UMCTL2_RRB_EXTRAM_REG_1
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_10
+  `undef UMCTL2_RRB_EXTRAM_REG_10
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_11
+  `undef UMCTL2_RRB_EXTRAM_REG_11
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_12
+  `undef UMCTL2_RRB_EXTRAM_REG_12
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_13
+  `undef UMCTL2_RRB_EXTRAM_REG_13
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_14
+  `undef UMCTL2_RRB_EXTRAM_REG_14
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_15
+  `undef UMCTL2_RRB_EXTRAM_REG_15
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_2
+  `undef UMCTL2_RRB_EXTRAM_REG_2
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_3
+  `undef UMCTL2_RRB_EXTRAM_REG_3
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_4
+  `undef UMCTL2_RRB_EXTRAM_REG_4
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_5
+  `undef UMCTL2_RRB_EXTRAM_REG_5
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_6
+  `undef UMCTL2_RRB_EXTRAM_REG_6
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_7
+  `undef UMCTL2_RRB_EXTRAM_REG_7
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_8
+  `undef UMCTL2_RRB_EXTRAM_REG_8
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_9
+  `undef UMCTL2_RRB_EXTRAM_REG_9
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_0
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_0
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_1
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_1
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_10
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_10
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_11
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_11
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_12
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_12
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_13
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_13
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_14
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_14
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_15
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_15
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_2
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_2
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_3
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_3
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_4
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_4
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_5
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_5
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_6
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_6
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_7
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_7
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_8
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_8
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_ENABLED_9
+  `undef UMCTL2_RRB_EXTRAM_REG_ENABLED_9
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_REG_TABLE
+  `undef UMCTL2_RRB_EXTRAM_REG_TABLE
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_0
+  `undef UMCTL2_RRB_EXTRAM_RETIME_0
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_1
+  `undef UMCTL2_RRB_EXTRAM_RETIME_1
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_10
+  `undef UMCTL2_RRB_EXTRAM_RETIME_10
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_11
+  `undef UMCTL2_RRB_EXTRAM_RETIME_11
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_12
+  `undef UMCTL2_RRB_EXTRAM_RETIME_12
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_13
+  `undef UMCTL2_RRB_EXTRAM_RETIME_13
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_14
+  `undef UMCTL2_RRB_EXTRAM_RETIME_14
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_15
+  `undef UMCTL2_RRB_EXTRAM_RETIME_15
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_2
+  `undef UMCTL2_RRB_EXTRAM_RETIME_2
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_3
+  `undef UMCTL2_RRB_EXTRAM_RETIME_3
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_4
+  `undef UMCTL2_RRB_EXTRAM_RETIME_4
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_5
+  `undef UMCTL2_RRB_EXTRAM_RETIME_5
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_6
+  `undef UMCTL2_RRB_EXTRAM_RETIME_6
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_7
+  `undef UMCTL2_RRB_EXTRAM_RETIME_7
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_8
+  `undef UMCTL2_RRB_EXTRAM_RETIME_8
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_RETIME_9
+  `undef UMCTL2_RRB_EXTRAM_RETIME_9
+`endif
+
+`ifdef UMCTL2_RRB_EXTRAM_TABLE
+  `undef UMCTL2_RRB_EXTRAM_TABLE
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_0
+  `undef UMCTL2_RRB_THRESHOLD_EN_0
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_1
+  `undef UMCTL2_RRB_THRESHOLD_EN_1
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_10
+  `undef UMCTL2_RRB_THRESHOLD_EN_10
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_11
+  `undef UMCTL2_RRB_THRESHOLD_EN_11
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_12
+  `undef UMCTL2_RRB_THRESHOLD_EN_12
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_13
+  `undef UMCTL2_RRB_THRESHOLD_EN_13
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_14
+  `undef UMCTL2_RRB_THRESHOLD_EN_14
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_15
+  `undef UMCTL2_RRB_THRESHOLD_EN_15
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_2
+  `undef UMCTL2_RRB_THRESHOLD_EN_2
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_3
+  `undef UMCTL2_RRB_THRESHOLD_EN_3
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_4
+  `undef UMCTL2_RRB_THRESHOLD_EN_4
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_5
+  `undef UMCTL2_RRB_THRESHOLD_EN_5
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_6
+  `undef UMCTL2_RRB_THRESHOLD_EN_6
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_7
+  `undef UMCTL2_RRB_THRESHOLD_EN_7
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_8
+  `undef UMCTL2_RRB_THRESHOLD_EN_8
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_EN_9
+  `undef UMCTL2_RRB_THRESHOLD_EN_9
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_0
+  `undef UMCTL2_RRB_THRESHOLD_PPL_0
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_1
+  `undef UMCTL2_RRB_THRESHOLD_PPL_1
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_10
+  `undef UMCTL2_RRB_THRESHOLD_PPL_10
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_11
+  `undef UMCTL2_RRB_THRESHOLD_PPL_11
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_12
+  `undef UMCTL2_RRB_THRESHOLD_PPL_12
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_13
+  `undef UMCTL2_RRB_THRESHOLD_PPL_13
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_14
+  `undef UMCTL2_RRB_THRESHOLD_PPL_14
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_15
+  `undef UMCTL2_RRB_THRESHOLD_PPL_15
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_2
+  `undef UMCTL2_RRB_THRESHOLD_PPL_2
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_3
+  `undef UMCTL2_RRB_THRESHOLD_PPL_3
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_4
+  `undef UMCTL2_RRB_THRESHOLD_PPL_4
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_5
+  `undef UMCTL2_RRB_THRESHOLD_PPL_5
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_6
+  `undef UMCTL2_RRB_THRESHOLD_PPL_6
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_7
+  `undef UMCTL2_RRB_THRESHOLD_PPL_7
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_8
+  `undef UMCTL2_RRB_THRESHOLD_PPL_8
+`endif
+
+`ifdef UMCTL2_RRB_THRESHOLD_PPL_9
+  `undef UMCTL2_RRB_THRESHOLD_PPL_9
+`endif
+
+`ifdef UMCTL2_RTL_ASSERTIONS_ALL_EN
+  `undef UMCTL2_RTL_ASSERTIONS_ALL_EN
+`endif
+
+`ifdef UMCTL2_SARMINSIZE
+  `undef UMCTL2_SARMINSIZE
+`endif
+
+`ifdef UMCTL2_SAR_MAXNBLOCKS
+  `undef UMCTL2_SAR_MAXNBLOCKS
+`endif
+
+`ifdef UMCTL2_SAR_MINBLOCKSIZEBYTES
+  `undef UMCTL2_SAR_MINBLOCKSIZEBYTES
+`endif
+
+`ifdef UMCTL2_SAR_MIN_ADDRW
+  `undef UMCTL2_SAR_MIN_ADDRW
+`endif
+
+`ifdef UMCTL2_SBR_EN
+  `undef UMCTL2_SBR_EN
+`endif
+
+`ifdef UMCTL2_SDRAM_BL16_SUPPORTED
+  `undef UMCTL2_SDRAM_BL16_SUPPORTED
+`endif
+
+`ifdef UMCTL2_SEQ_BURST_MODE
+  `undef UMCTL2_SEQ_BURST_MODE
+`endif
+
+`ifdef UMCTL2_SHARED_AC_EN
+  `undef UMCTL2_SHARED_AC_EN
+`endif
+
+`ifdef UMCTL2_SINGLE_PORT
+  `undef UMCTL2_SINGLE_PORT
+`endif
+
+`ifdef UMCTL2_SINGLE_PORT_1
+  `undef UMCTL2_SINGLE_PORT_1
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_0
+  `undef UMCTL2_STATIC_VIR_CH_0
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_1
+  `undef UMCTL2_STATIC_VIR_CH_1
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_10
+  `undef UMCTL2_STATIC_VIR_CH_10
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_11
+  `undef UMCTL2_STATIC_VIR_CH_11
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_12
+  `undef UMCTL2_STATIC_VIR_CH_12
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_13
+  `undef UMCTL2_STATIC_VIR_CH_13
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_14
+  `undef UMCTL2_STATIC_VIR_CH_14
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_15
+  `undef UMCTL2_STATIC_VIR_CH_15
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_2
+  `undef UMCTL2_STATIC_VIR_CH_2
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_3
+  `undef UMCTL2_STATIC_VIR_CH_3
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_4
+  `undef UMCTL2_STATIC_VIR_CH_4
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_5
+  `undef UMCTL2_STATIC_VIR_CH_5
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_6
+  `undef UMCTL2_STATIC_VIR_CH_6
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_7
+  `undef UMCTL2_STATIC_VIR_CH_7
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_8
+  `undef UMCTL2_STATIC_VIR_CH_8
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_9
+  `undef UMCTL2_STATIC_VIR_CH_9
+`endif
+
+`ifdef UMCTL2_STATIC_VIR_CH_TABLE
+  `undef UMCTL2_STATIC_VIR_CH_TABLE
+`endif
+
+`ifdef UMCTL2_TOKENW
+  `undef UMCTL2_TOKENW
+`endif
+
+`ifdef UMCTL2_TOT_INTERLEAVE_NS
+  `undef UMCTL2_TOT_INTERLEAVE_NS
+`endif
+
+`ifdef UMCTL2_TOT_USE2RAQ
+  `undef UMCTL2_TOT_USE2RAQ
+`endif
+
+`ifdef UMCTL2_USE_SCANMODE
+  `undef UMCTL2_USE_SCANMODE
+`endif
+
+`ifdef UMCTL2_VPR_EN_VAL
+  `undef UMCTL2_VPR_EN_VAL
+`endif
+
+`ifdef UMCTL2_VPW_EN_VAL
+  `undef UMCTL2_VPW_EN_VAL
+`endif
+
+`ifdef UMCTL2_WDATARAM_AW
+  `undef UMCTL2_WDATARAM_AW
+`endif
+
+`ifdef UMCTL2_WDATARAM_DEPTH
+  `undef UMCTL2_WDATARAM_DEPTH
+`endif
+
+`ifdef UMCTL2_WDATARAM_DW
+  `undef UMCTL2_WDATARAM_DW
+`endif
+
+`ifdef UMCTL2_WDATARAM_PAR_DW
+  `undef UMCTL2_WDATARAM_PAR_DW
+`endif
+
+`ifdef UMCTL2_WDATARAM_PAR_DW_EXT
+  `undef UMCTL2_WDATARAM_PAR_DW_EXT
+`endif
+
+`ifdef UMCTL2_WDATARAM_PAR_DW_GUI
+  `undef UMCTL2_WDATARAM_PAR_DW_GUI
+`endif
+
+`ifdef UMCTL2_WDATA_EXTRAM
+  `undef UMCTL2_WDATA_EXTRAM
+`endif
+
+`ifdef UMCTL2_XPI_NBEATS
+  `undef UMCTL2_XPI_NBEATS
+`endif
+
+`ifdef UMCTL2_XPI_NBEATS_LG2
+  `undef UMCTL2_XPI_NBEATS_LG2
+`endif
+
+`ifdef UMCTL2_XPI_OUTS_RDW
+  `undef UMCTL2_XPI_OUTS_RDW
+`endif
+
+`ifdef UMCTL2_XPI_OUTS_WRW
+  `undef UMCTL2_XPI_OUTS_WRW
+`endif
+
+`ifdef UMCTL2_XPI_RARD
+  `undef UMCTL2_XPI_RARD
+`endif
+
+`ifdef UMCTL2_XPI_RD_BEAT_INFOW
+  `undef UMCTL2_XPI_RD_BEAT_INFOW
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_0
+  `undef UMCTL2_XPI_RD_INFOW_0
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_1
+  `undef UMCTL2_XPI_RD_INFOW_1
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_10
+  `undef UMCTL2_XPI_RD_INFOW_10
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_11
+  `undef UMCTL2_XPI_RD_INFOW_11
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_12
+  `undef UMCTL2_XPI_RD_INFOW_12
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_13
+  `undef UMCTL2_XPI_RD_INFOW_13
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_14
+  `undef UMCTL2_XPI_RD_INFOW_14
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_15
+  `undef UMCTL2_XPI_RD_INFOW_15
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_2
+  `undef UMCTL2_XPI_RD_INFOW_2
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_3
+  `undef UMCTL2_XPI_RD_INFOW_3
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_4
+  `undef UMCTL2_XPI_RD_INFOW_4
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_5
+  `undef UMCTL2_XPI_RD_INFOW_5
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_6
+  `undef UMCTL2_XPI_RD_INFOW_6
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_7
+  `undef UMCTL2_XPI_RD_INFOW_7
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_8
+  `undef UMCTL2_XPI_RD_INFOW_8
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_9
+  `undef UMCTL2_XPI_RD_INFOW_9
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_0
+  `undef UMCTL2_XPI_RD_INFOW_NSA_0
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_1
+  `undef UMCTL2_XPI_RD_INFOW_NSA_1
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_10
+  `undef UMCTL2_XPI_RD_INFOW_NSA_10
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_11
+  `undef UMCTL2_XPI_RD_INFOW_NSA_11
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_12
+  `undef UMCTL2_XPI_RD_INFOW_NSA_12
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_13
+  `undef UMCTL2_XPI_RD_INFOW_NSA_13
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_14
+  `undef UMCTL2_XPI_RD_INFOW_NSA_14
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_15
+  `undef UMCTL2_XPI_RD_INFOW_NSA_15
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_2
+  `undef UMCTL2_XPI_RD_INFOW_NSA_2
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_3
+  `undef UMCTL2_XPI_RD_INFOW_NSA_3
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_4
+  `undef UMCTL2_XPI_RD_INFOW_NSA_4
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_5
+  `undef UMCTL2_XPI_RD_INFOW_NSA_5
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_6
+  `undef UMCTL2_XPI_RD_INFOW_NSA_6
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_7
+  `undef UMCTL2_XPI_RD_INFOW_NSA_7
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_8
+  `undef UMCTL2_XPI_RD_INFOW_NSA_8
+`endif
+
+`ifdef UMCTL2_XPI_RD_INFOW_NSA_9
+  `undef UMCTL2_XPI_RD_INFOW_NSA_9
+`endif
+
+`ifdef UMCTL2_XPI_RMW_WARD
+  `undef UMCTL2_XPI_RMW_WARD
+`endif
+
+`ifdef UMCTL2_XPI_RMW_WDQD
+  `undef UMCTL2_XPI_RMW_WDQD
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_0
+  `undef UMCTL2_XPI_RP_HINFOW_0
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_1
+  `undef UMCTL2_XPI_RP_HINFOW_1
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_10
+  `undef UMCTL2_XPI_RP_HINFOW_10
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_11
+  `undef UMCTL2_XPI_RP_HINFOW_11
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_12
+  `undef UMCTL2_XPI_RP_HINFOW_12
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_13
+  `undef UMCTL2_XPI_RP_HINFOW_13
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_14
+  `undef UMCTL2_XPI_RP_HINFOW_14
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_15
+  `undef UMCTL2_XPI_RP_HINFOW_15
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_2
+  `undef UMCTL2_XPI_RP_HINFOW_2
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_3
+  `undef UMCTL2_XPI_RP_HINFOW_3
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_4
+  `undef UMCTL2_XPI_RP_HINFOW_4
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_5
+  `undef UMCTL2_XPI_RP_HINFOW_5
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_6
+  `undef UMCTL2_XPI_RP_HINFOW_6
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_7
+  `undef UMCTL2_XPI_RP_HINFOW_7
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_8
+  `undef UMCTL2_XPI_RP_HINFOW_8
+`endif
+
+`ifdef UMCTL2_XPI_RP_HINFOW_9
+  `undef UMCTL2_XPI_RP_HINFOW_9
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_0
+  `undef UMCTL2_XPI_RP_INFOW_0
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_1
+  `undef UMCTL2_XPI_RP_INFOW_1
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_10
+  `undef UMCTL2_XPI_RP_INFOW_10
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_11
+  `undef UMCTL2_XPI_RP_INFOW_11
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_12
+  `undef UMCTL2_XPI_RP_INFOW_12
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_13
+  `undef UMCTL2_XPI_RP_INFOW_13
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_14
+  `undef UMCTL2_XPI_RP_INFOW_14
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_15
+  `undef UMCTL2_XPI_RP_INFOW_15
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_2
+  `undef UMCTL2_XPI_RP_INFOW_2
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_3
+  `undef UMCTL2_XPI_RP_INFOW_3
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_4
+  `undef UMCTL2_XPI_RP_INFOW_4
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_5
+  `undef UMCTL2_XPI_RP_INFOW_5
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_6
+  `undef UMCTL2_XPI_RP_INFOW_6
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_7
+  `undef UMCTL2_XPI_RP_INFOW_7
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_8
+  `undef UMCTL2_XPI_RP_INFOW_8
+`endif
+
+`ifdef UMCTL2_XPI_RP_INFOW_9
+  `undef UMCTL2_XPI_RP_INFOW_9
+`endif
+
+`ifdef UMCTL2_XPI_RQOS_MLW
+  `undef UMCTL2_XPI_RQOS_MLW
+`endif
+
+`ifdef UMCTL2_XPI_RQOS_RW
+  `undef UMCTL2_XPI_RQOS_RW
+`endif
+
+`ifdef UMCTL2_XPI_RQOS_TW
+  `undef UMCTL2_XPI_RQOS_TW
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_0
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_0
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_1
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_1
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_10
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_10
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_11
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_11
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_12
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_12
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_13
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_13
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_14
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_14
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_15
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_15
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_2
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_2
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_3
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_3
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_4
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_4
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_5
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_5
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_6
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_6
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_7
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_7
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_8
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_8
+`endif
+
+`ifdef UMCTL2_XPI_SMALL_SIZED_PORT_9
+  `undef UMCTL2_XPI_SMALL_SIZED_PORT_9
+`endif
+
+`ifdef UMCTL2_XPI_SQD
+  `undef UMCTL2_XPI_SQD
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_0
+  `undef UMCTL2_XPI_USE2RAQ_0
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_1
+  `undef UMCTL2_XPI_USE2RAQ_1
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_10
+  `undef UMCTL2_XPI_USE2RAQ_10
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_11
+  `undef UMCTL2_XPI_USE2RAQ_11
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_12
+  `undef UMCTL2_XPI_USE2RAQ_12
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_13
+  `undef UMCTL2_XPI_USE2RAQ_13
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_14
+  `undef UMCTL2_XPI_USE2RAQ_14
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_15
+  `undef UMCTL2_XPI_USE2RAQ_15
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_2
+  `undef UMCTL2_XPI_USE2RAQ_2
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_3
+  `undef UMCTL2_XPI_USE2RAQ_3
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_4
+  `undef UMCTL2_XPI_USE2RAQ_4
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_5
+  `undef UMCTL2_XPI_USE2RAQ_5
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_6
+  `undef UMCTL2_XPI_USE2RAQ_6
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_7
+  `undef UMCTL2_XPI_USE2RAQ_7
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_8
+  `undef UMCTL2_XPI_USE2RAQ_8
+`endif
+
+`ifdef UMCTL2_XPI_USE2RAQ_9
+  `undef UMCTL2_XPI_USE2RAQ_9
+`endif
+
+`ifdef UMCTL2_XPI_USE_INPUT_RAR
+  `undef UMCTL2_XPI_USE_INPUT_RAR
+`endif
+
+`ifdef UMCTL2_XPI_USE_RAR
+  `undef UMCTL2_XPI_USE_RAR
+`endif
+
+`ifdef UMCTL2_XPI_USE_RDR
+  `undef UMCTL2_XPI_USE_RDR
+`endif
+
+`ifdef UMCTL2_XPI_USE_RMW
+  `undef UMCTL2_XPI_USE_RMW
+`endif
+
+`ifdef UMCTL2_XPI_USE_RPR
+  `undef UMCTL2_XPI_USE_RPR
+`endif
+
+`ifdef UMCTL2_XPI_USE_WAR
+  `undef UMCTL2_XPI_USE_WAR
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN
+  `undef UMCTL2_XPI_VPR_EN
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_0
+  `undef UMCTL2_XPI_VPR_EN_0
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_1
+  `undef UMCTL2_XPI_VPR_EN_1
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_10
+  `undef UMCTL2_XPI_VPR_EN_10
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_11
+  `undef UMCTL2_XPI_VPR_EN_11
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_12
+  `undef UMCTL2_XPI_VPR_EN_12
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_13
+  `undef UMCTL2_XPI_VPR_EN_13
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_14
+  `undef UMCTL2_XPI_VPR_EN_14
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_15
+  `undef UMCTL2_XPI_VPR_EN_15
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_2
+  `undef UMCTL2_XPI_VPR_EN_2
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_3
+  `undef UMCTL2_XPI_VPR_EN_3
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_4
+  `undef UMCTL2_XPI_VPR_EN_4
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_5
+  `undef UMCTL2_XPI_VPR_EN_5
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_6
+  `undef UMCTL2_XPI_VPR_EN_6
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_7
+  `undef UMCTL2_XPI_VPR_EN_7
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_8
+  `undef UMCTL2_XPI_VPR_EN_8
+`endif
+
+`ifdef UMCTL2_XPI_VPR_EN_9
+  `undef UMCTL2_XPI_VPR_EN_9
+`endif
+
+`ifdef UMCTL2_XPI_VPT_EN
+  `undef UMCTL2_XPI_VPT_EN
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN
+  `undef UMCTL2_XPI_VPW_EN
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_0
+  `undef UMCTL2_XPI_VPW_EN_0
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_1
+  `undef UMCTL2_XPI_VPW_EN_1
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_10
+  `undef UMCTL2_XPI_VPW_EN_10
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_11
+  `undef UMCTL2_XPI_VPW_EN_11
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_12
+  `undef UMCTL2_XPI_VPW_EN_12
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_13
+  `undef UMCTL2_XPI_VPW_EN_13
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_14
+  `undef UMCTL2_XPI_VPW_EN_14
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_15
+  `undef UMCTL2_XPI_VPW_EN_15
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_2
+  `undef UMCTL2_XPI_VPW_EN_2
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_3
+  `undef UMCTL2_XPI_VPW_EN_3
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_4
+  `undef UMCTL2_XPI_VPW_EN_4
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_5
+  `undef UMCTL2_XPI_VPW_EN_5
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_6
+  `undef UMCTL2_XPI_VPW_EN_6
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_7
+  `undef UMCTL2_XPI_VPW_EN_7
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_8
+  `undef UMCTL2_XPI_VPW_EN_8
+`endif
+
+`ifdef UMCTL2_XPI_VPW_EN_9
+  `undef UMCTL2_XPI_VPW_EN_9
+`endif
+
+`ifdef UMCTL2_XPI_WARD
+  `undef UMCTL2_XPI_WARD
+`endif
+
+`ifdef UMCTL2_XPI_WDATA_PTR_QD
+  `undef UMCTL2_XPI_WDATA_PTR_QD
+`endif
+
+`ifdef UMCTL2_XPI_WQOS_MLW
+  `undef UMCTL2_XPI_WQOS_MLW
+`endif
+
+`ifdef UMCTL2_XPI_WQOS_RW
+  `undef UMCTL2_XPI_WQOS_RW
+`endif
+
+`ifdef UMCTL2_XPI_WQOS_TW
+  `undef UMCTL2_XPI_WQOS_TW
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_0
+  `undef UMCTL2_XPI_WR_INFOW_0
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_1
+  `undef UMCTL2_XPI_WR_INFOW_1
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_10
+  `undef UMCTL2_XPI_WR_INFOW_10
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_11
+  `undef UMCTL2_XPI_WR_INFOW_11
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_12
+  `undef UMCTL2_XPI_WR_INFOW_12
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_13
+  `undef UMCTL2_XPI_WR_INFOW_13
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_14
+  `undef UMCTL2_XPI_WR_INFOW_14
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_15
+  `undef UMCTL2_XPI_WR_INFOW_15
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_2
+  `undef UMCTL2_XPI_WR_INFOW_2
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_3
+  `undef UMCTL2_XPI_WR_INFOW_3
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_4
+  `undef UMCTL2_XPI_WR_INFOW_4
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_5
+  `undef UMCTL2_XPI_WR_INFOW_5
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_6
+  `undef UMCTL2_XPI_WR_INFOW_6
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_7
+  `undef UMCTL2_XPI_WR_INFOW_7
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_8
+  `undef UMCTL2_XPI_WR_INFOW_8
+`endif
+
+`ifdef UMCTL2_XPI_WR_INFOW_9
+  `undef UMCTL2_XPI_WR_INFOW_9
+`endif
+
+`ifdef UMCTL_A_HIF
+  `undef UMCTL_A_HIF
+`endif
+
+`ifdef UMCTL_LOG2
+  `undef UMCTL_LOG2
+`endif
+
+`ifdef UPCTL2_EN
+  `undef UPCTL2_EN
+`endif
+
+`ifdef UPCTL2_POSTED_WRITE_EN
+  `undef UPCTL2_POSTED_WRITE_EN
+`endif
+
+`ifdef USE2RAQ0
+  `undef USE2RAQ0
+`endif
+
+`ifdef USE2RAQ1
+  `undef USE2RAQ1
+`endif
+
+`ifdef USE2RAQ10
+  `undef USE2RAQ10
+`endif
+
+`ifdef USE2RAQ11
+  `undef USE2RAQ11
+`endif
+
+`ifdef USE2RAQ12
+  `undef USE2RAQ12
+`endif
+
+`ifdef USE2RAQ13
+  `undef USE2RAQ13
+`endif
+
+`ifdef USE2RAQ14
+  `undef USE2RAQ14
+`endif
+
+`ifdef USE2RAQ15
+  `undef USE2RAQ15
+`endif
+
+`ifdef USE2RAQ2
+  `undef USE2RAQ2
+`endif
+
+`ifdef USE2RAQ3
+  `undef USE2RAQ3
+`endif
+
+`ifdef USE2RAQ4
+  `undef USE2RAQ4
+`endif
+
+`ifdef USE2RAQ5
+  `undef USE2RAQ5
+`endif
+
+`ifdef USE2RAQ6
+  `undef USE2RAQ6
+`endif
+
+`ifdef USE2RAQ7
+  `undef USE2RAQ7
+`endif
+
+`ifdef USE2RAQ8
+  `undef USE2RAQ8
+`endif
+
+`ifdef USE2RAQ9
+  `undef USE2RAQ9
+`endif
+
+`ifdef USE_FOUNDATION
+  `undef USE_FOUNDATION
+`endif
+
+`ifdef __GUARD__DDRC_PARAMETERS__SVH__
+  `undef __GUARD__DDRC_PARAMETERS__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_ALL_DEFS__SVH__
+  `undef __GUARD__DWC_DDRCTL_ALL_DEFS__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_APB_DEFINES__SVH__
+  `undef __GUARD__DWC_DDRCTL_APB_DEFINES__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_CC_CONSTANTS__SVH__
+  `undef __GUARD__DWC_DDRCTL_CC_CONSTANTS__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_CHB_CC_CONSTANTS__SVH__
+  `undef __GUARD__DWC_DDRCTL_CHB_CC_CONSTANTS__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_DDRC_CPEDFI_IF__SVH__
+  `undef __GUARD__DWC_DDRCTL_DDRC_CPEDFI_IF__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_DDRC_CPEDP_IF__SVH__
+  `undef __GUARD__DWC_DDRCTL_DDRC_CPEDP_IF__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_DDRC_CPFCPE_IF__SVH__
+  `undef __GUARD__DWC_DDRCTL_DDRC_CPFCPE_IF__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_DDRC_CPFDP_IF__SVH__
+  `undef __GUARD__DWC_DDRCTL_DDRC_CPFDP_IF__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_DFI_PKG__SVH__
+  `undef __GUARD__DWC_DDRCTL_DFI_PKG__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_RAM_CC_CONSTANTS__SVH__
+  `undef __GUARD__DWC_DDRCTL_RAM_CC_CONSTANTS__SVH__
+`endif
+
+`ifdef __GUARD__DWC_DDRCTL_REG_PKG__SVH__
+  `undef __GUARD__DWC_DDRCTL_REG_PKG__SVH__
+`endif
+
+`ifdef __dwc_ddrctl_tb_dfi_mux__sv__
+  `undef __dwc_ddrctl_tb_dfi_mux__sv__
+`endif
+
+`ifdef __dwc_ddrctl_tb_hif_mux__sv__
+  `undef __dwc_ddrctl_tb_hif_mux__sv__
+`endif
+
+`ifdef assert_coreclk
+  `undef assert_coreclk
+`endif
+
+`ifdef assert_rise_coreclk
+  `undef assert_rise_coreclk
+`endif
+
+`ifdef assert_x_value
+  `undef assert_x_value
+`endif
+
+`ifdef assert_yyclk
+  `undef assert_yyclk
+`endif
+
+`ifdef log2
+  `undef log2
+`endif
+
